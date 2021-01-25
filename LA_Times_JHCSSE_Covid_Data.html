@@ -16116,7 +16116,7 @@ Highest Upward Trend Worldwide (&gt; 500k population)
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[17]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[19]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">cd</span> /Users/justinleung/Notebooks
@@ -16124,7 +16124,7 @@ Highest Upward Trend Worldwide (&gt; 500k population)
 <span class="o">!</span>ls -ltr
 <span class="o">!</span>jupyter nbconvert --to html LA_Times_JHCSSE_Covid_Data.ipynb
 <span class="o">!</span>cp LA_Times_JHCSSE_Covid_Data.html /Users/justinleung/github/kjieldsen.github.io/LA_Times_JHCSSE_Covid_Data.html
-<span class="o">!</span><span class="nb">cd</span> /Users/justinleung/github/kjieldsen.github.io
+<span class="o">%</span><span class="k">cd</span> /Users/justinleung/github/kjieldsen.github.io
 <span class="o">!</span>git add --all
 <span class="o">!</span>git commit -m <span class="s2">&quot;update covid stats&quot;</span>
 <span class="o">!</span>git push -u origin main
@@ -16147,518 +16147,79 @@ Highest Upward Trend Worldwide (&gt; 500k population)
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>/Users/justinleung/github/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports
-total 298960
--rw-r--r--  1 justinleung  staff    3550 Mar 17  2020 02-19-2020.csv
--rw-r--r--  1 justinleung  staff    4050 Mar 17  2020 02-23-2020.csv
--rw-r--r--  1 justinleung  staff    4261 Mar 17  2020 02-24-2020.csv
--rw-r--r--  1 justinleung  staff    4415 Mar 17  2020 02-25-2020.csv
--rw-r--r--  1 justinleung  staff       0 Mar 17  2020 README.md
--rw-r--r--  1 justinleung  staff    5140 Jan  1 23:10 02-28-2020.csv
--rw-r--r--  1 justinleung  staff    5360 Jan  1 23:10 02-29-2020.csv
--rw-r--r--  1 justinleung  staff    8453 Jan  1 23:10 03-02-2020.csv
--rw-r--r--  1 justinleung  staff    9066 Jan  1 23:10 03-03-2020.csv
--rw-r--r--  1 justinleung  staff    9593 Jan  1 23:10 03-04-2020.csv
--rw-r--r--  1 justinleung  staff   10441 Jan  1 23:10 03-05-2020.csv
--rw-r--r--  1 justinleung  staff   12065 Jan  1 23:10 03-06-2020.csv
--rw-r--r--  1 justinleung  staff   13821 Jan  1 23:10 03-07-2020.csv
--rw-r--r--  1 justinleung  staff   11838 Jan  1 23:10 03-10-2020.csv
--rw-r--r--  1 justinleung  staff   12128 Jan  1 23:10 03-11-2020.csv
--rw-r--r--  1 justinleung  staff   13283 Jan  1 23:10 03-13-2020.csv
--rw-r--r--  1 justinleung  staff   14165 Jan  1 23:10 03-14-2020.csv
--rw-r--r--  1 justinleung  staff   15773 Jan  1 23:10 03-17-2020.csv
--rw-r--r--  1 justinleung  staff   16253 Jan  1 23:10 03-18-2020.csv
--rw-r--r--  1 justinleung  staff   16744 Jan  1 23:10 03-19-2020.csv
--rw-r--r--  1 justinleung  staff  348709 Jan  1 23:10 03-23-2020.csv
--rw-r--r--  1 justinleung  staff  349326 Jan  1 23:10 03-25-2020.csv
--rw-r--r--  1 justinleung  staff  349551 Jan  1 23:10 03-26-2020.csv
--rw-r--r--  1 justinleung  staff  350323 Jan  1 23:10 03-27-2020.csv
--rw-r--r--  1 justinleung  staff  248074 Jan  1 23:10 03-31-2020.csv
--rw-r--r--  1 justinleung  staff  241532 Jan  8 00:17 04-02-2020.csv
--rw-r--r--  1 justinleung  staff  264615 Jan  8 00:17 04-06-2020.csv
--rw-r--r--  1 justinleung  staff  294753 Jan  8 00:17 04-08-2020.csv
--rw-r--r--  1 justinleung  staff  297788 Jan  8 00:17 04-09-2020.csv
--rw-r--r--  1 justinleung  staff  300989 Jan  8 00:17 04-10-2020.csv
--rw-r--r--  1 justinleung  staff  303693 Jan  8 00:17 04-11-2020.csv
--rw-r--r--  1 justinleung  staff  305334 Jan  8 00:17 04-12-2020.csv
--rw-r--r--  1 justinleung  staff  309806 Jan  8 00:17 04-13-2020.csv
--rw-r--r--  1 justinleung  staff  311132 Jan  8 00:17 04-14-2020.csv
--rw-r--r--  1 justinleung  staff  312621 Jan  8 00:17 04-15-2020.csv
--rw-r--r--  1 justinleung  staff  314290 Jan  8 00:17 04-16-2020.csv
--rw-r--r--  1 justinleung  staff  314912 Jan  8 00:17 04-17-2020.csv
--rw-r--r--  1 justinleung  staff  312945 Jan  8 00:17 04-18-2020.csv
--rw-r--r--  1 justinleung  staff  314954 Jan  8 00:17 04-19-2020.csv
--rw-r--r--  1 justinleung  staff  317242 Jan  8 00:17 04-20-2020.csv
--rw-r--r--  1 justinleung  staff  318439 Jan  8 00:17 04-21-2020.csv
--rw-r--r--  1 justinleung  staff  319367 Jan  8 00:17 04-22-2020.csv
--rw-r--r--  1 justinleung  staff  321513 Jan  8 00:17 04-23-2020.csv
--rw-r--r--  1 justinleung  staff  330996 Jan 10 18:16 05-01-2020.csv
--rw-r--r--  1 justinleung  staff  331568 Jan 10 18:16 05-02-2020.csv
--rw-r--r--  1 justinleung  staff  332213 Jan 10 18:16 05-03-2020.csv
--rw-r--r--  1 justinleung  staff  332632 Jan 10 18:16 05-04-2020.csv
--rw-r--r--  1 justinleung  staff  334364 Jan 10 18:16 05-06-2020.csv
--rw-r--r--  1 justinleung  staff  335174 Jan 10 18:16 05-07-2020.csv
--rw-r--r--  1 justinleung  staff  334410 Jan 10 18:16 05-09-2020.csv
--rw-r--r--  1 justinleung  staff  334628 Jan 10 18:16 05-10-2020.csv
--rw-r--r--  1 justinleung  staff  334718 Jan 10 18:16 05-11-2020.csv
--rw-r--r--  1 justinleung  staff  335042 Jan 10 18:16 05-12-2020.csv
--rw-r--r--  1 justinleung  staff  335350 Jan 10 18:16 05-13-2020.csv
--rw-r--r--  1 justinleung  staff  341007 Jan 10 18:16 05-14-2020.csv
--rw-r--r--  1 justinleung  staff  341692 Jan 10 18:16 05-15-2020.csv
--rw-r--r--  1 justinleung  staff  342154 Jan 10 18:16 05-16-2020.csv
--rw-r--r--  1 justinleung  staff  342538 Jan 10 18:16 05-17-2020.csv
--rw-r--r--  1 justinleung  staff  342651 Jan 10 18:16 05-18-2020.csv
--rw-r--r--  1 justinleung  staff  343321 Jan 10 18:16 05-19-2020.csv
--rw-r--r--  1 justinleung  staff  352543 Jan 10 18:16 05-24-2020.csv
--rw-r--r--  1 justinleung  staff  352650 Jan 10 18:16 05-25-2020.csv
--rw-r--r--  1 justinleung  staff  352881 Jan 10 18:16 05-26-2020.csv
--rw-r--r--  1 justinleung  staff  362921 Jan 10 18:16 05-28-2020.csv
--rw-r--r--  1 justinleung  staff  469237 Jan 10 18:16 05-29-2020.csv
--rw-r--r--  1 justinleung  staff  469846 Jan 10 18:16 05-30-2020.csv
--rw-r--r--  1 justinleung  staff  470102 Jan 10 18:16 05-31-2020.csv
--rw-r--r--  1 justinleung  staff  486560 Jan 10 18:16 06-01-2020.csv
--rw-r--r--  1 justinleung  staff  487337 Jan 10 18:16 06-02-2020.csv
--rw-r--r--  1 justinleung  staff  488132 Jan 10 18:16 06-03-2020.csv
--rw-r--r--  1 justinleung  staff  488402 Jan 10 18:16 06-04-2020.csv
--rw-r--r--  1 justinleung  staff  491718 Jan 10 18:16 06-05-2020.csv
--rw-r--r--  1 justinleung  staff  492463 Jan 10 18:16 06-06-2020.csv
--rw-r--r--  1 justinleung  staff  492558 Jan 10 18:16 06-07-2020.csv
--rw-r--r--  1 justinleung  staff  492619 Jan 10 18:16 06-08-2020.csv
--rw-r--r--  1 justinleung  staff  494599 Jan 10 18:16 06-09-2020.csv
--rw-r--r--  1 justinleung  staff  500711 Jan 10 18:16 06-10-2020.csv
--rw-r--r--  1 justinleung  staff  501879 Jan 10 18:16 06-11-2020.csv
--rw-r--r--  1 justinleung  staff  502205 Jan 10 18:16 06-12-2020.csv
--rw-r--r--  1 justinleung  staff  502871 Jan 10 18:16 06-13-2020.csv
--rw-r--r--  1 justinleung  staff  503038 Jan 10 18:16 06-14-2020.csv
--rw-r--r--  1 justinleung  staff  503829 Jan 10 18:16 06-15-2020.csv
--rw-r--r--  1 justinleung  staff  503959 Jan 10 18:16 06-16-2020.csv
--rw-r--r--  1 justinleung  staff  504188 Jan 10 18:16 06-17-2020.csv
--rw-r--r--  1 justinleung  staff  504665 Jan 10 18:16 06-18-2020.csv
--rw-r--r--  1 justinleung  staff  506676 Jan 10 18:16 06-19-2020.csv
--rw-r--r--  1 justinleung  staff  507489 Jan 10 18:16 06-20-2020.csv
--rw-r--r--  1 justinleung  staff  507313 Jan 10 18:16 06-21-2020.csv
--rw-r--r--  1 justinleung  staff  506261 Jan 10 18:16 06-22-2020.csv
--rw-r--r--  1 justinleung  staff  507344 Jan 10 18:16 06-23-2020.csv
--rw-r--r--  1 justinleung  staff  510297 Jan 10 18:16 06-25-2020.csv
--rw-r--r--  1 justinleung  staff  510181 Jan 10 18:16 06-26-2020.csv
--rw-r--r--  1 justinleung  staff  510823 Jan 10 18:16 06-27-2020.csv
--rw-r--r--  1 justinleung  staff  511080 Jan 10 18:16 06-28-2020.csv
--rw-r--r--  1 justinleung  staff  497207 Jan 10 18:16 06-29-2020.csv
--rw-r--r--  1 justinleung  staff  512113 Jan 10 18:16 06-30-2020.csv
--rw-r--r--  1 justinleung  staff  512472 Jan 10 18:16 07-01-2020.csv
--rw-r--r--  1 justinleung  staff  514190 Jan 10 18:16 07-02-2020.csv
--rw-r--r--  1 justinleung  staff  513854 Jan 10 18:16 07-03-2020.csv
--rw-r--r--  1 justinleung  staff  514138 Jan 10 18:16 07-04-2020.csv
--rw-r--r--  1 justinleung  staff  514428 Jan 10 18:16 07-05-2020.csv
--rw-r--r--  1 justinleung  staff  515992 Jan 10 18:16 07-08-2020.csv
--rw-r--r--  1 justinleung  staff  516512 Jan 10 18:16 07-09-2020.csv
--rw-r--r--  1 justinleung  staff  518727 Jan 10 18:16 07-10-2020.csv
--rw-r--r--  1 justinleung  staff  518771 Jan 10 18:16 07-11-2020.csv
--rw-r--r--  1 justinleung  staff  519370 Jan 10 18:16 07-12-2020.csv
--rw-r--r--  1 justinleung  staff  518454 Jan 10 18:16 07-13-2020.csv
--rw-r--r--  1 justinleung  staff  519319 Jan 10 18:16 07-14-2020.csv
--rw-r--r--  1 justinleung  staff  519794 Jan 10 18:16 07-15-2020.csv
--rw-r--r--  1 justinleung  staff  520169 Jan 10 18:16 07-16-2020.csv
--rw-r--r--  1 justinleung  staff  522589 Jan 10 18:16 07-17-2020.csv
--rw-r--r--  1 justinleung  staff  533636 Jan 10 18:16 07-18-2020.csv
--rw-r--r--  1 justinleung  staff  535554 Jan 10 18:16 07-20-2020.csv
--rw-r--r--  1 justinleung  staff  535209 Jan 10 18:16 07-21-2020.csv
--rw-r--r--  1 justinleung  staff  540389 Jan 10 18:16 08-03-2020.csv
--rw-r--r--  1 justinleung  staff  540814 Jan 10 18:16 08-04-2020.csv
--rw-r--r--  1 justinleung  staff  543107 Jan 10 18:16 08-15-2020.csv
--rwxr-xr-x  1 justinleung  staff    1634 Jan 14 17:33 <span class="ansi-red-fg">01-22-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    1795 Jan 14 17:33 <span class="ansi-red-fg">01-23-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    1656 Jan 14 17:33 <span class="ansi-red-fg">01-24-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    1748 Jan 14 17:33 <span class="ansi-red-fg">01-25-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    1851 Jan 14 17:33 <span class="ansi-red-fg">01-26-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    1999 Jan 14 17:33 <span class="ansi-red-fg">01-27-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    2051 Jan 14 17:33 <span class="ansi-red-fg">01-28-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    2131 Jan 14 17:33 <span class="ansi-red-fg">01-29-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    2279 Jan 14 17:33 <span class="ansi-red-fg">01-30-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    2506 Jan 14 17:33 <span class="ansi-red-fg">01-31-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    2717 Jan 14 17:33 <span class="ansi-red-fg">02-01-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3083 Jan 14 17:33 <span class="ansi-red-fg">02-02-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3132 Jan 14 17:33 <span class="ansi-red-fg">02-03-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3225 Jan 14 17:33 <span class="ansi-red-fg">02-04-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3270 Jan 14 17:33 <span class="ansi-red-fg">02-05-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3274 Jan 14 17:33 <span class="ansi-red-fg">02-06-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3330 Jan 14 17:33 <span class="ansi-red-fg">02-07-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3336 Jan 14 17:33 <span class="ansi-red-fg">02-08-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3356 Jan 14 17:33 <span class="ansi-red-fg">02-09-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3360 Jan 14 17:33 <span class="ansi-red-fg">02-10-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3416 Jan 14 17:33 <span class="ansi-red-fg">02-11-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3419 Jan 14 17:33 <span class="ansi-red-fg">02-12-2020.csv</span>
--rwxr-xr-x  1 justinleung  staff    3470 Jan 14 17:33 <span class="ansi-red-fg">02-13-2020.csv</span>
--rw-r--r--  1 justinleung  staff    3504 Jan 14 17:33 02-14-2020.csv
--rw-r--r--  1 justinleung  staff    3509 Jan 14 17:33 02-15-2020.csv
--rw-r--r--  1 justinleung  staff    3510 Jan 14 17:33 02-16-2020.csv
--rw-r--r--  1 justinleung  staff    3511 Jan 14 17:33 02-17-2020.csv
--rw-r--r--  1 justinleung  staff    3514 Jan 14 17:33 02-18-2020.csv
--rw-r--r--  1 justinleung  staff    3551 Jan 14 17:33 02-20-2020.csv
--rw-r--r--  1 justinleung  staff    3941 Jan 14 17:33 02-21-2020.csv
--rw-r--r--  1 justinleung  staff    4011 Jan 14 17:33 02-22-2020.csv
--rw-r--r--  1 justinleung  staff    4647 Jan 14 17:33 02-26-2020.csv
--rw-r--r--  1 justinleung  staff    4796 Jan 14 17:33 02-27-2020.csv
--rw-r--r--  1 justinleung  staff    7504 Jan 14 17:33 03-01-2020.csv
--rw-r--r--  1 justinleung  staff   15783 Jan 14 17:33 03-08-2020.csv
--rw-r--r--  1 justinleung  staff   16451 Jan 14 17:33 03-09-2020.csv
--rw-r--r--  1 justinleung  staff   12233 Jan 14 17:33 03-12-2020.csv
--rw-r--r--  1 justinleung  staff   14734 Jan 14 17:33 03-15-2020.csv
--rw-r--r--  1 justinleung  staff   15536 Jan 14 17:33 03-16-2020.csv
--rw-r--r--  1 justinleung  staff   17167 Jan 14 17:33 03-20-2020.csv
--rw-r--r--  1 justinleung  staff   17483 Jan 14 17:33 03-21-2020.csv
--rw-r--r--  1 justinleung  staff  324844 Jan 14 17:33 03-22-2020.csv
--rw-r--r--  1 justinleung  staff  348883 Jan 14 17:33 03-24-2020.csv
--rw-r--r--  1 justinleung  staff  326317 Jan 14 17:33 03-28-2020.csv
--rw-r--r--  1 justinleung  staff  326775 Jan 14 17:33 03-29-2020.csv
--rw-r--r--  1 justinleung  staff  327316 Jan 14 17:33 03-30-2020.csv
--rw-r--r--  1 justinleung  staff  253279 Jan 14 17:33 04-01-2020.csv
--rw-r--r--  1 justinleung  staff  267917 Jan 14 17:33 04-03-2020.csv
--rw-r--r--  1 justinleung  staff  252186 Jan 14 17:33 04-04-2020.csv
--rw-r--r--  1 justinleung  staff  282294 Jan 14 17:33 04-05-2020.csv
--rw-r--r--  1 justinleung  staff  292030 Jan 14 17:33 04-07-2020.csv
--rw-r--r--  1 justinleung  staff  322399 Jan 14 17:33 04-24-2020.csv
--rw-r--r--  1 justinleung  staff  323123 Jan 14 17:33 04-25-2020.csv
--rw-r--r--  1 justinleung  staff  324088 Jan 14 17:33 04-26-2020.csv
--rw-r--r--  1 justinleung  staff  325213 Jan 14 17:33 04-27-2020.csv
--rw-r--r--  1 justinleung  staff  326480 Jan 14 17:33 04-28-2020.csv
--rw-r--r--  1 justinleung  staff  328796 Jan 14 17:33 04-29-2020.csv
--rw-r--r--  1 justinleung  staff  329814 Jan 14 17:33 04-30-2020.csv
--rw-r--r--  1 justinleung  staff  333495 Jan 14 17:33 05-05-2020.csv
--rw-r--r--  1 justinleung  staff  334088 Jan 14 17:33 05-08-2020.csv
--rw-r--r--  1 justinleung  staff  350645 Jan 14 17:33 05-20-2020.csv
--rw-r--r--  1 justinleung  staff  350878 Jan 14 17:33 05-21-2020.csv
--rw-r--r--  1 justinleung  staff  351759 Jan 14 17:33 05-22-2020.csv
--rw-r--r--  1 justinleung  staff  352012 Jan 14 17:33 05-23-2020.csv
--rw-r--r--  1 justinleung  staff  353299 Jan 14 17:33 05-27-2020.csv
--rw-r--r--  1 justinleung  staff  508986 Jan 14 17:33 06-24-2020.csv
--rw-r--r--  1 justinleung  staff  514958 Jan 14 17:33 07-06-2020.csv
--rw-r--r--  1 justinleung  staff  515515 Jan 14 17:33 07-07-2020.csv
--rw-r--r--  1 justinleung  staff  533918 Jan 14 17:33 07-19-2020.csv
--rw-r--r--  1 justinleung  staff  543049 Jan 14 17:33 08-16-2020.csv
--rw-r--r--  1 justinleung  staff  566974 Jan 15 18:58 01-09-2021.csv
--rw-r--r--  1 justinleung  staff  567015 Jan 15 18:58 01-10-2021.csv
--rw-r--r--  1 justinleung  staff  567167 Jan 15 18:58 01-11-2021.csv
--rw-r--r--  1 justinleung  staff  567196 Jan 15 18:58 01-12-2021.csv
--rw-r--r--  1 justinleung  staff  567301 Jan 15 18:58 01-13-2021.csv
--rw-r--r--  1 justinleung  staff  566832 Jan 15 18:58 01-14-2021.csv
--rw-r--r--  1 justinleung  staff  535429 Jan 15 18:58 07-22-2020.csv
--rw-r--r--  1 justinleung  staff  536457 Jan 15 18:58 07-23-2020.csv
--rw-r--r--  1 justinleung  staff  536586 Jan 15 18:58 07-24-2020.csv
--rw-r--r--  1 justinleung  staff  537291 Jan 15 18:58 07-25-2020.csv
--rw-r--r--  1 justinleung  staff  537391 Jan 15 18:58 07-26-2020.csv
--rw-r--r--  1 justinleung  staff  538205 Jan 15 18:58 07-27-2020.csv
--rw-r--r--  1 justinleung  staff  538598 Jan 15 18:58 07-28-2020.csv
--rw-r--r--  1 justinleung  staff  540575 Jan 15 18:58 07-29-2020.csv
--rw-r--r--  1 justinleung  staff  540723 Jan 15 18:58 07-30-2020.csv
--rw-r--r--  1 justinleung  staff  539845 Jan 15 18:58 07-31-2020.csv
--rw-r--r--  1 justinleung  staff  540035 Jan 15 18:58 08-01-2020.csv
--rw-r--r--  1 justinleung  staff  540238 Jan 15 18:58 08-02-2020.csv
--rw-r--r--  1 justinleung  staff  541928 Jan 15 18:58 08-05-2020.csv
--rw-r--r--  1 justinleung  staff  541984 Jan 15 18:58 08-06-2020.csv
--rw-r--r--  1 justinleung  staff  542434 Jan 15 18:58 08-07-2020.csv
--rw-r--r--  1 justinleung  staff  542733 Jan 15 18:58 08-08-2020.csv
--rw-r--r--  1 justinleung  staff  542716 Jan 15 18:58 08-09-2020.csv
--rw-r--r--  1 justinleung  staff  542860 Jan 15 18:58 08-10-2020.csv
--rw-r--r--  1 justinleung  staff  542091 Jan 15 18:58 08-11-2020.csv
--rw-r--r--  1 justinleung  staff  542180 Jan 15 18:58 08-12-2020.csv
--rw-r--r--  1 justinleung  staff  542577 Jan 15 18:58 08-13-2020.csv
--rw-r--r--  1 justinleung  staff  542695 Jan 15 18:58 08-14-2020.csv
--rw-r--r--  1 justinleung  staff  543514 Jan 15 18:58 08-17-2020.csv
--rw-r--r--  1 justinleung  staff  497244 Jan 15 18:58 08-18-2020.csv
--rw-r--r--  1 justinleung  staff  543902 Jan 15 18:58 08-19-2020.csv
--rw-r--r--  1 justinleung  staff  544230 Jan 15 18:58 08-20-2020.csv
--rw-r--r--  1 justinleung  staff  544630 Jan 15 18:58 08-21-2020.csv
--rw-r--r--  1 justinleung  staff  544929 Jan 15 18:58 08-22-2020.csv
--rw-r--r--  1 justinleung  staff  545058 Jan 15 18:58 08-23-2020.csv
--rw-r--r--  1 justinleung  staff  545302 Jan 15 18:58 08-24-2020.csv
--rw-r--r--  1 justinleung  staff  545431 Jan 15 18:58 08-25-2020.csv
--rw-r--r--  1 justinleung  staff  545798 Jan 15 18:58 08-26-2020.csv
--rw-r--r--  1 justinleung  staff  545870 Jan 15 18:58 08-27-2020.csv
--rw-r--r--  1 justinleung  staff  545955 Jan 15 18:58 08-28-2020.csv
--rw-r--r--  1 justinleung  staff  546275 Jan 15 18:58 08-29-2020.csv
--rw-r--r--  1 justinleung  staff  546486 Jan 15 18:58 08-30-2020.csv
--rw-r--r--  1 justinleung  staff  547168 Jan 15 18:58 08-31-2020.csv
--rw-r--r--  1 justinleung  staff  547161 Jan 15 18:58 09-01-2020.csv
--rw-r--r--  1 justinleung  staff  547745 Jan 15 18:58 09-02-2020.csv
--rw-r--r--  1 justinleung  staff  547630 Jan 15 18:58 09-03-2020.csv
--rw-r--r--  1 justinleung  staff  548100 Jan 15 18:58 09-04-2020.csv
--rw-r--r--  1 justinleung  staff  547970 Jan 15 18:58 09-05-2020.csv
--rw-r--r--  1 justinleung  staff  548270 Jan 15 18:58 09-06-2020.csv
--rw-r--r--  1 justinleung  staff  548272 Jan 15 18:58 09-07-2020.csv
--rw-r--r--  1 justinleung  staff  548457 Jan 15 18:58 09-08-2020.csv
--rw-r--r--  1 justinleung  staff  548473 Jan 15 18:58 09-09-2020.csv
--rw-r--r--  1 justinleung  staff  548874 Jan 15 18:58 09-10-2020.csv
--rw-r--r--  1 justinleung  staff  548966 Jan 15 18:58 09-11-2020.csv
--rw-r--r--  1 justinleung  staff  548961 Jan 15 18:58 09-12-2020.csv
--rw-r--r--  1 justinleung  staff  501220 Jan 15 18:58 09-13-2020.csv
--rw-r--r--  1 justinleung  staff  549256 Jan 15 18:58 09-14-2020.csv
--rw-r--r--  1 justinleung  staff  549312 Jan 15 18:58 09-15-2020.csv
--rw-r--r--  1 justinleung  staff  501438 Jan 15 18:58 09-16-2020.csv
--rw-r--r--  1 justinleung  staff  501525 Jan 15 18:58 09-17-2020.csv
--rw-r--r--  1 justinleung  staff  501594 Jan 15 18:58 09-18-2020.csv
--rw-r--r--  1 justinleung  staff  501707 Jan 15 18:58 09-19-2020.csv
--rw-r--r--  1 justinleung  staff  501825 Jan 15 18:58 09-20-2020.csv
--rw-r--r--  1 justinleung  staff  502144 Jan 15 18:58 09-21-2020.csv
--rw-r--r--  1 justinleung  staff  502156 Jan 15 18:58 09-22-2020.csv
--rw-r--r--  1 justinleung  staff  502289 Jan 15 18:58 09-23-2020.csv
--rw-r--r--  1 justinleung  staff  501685 Jan 15 18:58 09-24-2020.csv
--rw-r--r--  1 justinleung  staff  502407 Jan 15 18:58 09-25-2020.csv
--rw-r--r--  1 justinleung  staff  502570 Jan 15 18:58 09-26-2020.csv
--rw-r--r--  1 justinleung  staff  502635 Jan 15 18:58 09-27-2020.csv
--rw-r--r--  1 justinleung  staff  551320 Jan 15 18:58 09-28-2020.csv
--rw-r--r--  1 justinleung  staff  551337 Jan 15 18:58 09-29-2020.csv
--rw-r--r--  1 justinleung  staff  551470 Jan 15 18:58 09-30-2020.csv
--rw-r--r--  1 justinleung  staff  551826 Jan 15 18:58 10-01-2020.csv
--rw-r--r--  1 justinleung  staff  551864 Jan 15 18:58 10-02-2020.csv
--rw-r--r--  1 justinleung  staff  552120 Jan 15 18:58 10-03-2020.csv
--rw-r--r--  1 justinleung  staff  552172 Jan 15 18:58 10-04-2020.csv
--rw-r--r--  1 justinleung  staff  552316 Jan 15 18:58 10-05-2020.csv
--rw-r--r--  1 justinleung  staff  552523 Jan 15 18:58 10-06-2020.csv
--rw-r--r--  1 justinleung  staff  552616 Jan 15 18:58 10-07-2020.csv
--rw-r--r--  1 justinleung  staff  552816 Jan 15 18:58 10-08-2020.csv
--rw-r--r--  1 justinleung  staff  552761 Jan 15 18:58 10-09-2020.csv
--rw-r--r--  1 justinleung  staff  552951 Jan 15 18:58 10-10-2020.csv
--rw-r--r--  1 justinleung  staff  553253 Jan 15 18:58 10-11-2020.csv
--rw-r--r--  1 justinleung  staff  553287 Jan 15 18:58 10-12-2020.csv
--rw-r--r--  1 justinleung  staff  553779 Jan 15 18:58 10-13-2020.csv
--rw-r--r--  1 justinleung  staff  554162 Jan 15 18:58 10-14-2020.csv
--rw-r--r--  1 justinleung  staff  554160 Jan 15 18:58 10-15-2020.csv
--rw-r--r--  1 justinleung  staff  554366 Jan 15 18:58 10-16-2020.csv
--rw-r--r--  1 justinleung  staff  554773 Jan 15 18:58 10-17-2020.csv
--rw-r--r--  1 justinleung  staff  554743 Jan 15 18:58 10-18-2020.csv
--rw-r--r--  1 justinleung  staff  555090 Jan 15 18:58 10-19-2020.csv
--rw-r--r--  1 justinleung  staff  555034 Jan 15 18:58 10-20-2020.csv
--rw-r--r--  1 justinleung  staff  555454 Jan 15 18:58 10-21-2020.csv
--rw-r--r--  1 justinleung  staff  555619 Jan 15 18:58 10-22-2020.csv
--rw-r--r--  1 justinleung  staff  555740 Jan 15 18:58 10-23-2020.csv
--rw-r--r--  1 justinleung  staff  555854 Jan 15 18:58 10-24-2020.csv
--rw-r--r--  1 justinleung  staff  556174 Jan 15 18:58 10-25-2020.csv
--rw-r--r--  1 justinleung  staff  556091 Jan 15 18:58 10-26-2020.csv
--rw-r--r--  1 justinleung  staff  556031 Jan 15 18:58 10-27-2020.csv
--rw-r--r--  1 justinleung  staff  556705 Jan 15 18:58 10-28-2020.csv
--rw-r--r--  1 justinleung  staff  556983 Jan 15 18:58 10-29-2020.csv
--rw-r--r--  1 justinleung  staff  556943 Jan 15 18:58 10-30-2020.csv
--rw-r--r--  1 justinleung  staff  557240 Jan 15 18:58 10-31-2020.csv
--rw-r--r--  1 justinleung  staff  558233 Jan 15 18:58 11-07-2020.csv
--rw-r--r--  1 justinleung  staff  571562 Jan 16 17:50 01-15-2021.csv
--rw-r--r--  1 justinleung  staff  567733 Jan 17 14:18 01-16-2021.csv
--rw-r--r--  1 justinleung  staff  567796 Jan 18 19:12 01-17-2021.csv
--rw-r--r--  1 justinleung  staff  566153 Jan 19 21:39 01-01-2021.csv
--rw-r--r--  1 justinleung  staff  566475 Jan 19 21:39 01-02-2021.csv
--rw-r--r--  1 justinleung  staff  566537 Jan 19 21:39 01-03-2021.csv
--rw-r--r--  1 justinleung  staff  566578 Jan 19 21:39 01-04-2021.csv
--rw-r--r--  1 justinleung  staff  566788 Jan 19 21:39 01-05-2021.csv
--rw-r--r--  1 justinleung  staff  566804 Jan 19 21:39 01-06-2021.csv
--rw-r--r--  1 justinleung  staff  566852 Jan 19 21:39 01-07-2021.csv
--rw-r--r--  1 justinleung  staff  567013 Jan 19 21:39 01-08-2021.csv
--rw-r--r--  1 justinleung  staff  567699 Jan 19 21:39 01-18-2021.csv
--rw-r--r--  1 justinleung  staff  557208 Jan 19 21:39 11-01-2020.csv
--rw-r--r--  1 justinleung  staff  557411 Jan 19 21:39 11-02-2020.csv
--rw-r--r--  1 justinleung  staff  557485 Jan 19 21:39 11-03-2020.csv
--rw-r--r--  1 justinleung  staff  557882 Jan 19 21:39 11-04-2020.csv
--rw-r--r--  1 justinleung  staff  557895 Jan 19 21:39 11-05-2020.csv
--rw-r--r--  1 justinleung  staff  558124 Jan 19 21:39 11-06-2020.csv
--rw-r--r--  1 justinleung  staff  558528 Jan 19 21:39 11-08-2020.csv
--rw-r--r--  1 justinleung  staff  558524 Jan 19 21:39 11-09-2020.csv
--rw-r--r--  1 justinleung  staff  558722 Jan 19 21:39 11-10-2020.csv
--rw-r--r--  1 justinleung  staff  559102 Jan 19 21:39 11-11-2020.csv
--rw-r--r--  1 justinleung  staff  560400 Jan 19 21:39 11-12-2020.csv
--rw-r--r--  1 justinleung  staff  560736 Jan 19 21:39 11-13-2020.csv
--rw-r--r--  1 justinleung  staff  560893 Jan 19 21:39 11-14-2020.csv
--rw-r--r--  1 justinleung  staff  561100 Jan 19 21:39 11-15-2020.csv
--rw-r--r--  1 justinleung  staff  561063 Jan 19 21:39 11-16-2020.csv
--rw-r--r--  1 justinleung  staff  561284 Jan 19 21:39 11-17-2020.csv
--rw-r--r--  1 justinleung  staff  561338 Jan 19 21:39 11-18-2020.csv
--rw-r--r--  1 justinleung  staff  561480 Jan 19 21:39 11-19-2020.csv
--rw-r--r--  1 justinleung  staff  561707 Jan 19 21:39 11-20-2020.csv
--rw-r--r--  1 justinleung  staff  562003 Jan 19 21:39 11-21-2020.csv
--rw-r--r--  1 justinleung  staff  561883 Jan 19 21:39 11-22-2020.csv
--rw-r--r--  1 justinleung  staff  562176 Jan 19 21:39 11-23-2020.csv
--rw-r--r--  1 justinleung  staff  562425 Jan 19 21:39 11-24-2020.csv
--rw-r--r--  1 justinleung  staff  562561 Jan 19 21:39 11-25-2020.csv
--rw-r--r--  1 justinleung  staff  562583 Jan 19 21:39 11-26-2020.csv
--rw-r--r--  1 justinleung  staff  562692 Jan 19 21:39 11-27-2020.csv
--rw-r--r--  1 justinleung  staff  562773 Jan 19 21:39 11-28-2020.csv
--rw-r--r--  1 justinleung  staff  563033 Jan 19 21:39 11-29-2020.csv
--rw-r--r--  1 justinleung  staff  562845 Jan 19 21:39 11-30-2020.csv
--rw-r--r--  1 justinleung  staff  562946 Jan 19 21:39 12-01-2020.csv
--rw-r--r--  1 justinleung  staff  563572 Jan 19 21:39 12-02-2020.csv
--rw-r--r--  1 justinleung  staff  563714 Jan 19 21:39 12-03-2020.csv
--rw-r--r--  1 justinleung  staff  563717 Jan 19 21:39 12-04-2020.csv
--rw-r--r--  1 justinleung  staff  563845 Jan 19 21:39 12-05-2020.csv
--rw-r--r--  1 justinleung  staff  564141 Jan 19 21:39 12-06-2020.csv
--rw-r--r--  1 justinleung  staff  564295 Jan 19 21:39 12-07-2020.csv
--rw-r--r--  1 justinleung  staff  564041 Jan 19 21:39 12-08-2020.csv
--rw-r--r--  1 justinleung  staff  564386 Jan 19 21:39 12-09-2020.csv
--rw-r--r--  1 justinleung  staff  564514 Jan 19 21:39 12-10-2020.csv
--rw-r--r--  1 justinleung  staff  564560 Jan 19 21:39 12-11-2020.csv
--rw-r--r--  1 justinleung  staff  564778 Jan 19 21:39 12-12-2020.csv
--rw-r--r--  1 justinleung  staff  564829 Jan 19 21:39 12-13-2020.csv
--rw-r--r--  1 justinleung  staff  564788 Jan 19 21:39 12-14-2020.csv
--rw-r--r--  1 justinleung  staff  565105 Jan 19 21:39 12-15-2020.csv
--rw-r--r--  1 justinleung  staff  565151 Jan 19 21:39 12-16-2020.csv
--rw-r--r--  1 justinleung  staff  565275 Jan 19 21:39 12-17-2020.csv
--rw-r--r--  1 justinleung  staff  565387 Jan 19 21:39 12-18-2020.csv
--rw-r--r--  1 justinleung  staff  565493 Jan 19 21:39 12-19-2020.csv
--rw-r--r--  1 justinleung  staff  565672 Jan 19 21:39 12-20-2020.csv
--rw-r--r--  1 justinleung  staff  565681 Jan 19 21:39 12-21-2020.csv
--rw-r--r--  1 justinleung  staff  565810 Jan 19 21:39 12-22-2020.csv
--rw-r--r--  1 justinleung  staff  565733 Jan 19 21:39 12-23-2020.csv
--rw-r--r--  1 justinleung  staff  565935 Jan 19 21:39 12-24-2020.csv
--rw-r--r--  1 justinleung  staff  565924 Jan 19 21:39 12-25-2020.csv
--rw-r--r--  1 justinleung  staff  566013 Jan 19 21:39 12-26-2020.csv
--rw-r--r--  1 justinleung  staff  566036 Jan 19 21:39 12-27-2020.csv
--rw-r--r--  1 justinleung  staff  566035 Jan 19 21:39 12-28-2020.csv
--rw-r--r--  1 justinleung  staff  566169 Jan 19 21:39 12-29-2020.csv
--rw-r--r--  1 justinleung  staff  566309 Jan 19 21:39 12-30-2020.csv
--rw-r--r--  1 justinleung  staff  566138 Jan 19 21:39 12-31-2020.csv
--rw-r--r--  1 justinleung  staff  567650 Jan 20 14:05 01-19-2021.csv
--rw-r--r--  1 justinleung  staff  567954 Jan 21 10:57 01-20-2021.csv
--rw-r--r--  1 justinleung  staff  568052 Jan 22 20:32 01-21-2021.csv
--rw-r--r--  1 justinleung  staff  567848 Jan 23 17:34 01-22-2021.csv
--rw-r--r--  1 justinleung  staff  568104 Jan 24 00:41 01-23-2021.csv
-[NbConvertApp] WARNING | pattern &#39;LA_Times_JHCSSE_Covid_Data.ipynb&#39; matched no files
-This application is used to convert notebook files (*.ipynb) to various other
-formats.
+<pre>/Users/justinleung/Notebooks
+/Users/justinleung/Notebooks
+total 16040
+-rw-r--r--  1 justinleung  staff      190 Sep 23  2019 settings.py
+-rw-r--r--  1 justinleung  staff   429112 Oct 11  2019 file.txt
+-rw-r--r--  1 justinleung  staff        0 Oct 12  2019 test.list
+-rw-r--r--  1 justinleung  staff     1426 Oct 17  2019 custom_data_functions.py
+drwxr-xr-x  4 justinleung  staff      128 Oct 17  2019 <span class="ansi-blue-fg">__pycache__</span>
+-rw-r--r--@ 1 justinleung  staff   191313 Oct 30  2019 classification.ipynb
+-rw-r--r--  1 justinleung  staff   211059 Nov  3  2019 Iris DataSet Tutorial.ipynb
+-rw-r--r--  1 justinleung  staff    96867 Nov 15  2019 HUD Long Beach Small Area FMR.ipynb
+-rw-r--r--  1 justinleung  staff   949173 Jan 14  2020 HUD - AFFHT.ipynb
+-rw-r--r--  1 justinleung  staff      259 Jan 21  2020 database.ini
+-rw-r--r--  1 justinleung  staff    86680 Jan 21  2020 data.census.gov ACS 5-year.ipynb
+-rw-r--r--@ 1 justinleung  staff    85708 Jan 24  2020 sagemaker-countycensusclustering.ipynb
+-rw-r--r--  1 justinleung  staff      555 Feb  1  2020 Untitled.ipynb
+drwxr-xr-x  3 justinleung  staff       96 Feb  1  2020 <span class="ansi-blue-fg">images</span>
+drwxr-xr-x  3 justinleung  staff       96 Feb  1  2020 <span class="ansi-blue-fg">datasets</span>
+-rw-r--r--  1 justinleung  staff  1237747 Feb  1  2020 02_end_to_end_machine_learning_project.ipynb
+-rw-r--r--  1 justinleung  staff   156165 Feb  6  2020 Long Beach ACS 5-year.ipynb
+-rw-r--r--  1 justinleung  staff    84188 May 29  2020 Pandas.ipynb
+-rw-r--r--  1 justinleung  staff   166661 May 29  2020 Transparent California.ipynb
+-rw-r--r--  1 justinleung  staff  1000927 Jun  7  2020 Long Beach CHAS data.ipynb
+-rw-r--r--  1 justinleung  staff    28627 Jun 10  2020 Postgres.ipynb
+-rw-r--r--  1 justinleung  staff     1973 Jun 12  2020 GeeksforGeeks.ipynb
+-rw-r--r--  1 justinleung  staff     2613 Jun 19  2020 NumPy SciPy tutorial.ipynb
+-rw-r--r--@ 1 justinleung  staff     2330 Aug 21 16:53 covid-dash-287123-a0f4a34d03a4.json
+lrwxr-xr-x  1 justinleung  staff       35 Aug 31 14:53 <span class="ansi-magenta-fg">client_secret.json</span> -&gt; covid-dash-287123-a0f4a34d03a4.json
+-rw-r--r--  1 justinleung  staff      555 Sep  7 17:27 Untitled1.ipynb
+-rw-r--r--  1 justinleung  staff    32863 Sep  7 17:40 covid_cases_over_time.ipynb
+-rw-r--r--@ 1 justinleung  staff      228 Sep 12 21:59 A.txt
+-rw-r--r--@ 1 justinleung  staff      212 Sep 12 21:59 B.txt
+-rw-r--r--@ 1 justinleung  staff     2393 Sep 12 22:43 group_generator.py
+-rw-r--r--  1 justinleung  staff      440 Sep 13 11:10 output.txt
+-rw-r--r--  1 justinleung  staff    15361 Sep 13 16:05 Groups Generator.ipynb
+-rw-r--r--  1 justinleung  staff    43396 Sep 25 10:50 Database Management.ipynb
+-rw-r--r--  1 justinleung  staff   227794 Dec  8 00:12 LA County Covid Wayback Machine ETL.ipynb
+-rw-r--r--  1 justinleung  staff  1702870 Dec 29 09:46 LA Times Covid Data.html
+-rw-r--r--  1 justinleung  staff     3753 Dec 29 10:04 LA Times Covid Data.py
+-rw-r--r--  1 justinleung  staff     3753 Dec 29 10:20 LA_Times_Covid_Data.py
+-rw-r--r--  1 justinleung  staff    31699 Jan 21 00:25 Fidelity_Dividend_Processing.ipynb
+-rw-r--r--  1 justinleung  staff    70947 Jan 23 17:35 LADPH_Direct_Capture_ETL.ipynb
+-rw-r--r--  1 justinleung  staff   424811 Jan 23 18:05 LA County Covid Analysis.ipynb
+-rw-r--r--  1 justinleung  staff   108894 Jan 24 00:57 LA_Times_JHCSSE_Covid_Data.ipynb
+-rw-r--r--  1 justinleung  staff   732445 Jan 24 00:57 LA_Times_JHCSSE_Covid_Data.html
+[NbConvertApp] Converting notebook LA_Times_JHCSSE_Covid_Data.ipynb to html
+[NbConvertApp] Writing 731480 bytes to LA_Times_JHCSSE_Covid_Data.html
+/Users/justinleung/github/kjieldsen.github.io
+[main ae73da7] update covid stats
+ Committer: kjieldsen &lt;justinleung@Katys-MacBook-Air-3.local&gt;
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
 
-WARNING: THE COMMANDLINE INTERFACE MAY CHANGE IN FUTURE RELEASES.
+    git config --global user.name &#34;Your Name&#34;
+    git config --global user.email you@example.com
 
-Options
--------
+After doing this, you may fix the identity used for this commit with:
 
-Arguments that take values are actually convenience aliases to full
-Configurables, whose aliases are listed on the help line. For more information
-on full configurables, see &#39;--help-all&#39;.
+    git commit --amend --reset-author
 
---debug
-    set log level to logging.DEBUG (maximize logging output)
---generate-config
-    generate default config file
--y
-    Answer yes to any questions instead of prompting.
---execute
-    Execute the notebook prior to export.
---allow-errors
-    Continue notebook execution even if one of the cells throws an error and include the error message in the cell output (the default behaviour is to abort conversion). This flag is only relevant if &#39;--execute&#39; was specified, too.
---stdin
-    read a single notebook file from stdin. Write the resulting notebook with default basename &#39;notebook.*&#39;
---stdout
-    Write notebook output to stdout instead of files.
---inplace
-    Run nbconvert in place, overwriting the existing notebook (only 
-    relevant when converting to notebook format)
---clear-output
-    Clear output of current file and save in place, 
-    overwriting the existing notebook.
---no-prompt
-    Exclude input and output prompts from converted document.
---no-input
-    Exclude input cells and output prompts from converted document. 
-    This mode is ideal for generating code-free reports.
---allow-chromium-download
-    Whether to allow downloading chromium if no suitable version is found on the system.
---log-level=&lt;Enum&gt; (Application.log_level)
-    Default: 30
-    Choices: (0, 10, 20, 30, 40, 50, &#39;DEBUG&#39;, &#39;INFO&#39;, &#39;WARN&#39;, &#39;ERROR&#39;, &#39;CRITICAL&#39;)
-    Set the log level by value or name.
---config=&lt;Unicode&gt; (JupyterApp.config_file)
-    Default: &#39;&#39;
-    Full path of a config file.
---to=&lt;Unicode&gt; (NbConvertApp.export_format)
-    Default: &#39;&#39;
-    The export format to be used, either one of the built-in formats
-    [&#39;asciidoc&#39;, &#39;custom&#39;, &#39;html&#39;, &#39;latex&#39;, &#39;markdown&#39;, &#39;notebook&#39;, &#39;pdf&#39;,
-    &#39;python&#39;, &#39;rst&#39;, &#39;script&#39;, &#39;slides&#39;, &#39;webpdf&#39;] or a dotted object name that
-    represents the import path for an `Exporter` class
---template=&lt;Unicode&gt; (TemplateExporter.template_name)
-    Default: &#39;&#39;
-    Name of the template to use
---template-file=&lt;Unicode&gt; (TemplateExporter.template_file)
-    Default: None
-    Name of the template file to use
---writer=&lt;DottedObjectName&gt; (NbConvertApp.writer_class)
-    Default: &#39;FilesWriter&#39;
-    Writer class used to write the  results of the conversion
---post=&lt;DottedOrNone&gt; (NbConvertApp.postprocessor_class)
-    Default: &#39;&#39;
-    PostProcessor class used to write the results of the conversion
---output=&lt;Unicode&gt; (NbConvertApp.output_base)
-    Default: &#39;&#39;
-    overwrite base name use for output files. can only be used when converting
-    one notebook at a time.
---output-dir=&lt;Unicode&gt; (FilesWriter.build_directory)
-    Default: &#39;&#39;
-    Directory to write output(s) to. Defaults to output to the directory of each
-    notebook. To recover previous default behaviour (outputting to the current
-    working directory) use . as the flag value.
---reveal-prefix=&lt;Unicode&gt; (SlidesExporter.reveal_url_prefix)
-    Default: &#39;&#39;
-    The URL prefix for reveal.js (version 3.x). This defaults to the reveal CDN,
-    but can be any url pointing to a copy  of reveal.js.
-    For speaker notes to work, this must be a relative path to a local  copy of
-    reveal.js: e.g., &#34;reveal.js&#34;.
-    If a relative path is given, it must be a subdirectory of the current
-    directory (from which the server is run).
-    See the usage documentation
-    (https://nbconvert.readthedocs.io/en/latest/usage.html#reveal-js-html-
-    slideshow) for more details.
---nbformat=&lt;Enum&gt; (NotebookExporter.nbformat_version)
-    Default: 4
-    Choices: [1, 2, 3, 4]
-    The nbformat version to write. Use this to downgrade notebooks.
-
-To see all available configurables, use `--help-all`
-
-Examples
---------
-
-    The simplest way to use nbconvert is
-    
-    &gt; jupyter nbconvert mynotebook.ipynb --to html
-    
-    Options include [&#39;asciidoc&#39;, &#39;custom&#39;, &#39;html&#39;, &#39;latex&#39;, &#39;markdown&#39;, &#39;notebook&#39;, &#39;pdf&#39;, &#39;python&#39;, &#39;rst&#39;, &#39;script&#39;, &#39;slides&#39;, &#39;webpdf&#39;].
-    
-    &gt; jupyter nbconvert --to latex mynotebook.ipynb
-    
-    Both HTML and LaTeX support multiple output templates. LaTeX includes
-    &#39;base&#39;, &#39;article&#39; and &#39;report&#39;.  HTML includes &#39;basic&#39; and &#39;full&#39;. You
-    can specify the flavor of the format used.
-    
-    &gt; jupyter nbconvert --to html --template lab mynotebook.ipynb
-    
-    You can also pipe the output to stdout, rather than a file
-    
-    &gt; jupyter nbconvert mynotebook.ipynb --stdout
-    
-    PDF is generated via latex
-    
-    &gt; jupyter nbconvert mynotebook.ipynb --to pdf
-    
-    You can get (and serve) a Reveal.js-powered slideshow
-    
-    &gt; jupyter nbconvert myslides.ipynb --to slides --post serve
-    
-    Multiple notebooks can be given at the command line in a couple of 
-    different ways:
-    
-    &gt; jupyter nbconvert notebook*.ipynb
-    &gt; jupyter nbconvert notebook1.ipynb notebook2.ipynb
-    
-    or you can specify the notebooks list in a config file, containing::
-    
-        c.NbConvertApp.notebooks = [&#34;my_notebook.ipynb&#34;]
-    
-    &gt; jupyter nbconvert --config mycfg.py
-
-cp: LA_Times_JHCSSE_Covid_Data.html: No such file or directory
-On branch master
-Your branch is up to date with &#39;origin/master&#39;.
-
-nothing to commit, working tree clean
-error: src refspec main does not match any
-<span class="ansi-red-fg">error: failed to push some refs to &#39;https://github.com/CSSEGISandData/COVID-19.git&#39;
-</span></pre>
+ 1 file changed, 1073 insertions(+), 526 deletions(-)
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 9.49 KiB | 539.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/kjieldsen/kjieldsen.github.io
+   3132fb3..ae73da7  main -&gt; main
+Branch &#39;main&#39; set up to track remote branch &#39;main&#39; from &#39;origin&#39;.
+</pre>
 </div>
 </div>
 
@@ -16672,7 +16233,17 @@ error: src refspec main does not match any
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span> 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">requests</span>
+<span class="kn">from</span> <span class="nn">bs4</span> <span class="kn">import</span> <span class="n">beautifulsoup</span>
+
+<span class="o">&gt;&gt;&gt;</span> <span class="n">url</span> <span class="o">=</span> <span class="s2">&quot;http://your_target_webpage&quot;</span>
+
+<span class="c1"># Send a HTTP GET request to the target URL to retrieve the HTML page,</span>
+<span class="c1"># which returns a &quot;Response&quot; object.</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+
+
+<span class="n">soup</span> <span class="o">=</span> <span class="n">BeautifulSoup</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">text</span><span class="p">,</span> <span class="s2">&quot;html.parser&quot;</span><span class="p">)</span>
 </pre></div>
 
      </div>
