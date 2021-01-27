@@ -1,216 +1,232 @@
-<style>	<table border="1" class="dataframe">
-table {	  <thead>
-border-spacing: 0.1rem	    <tr style="text-align: right;">
-table-layout:fixed;	      <th></th>
-}	      <th>date</th>
-th.from, th.date {	      <th>place</th>
-  width: 15%;	      <th>recent_cases_per_100k</th>
-}	      <th>recent_2wk_cases</th>
-th.subject{	      <th>previous_2wk_cases</th>
-  width: 70%;	      <th>trend</th>
-}	      <th>population</th>
-td, th {	    </tr>
-  border: 1px solid #999;	  </thead>
-  text-align: center;	  <tbody>
-}	    <tr>
-</style>	      <th>205</th>
-	      <td>01-24-2021</td>
-	      <td>Queretaro, Mexico</td>
-	      <td>341</td>
-	      <td>7781</td>
-	      <td>4631</td>
-	      <td>168</td>
-	      <td>2279637</td>
-	    </tr>
-	    <tr>
-	      <th>206</th>
-	      <td>01-24-2021</td>
-	      <td>Portugal</td>
-	      <td>1496</td>
-	      <td>152501</td>
-	      <td>89116</td>
-	      <td>171</td>
-	      <td>10196707</td>
-	    </tr>
-	    <tr>
-	      <th>207</th>
-	      <td>01-24-2021</td>
-	      <td>Madrid, Spain</td>
-	      <td>935</td>
-	      <td>62096</td>
-	      <td>35670</td>
-	      <td>174</td>
-	      <td>6641649</td>
-	    </tr>
-	    <tr>
-	      <th>208</th>
-	      <td>01-24-2021</td>
-	      <td>Rondonia, Brazil</td>
-	      <td>873</td>
-	      <td>15513</td>
-	      <td>8813</td>
-	      <td>176</td>
-	      <td>1777225</td>
-	    </tr>
-	    <tr>
-	      <th>209</th>
-	      <td>01-24-2021</td>
-	      <td>Extremadura, Spain</td>
-	      <td>1491</td>
-	      <td>15889</td>
-	      <td>8957</td>
-	      <td>177</td>
-	      <td>1065424</td>
-	    </tr>
-	    <tr>
-	      <th>210</th>
-	      <td>01-24-2021</td>
-	      <td>Pais Vasco, Spain</td>
-	      <td>504</td>
-	      <td>10971</td>
-	      <td>6103</td>
-	      <td>180</td>
-	      <td>2177880</td>
-	    </tr>
-	    <tr>
-	      <th>211</th>
-	      <td>01-24-2021</td>
-	      <td>Bahia, Brazil</td>
-	      <td>353</td>
-	      <td>52479</td>
-	      <td>29104</td>
-	      <td>180</td>
-	      <td>14873064</td>
-	    </tr>
-	    <tr>
-	      <th>212</th>
-	      <td>01-24-2021</td>
-	      <td>Huila, Colombia</td>
-	      <td>564</td>
-	      <td>6208</td>
-	      <td>3386</td>
-	      <td>183</td>
-	      <td>1100386</td>
-	    </tr>
-	    <tr>
-	      <th>213</th>
-	      <td>01-24-2021</td>
-	      <td>Los Lagos, Chile</td>
-	      <td>1028</td>
-	      <td>8520</td>
-	      <td>4632</td>
-	      <td>184</td>
-	      <td>828708</td>
-	    </tr>
-	    <tr>
-	      <th>214</th>
-	      <td>01-24-2021</td>
-	      <td>P.A. Bolzano, Italy</td>
-	      <td>955</td>
-	      <td>5082</td>
-	      <td>2716</td>
-	      <td>187</td>
-	      <td>532318</td>
-	    </tr>
-	    <tr>
-	      <th>215</th>
-	      <td>01-24-2021</td>
-	      <td>Aragon, Spain</td>
-	      <td>702</td>
-	      <td>9267</td>
-	      <td>4572</td>
-	      <td>203</td>
-	      <td>1320586</td>
-	    </tr>
-	    <tr>
-	      <th>216</th>
-	      <td>01-24-2021</td>
-	      <td>Amazonas, Brazil</td>
-	      <td>863</td>
-	      <td>35752</td>
-	      <td>17525</td>
-	      <td>204</td>
-	      <td>4144597</td>
-	    </tr>
-	    <tr>
-	      <th>217</th>
-	      <td>01-24-2021</td>
-	      <td>Galicia, Spain</td>
-	      <td>632</td>
-	      <td>17063</td>
-	      <td>7009</td>
-	      <td>243</td>
-	      <td>2700441</td>
-	    </tr>
-	    <tr>
-	      <th>218</th>
-	      <td>01-24-2021</td>
-	      <td>Castilla - La Mancha, Spain</td>
-	      <td>1304</td>
-	      <td>26540</td>
-	      <td>10641</td>
-	      <td>249</td>
-	      <td>2034877</td>
-	    </tr>
-	    <tr>
-	      <th>219</th>
-	      <td>01-24-2021</td>
-	      <td>Morelos, Mexico</td>
-	      <td>256</td>
-	      <td>5235</td>
-	      <td>1967</td>
-	      <td>266</td>
-	      <td>2044058</td>
-	    </tr>
-	    <tr>
-	      <th>220</th>
-	      <td>01-24-2021</td>
-	      <td>C. Valenciana, Spain</td>
-	      <td>1631</td>
-	      <td>81124</td>
-	      <td>27248</td>
-	      <td>298</td>
-	      <td>4974969</td>
-	    </tr>
-	    <tr>
-	      <th>221</th>
-	      <td>01-24-2021</td>
-	      <td>Castilla y Leon, Spain</td>
-	      <td>1195</td>
-	      <td>28763</td>
-	      <td>8111</td>
-	      <td>355</td>
-	      <td>2407733</td>
-	    </tr>
-	    <tr>
-	      <th>222</th>
-	      <td>01-24-2021</td>
-	      <td>Lima, Peru</td>
-	      <td>312</td>
-	      <td>33209</td>
-	      <td>9222</td>
-	      <td>360</td>
-	      <td>10628500</td>
-	    </tr>
-	    <tr>
-	      <th>223</th>
-	      <td>01-24-2021</td>
-	      <td>Andalusia, Spain</td>
-	      <td>856</td>
-	      <td>72173</td>
-	      <td>18914</td>
-	      <td>382</td>
-	      <td>8427405</td>
-	    </tr>
-	    <tr>
-	      <th>224</th>
-	      <td>01-24-2021</td>
-	      <td>Murcia, Spain</td>
-	      <td>1552</td>
-	      <td>23088</td>
-	      <td>5148</td>
-	      <td>448</td>
-	      <td>1487663</td>
-	    </tr>
-	  </tbody>
-	</table>
+<style>
+table {
+border-spacing: 0.1rem
+table-layout:fixed;
+}
+th.from, th.date {
+  width: 15%;
+}
+th.subject{
+  width: 70%;
+}
+td, th {
+  border: 1px solid #999;
+  text-align: center;
+}
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>date</th>
+      <th>place</th>
+      <th>recent_cases_per_100k</th>
+      <th>recent_2wk_cases</th>
+      <th>previous_2wk_cases</th>
+      <th>trend</th>
+      <th>population</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>205</th>
+      <td>01-24-2021</td>
+      <td>Queretaro, Mexico</td>
+      <td>341</td>
+      <td>7781</td>
+      <td>4631</td>
+      <td>168</td>
+      <td>2279637</td>
+    </tr>
+    <tr>
+      <th>206</th>
+      <td>01-24-2021</td>
+      <td>Portugal</td>
+      <td>1496</td>
+      <td>152501</td>
+      <td>89116</td>
+      <td>171</td>
+      <td>10196707</td>
+    </tr>
+    <tr>
+      <th>207</th>
+      <td>01-24-2021</td>
+      <td>Madrid, Spain</td>
+      <td>935</td>
+      <td>62096</td>
+      <td>35670</td>
+      <td>174</td>
+      <td>6641649</td>
+    </tr>
+    <tr>
+      <th>208</th>
+      <td>01-24-2021</td>
+      <td>Rondonia, Brazil</td>
+      <td>873</td>
+      <td>15513</td>
+      <td>8813</td>
+      <td>176</td>
+      <td>1777225</td>
+    </tr>
+    <tr>
+      <th>209</th>
+      <td>01-24-2021</td>
+      <td>Extremadura, Spain</td>
+      <td>1491</td>
+      <td>15889</td>
+      <td>8957</td>
+      <td>177</td>
+      <td>1065424</td>
+    </tr>
+    <tr>
+      <th>210</th>
+      <td>01-24-2021</td>
+      <td>Pais Vasco, Spain</td>
+      <td>504</td>
+      <td>10971</td>
+      <td>6103</td>
+      <td>180</td>
+      <td>2177880</td>
+    </tr>
+    <tr>
+      <th>211</th>
+      <td>01-24-2021</td>
+      <td>Bahia, Brazil</td>
+      <td>353</td>
+      <td>52479</td>
+      <td>29104</td>
+      <td>180</td>
+      <td>14873064</td>
+    </tr>
+    <tr>
+      <th>212</th>
+      <td>01-24-2021</td>
+      <td>Huila, Colombia</td>
+      <td>564</td>
+      <td>6208</td>
+      <td>3386</td>
+      <td>183</td>
+      <td>1100386</td>
+    </tr>
+    <tr>
+      <th>213</th>
+      <td>01-24-2021</td>
+      <td>Los Lagos, Chile</td>
+      <td>1028</td>
+      <td>8520</td>
+      <td>4632</td>
+      <td>184</td>
+      <td>828708</td>
+    </tr>
+    <tr>
+      <th>214</th>
+      <td>01-24-2021</td>
+      <td>P.A. Bolzano, Italy</td>
+      <td>955</td>
+      <td>5082</td>
+      <td>2716</td>
+      <td>187</td>
+      <td>532318</td>
+    </tr>
+    <tr>
+      <th>215</th>
+      <td>01-24-2021</td>
+      <td>Aragon, Spain</td>
+      <td>702</td>
+      <td>9267</td>
+      <td>4572</td>
+      <td>203</td>
+      <td>1320586</td>
+    </tr>
+    <tr>
+      <th>216</th>
+      <td>01-24-2021</td>
+      <td>Amazonas, Brazil</td>
+      <td>863</td>
+      <td>35752</td>
+      <td>17525</td>
+      <td>204</td>
+      <td>4144597</td>
+    </tr>
+    <tr>
+      <th>217</th>
+      <td>01-24-2021</td>
+      <td>Galicia, Spain</td>
+      <td>632</td>
+      <td>17063</td>
+      <td>7009</td>
+      <td>243</td>
+      <td>2700441</td>
+    </tr>
+    <tr>
+      <th>218</th>
+      <td>01-24-2021</td>
+      <td>Castilla - La Mancha, Spain</td>
+      <td>1304</td>
+      <td>26540</td>
+      <td>10641</td>
+      <td>249</td>
+      <td>2034877</td>
+    </tr>
+    <tr>
+      <th>219</th>
+      <td>01-24-2021</td>
+      <td>Morelos, Mexico</td>
+      <td>256</td>
+      <td>5235</td>
+      <td>1967</td>
+      <td>266</td>
+      <td>2044058</td>
+    </tr>
+    <tr>
+      <th>220</th>
+      <td>01-24-2021</td>
+      <td>C. Valenciana, Spain</td>
+      <td>1631</td>
+      <td>81124</td>
+      <td>27248</td>
+      <td>298</td>
+      <td>4974969</td>
+    </tr>
+    <tr>
+      <th>221</th>
+      <td>01-24-2021</td>
+      <td>Castilla y Leon, Spain</td>
+      <td>1195</td>
+      <td>28763</td>
+      <td>8111</td>
+      <td>355</td>
+      <td>2407733</td>
+    </tr>
+    <tr>
+      <th>222</th>
+      <td>01-24-2021</td>
+      <td>Lima, Peru</td>
+      <td>312</td>
+      <td>33209</td>
+      <td>9222</td>
+      <td>360</td>
+      <td>10628500</td>
+    </tr>
+    <tr>
+      <th>223</th>
+      <td>01-24-2021</td>
+      <td>Andalusia, Spain</td>
+      <td>856</td>
+      <td>72173</td>
+      <td>18914</td>
+      <td>382</td>
+      <td>8427405</td>
+    </tr>
+    <tr>
+      <th>224</th>
+      <td>01-24-2021</td>
+      <td>Murcia, Spain</td>
+      <td>1552</td>
+      <td>23088</td>
+      <td>5148</td>
+      <td>448</td>
+      <td>1487663</td>
+    </tr>
+  </tbody>
+</table>
