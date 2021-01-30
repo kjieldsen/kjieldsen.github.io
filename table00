@@ -14,7 +14,17 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
+      <td>Rolling Hills</td>
+      <td>103</td>
+      <td>2</td>
+      <td>10</td>
+      <td>-80%</td>
+      <td>1940</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>2021-01-28</td>
       <td>Palos Verdes Peninsula</td>
       <td>161</td>
       <td>1</td>
@@ -23,163 +33,153 @@
       <td>621</td>
     </tr>
     <tr>
-      <th>2</th>
-      <td>2021-01-27</td>
-      <td>Rolling Hills</td>
-      <td>206</td>
-      <td>4</td>
-      <td>9</td>
-      <td>-56%</td>
-      <td>1940</td>
-    </tr>
-    <tr>
       <th>3</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
       <td>Rancho Palos Verdes</td>
-      <td>285</td>
-      <td>122</td>
-      <td>209</td>
-      <td>-42%</td>
+      <td>267</td>
+      <td>114</td>
+      <td>203</td>
+      <td>-44%</td>
       <td>42747</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>2021-01-27</td>
-      <td>Manhattan Beach</td>
-      <td>311</td>
-      <td>112</td>
-      <td>191</td>
-      <td>-41%</td>
-      <td>35999</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>2021-01-27</td>
-      <td>Palos Verdes Estates</td>
-      <td>340</td>
-      <td>46</td>
-      <td>46</td>
-      <td>+0%</td>
-      <td>13522</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
       <td>Rolling Hills Estates</td>
-      <td>345</td>
-      <td>28</td>
-      <td>37</td>
-      <td>-24%</td>
+      <td>271</td>
+      <td>22</td>
+      <td>42</td>
+      <td>-48%</td>
       <td>8113</td>
     </tr>
     <tr>
+      <th>5</th>
+      <td>2021-01-28</td>
+      <td>Manhattan Beach</td>
+      <td>283</td>
+      <td>102</td>
+      <td>179</td>
+      <td>-43%</td>
+      <td>35999</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>2021-01-28</td>
+      <td>Palos Verdes Estates</td>
+      <td>362</td>
+      <td>49</td>
+      <td>46</td>
+      <td>+7%</td>
+      <td>13522</td>
+    </tr>
+    <tr>
       <th>7</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
+      <td>Redondo Beach</td>
+      <td>405</td>
+      <td>278</td>
+      <td>430</td>
+      <td>-35%</td>
+      <td>68697</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>2021-01-28</td>
       <td>El Segundo</td>
-      <td>423</td>
-      <td>71</td>
-      <td>127</td>
+      <td>405</td>
+      <td>68</td>
+      <td>121</td>
       <td>-44%</td>
       <td>16786</td>
     </tr>
     <tr>
-      <th>8</th>
-      <td>2021-01-27</td>
-      <td>Redondo Beach</td>
-      <td>459</td>
-      <td>315</td>
-      <td>415</td>
-      <td>-24%</td>
-      <td>68697</td>
-    </tr>
-    <tr>
       <th>9</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
       <td>Hermosa Beach</td>
-      <td>493</td>
-      <td>97</td>
-      <td>142</td>
-      <td>-32%</td>
+      <td>447</td>
+      <td>88</td>
+      <td>148</td>
+      <td>-41%</td>
       <td>19670</td>
     </tr>
     <tr>
       <th>10</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
       <td>Torrance</td>
-      <td>596</td>
-      <td>889</td>
-      <td>1214</td>
-      <td>-27%</td>
+      <td>541</td>
+      <td>808</td>
+      <td>1225</td>
+      <td>-34%</td>
       <td>149268</td>
     </tr>
     <tr>
       <th>11</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
       <td>Lomita</td>
-      <td>873</td>
-      <td>181</td>
-      <td>267</td>
-      <td>-32%</td>
+      <td>767</td>
+      <td>159</td>
+      <td>269</td>
+      <td>-41%</td>
       <td>20729</td>
     </tr>
     <tr>
       <th>12</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
       <td>Harbor City</td>
-      <td>1115</td>
-      <td>324</td>
-      <td>391</td>
-      <td>-17%</td>
+      <td>1015</td>
+      <td>295</td>
+      <td>404</td>
+      <td>-27%</td>
       <td>29070</td>
     </tr>
     <tr>
       <th>13</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
       <td>Gardena</td>
-      <td>1155</td>
-      <td>708</td>
-      <td>1065</td>
-      <td>-34%</td>
+      <td>1047</td>
+      <td>642</td>
+      <td>1062</td>
+      <td>-40%</td>
       <td>61310</td>
     </tr>
     <tr>
       <th>14</th>
-      <td>2021-01-27</td>
-      <td>Lawndale</td>
-      <td>1238</td>
-      <td>416</td>
-      <td>621</td>
-      <td>-33%</td>
-      <td>33614</td>
-    </tr>
-    <tr>
-      <th>15</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
       <td>Carson</td>
-      <td>1239</td>
-      <td>1163</td>
-      <td>1576</td>
-      <td>-26%</td>
+      <td>1132</td>
+      <td>1062</td>
+      <td>1613</td>
+      <td>-34%</td>
       <td>93846</td>
     </tr>
     <tr>
+      <th>15</th>
+      <td>2021-01-28</td>
+      <td>Lawndale</td>
+      <td>1166</td>
+      <td>392</td>
+      <td>604</td>
+      <td>-35%</td>
+      <td>33614</td>
+    </tr>
+    <tr>
       <th>16</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
       <td>West Carson</td>
-      <td>1250</td>
-      <td>276</td>
-      <td>379</td>
-      <td>-27%</td>
+      <td>1186</td>
+      <td>262</td>
+      <td>380</td>
+      <td>-31%</td>
       <td>22086</td>
     </tr>
     <tr>
       <th>17</th>
-      <td>2021-01-27</td>
+      <td>2021-01-28</td>
       <td>Hawthorne</td>
-      <td>1499</td>
-      <td>1331</td>
-      <td>1800</td>
-      <td>-26%</td>
+      <td>1384</td>
+      <td>1229</td>
+      <td>1811</td>
+      <td>-32%</td>
       <td>88787</td>
     </tr>
   </tbody>
