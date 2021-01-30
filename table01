@@ -224,3 +224,639 @@
     </tr>
   </tbody>
 </table>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>place</th>
+      <th>recent_cases_per_100k</th>
+      <th>recent_2wk_cases</th>
+      <th>previous_2wk_cases</th>
+      <th>trend</th>
+      <th>population</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Taiwan*</td>
+      <td>0</td>
+      <td>53</td>
+      <td>43</td>
+      <td>+23%</td>
+      <td>23816775</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Kanagawa, Japan</td>
+      <td>97</td>
+      <td>8904</td>
+      <td>9440</td>
+      <td>-6%</td>
+      <td>9198268</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>94709: Berkeley</td>
+      <td>110</td>
+      <td>13</td>
+      <td>25</td>
+      <td>-48%</td>
+      <td>11796</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Cupertino</td>
+      <td>114</td>
+      <td>69</td>
+      <td>141</td>
+      <td>-51%</td>
+      <td>60614</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>94539: Fremont</td>
+      <td>187</td>
+      <td>99</td>
+      <td>163</td>
+      <td>-39%</td>
+      <td>52960</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>King, Washington, US</td>
+      <td>241</td>
+      <td>5421</td>
+      <td>9066</td>
+      <td>-40%</td>
+      <td>2252782</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Rancho Palos Verdes</td>
+      <td>267</td>
+      <td>114</td>
+      <td>203</td>
+      <td>-44%</td>
+      <td>42747</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>94704: Berkeley</td>
+      <td>271</td>
+      <td>79</td>
+      <td>49</td>
+      <td>+61%</td>
+      <td>29129</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>92122: San Diego</td>
+      <td>300</td>
+      <td>147</td>
+      <td>247</td>
+      <td>-40%</td>
+      <td>48952</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Redondo Beach</td>
+      <td>405</td>
+      <td>278</td>
+      <td>430</td>
+      <td>-35%</td>
+      <td>68697</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Davis</td>
+      <td>407</td>
+      <td>277</td>
+      <td>221</td>
+      <td>+25%</td>
+      <td>67988</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Sunnyvale</td>
+      <td>412</td>
+      <td>627</td>
+      <td>875</td>
+      <td>-28%</td>
+      <td>152323</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Campbell</td>
+      <td>462</td>
+      <td>196</td>
+      <td>335</td>
+      <td>-41%</td>
+      <td>42470</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>94501: Alameda</td>
+      <td>481</td>
+      <td>302</td>
+      <td>422</td>
+      <td>-28%</td>
+      <td>62826</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Alameda, California, US</td>
+      <td>522</td>
+      <td>8731</td>
+      <td>12276</td>
+      <td>-29%</td>
+      <td>1671329</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Torrance</td>
+      <td>541</td>
+      <td>808</td>
+      <td>1225</td>
+      <td>-34%</td>
+      <td>149268</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>University Park</td>
+      <td>841</td>
+      <td>231</td>
+      <td>387</td>
+      <td>-40%</td>
+      <td>27456</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>San Diego, California, US</td>
+      <td>863</td>
+      <td>28795</td>
+      <td>48580</td>
+      <td>-41%</td>
+      <td>3338330</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Catalonia, Spain</td>
+      <td>896</td>
+      <td>67791</td>
+      <td>62762</td>
+      <td>+8%</td>
+      <td>7566431</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Los Angeles, California, US</td>
+      <td>1219</td>
+      <td>122336</td>
+      <td>204556</td>
+      <td>-40%</td>
+      <td>10039107</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Hawthorne</td>
+      <td>1384</td>
+      <td>1229</td>
+      <td>1811</td>
+      <td>-32%</td>
+      <td>88787</td>
+    </tr>
+  </tbody>
+</table>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>date</th>
+      <th>place</th>
+      <th>recent_cases_per_100k</th>
+      <th>recent_2wk_cases</th>
+      <th>previous_2wk_cases</th>
+      <th>trend</th>
+      <th>population</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>195</th>
+      <td>01-28-2021</td>
+      <td>Madrid, Spain</td>
+      <td>1002</td>
+      <td>66562</td>
+      <td>44291</td>
+      <td>150</td>
+      <td>6641649</td>
+    </tr>
+    <tr>
+      <th>196</th>
+      <td>01-28-2021</td>
+      <td>Para, Brazil</td>
+      <td>227</td>
+      <td>19533</td>
+      <td>12489</td>
+      <td>156</td>
+      <td>8602865</td>
+    </tr>
+    <tr>
+      <th>197</th>
+      <td>01-28-2021</td>
+      <td>Rondonia, Brazil</td>
+      <td>902</td>
+      <td>16023</td>
+      <td>10223</td>
+      <td>157</td>
+      <td>1777225</td>
+    </tr>
+    <tr>
+      <th>198</th>
+      <td>01-28-2021</td>
+      <td>Huila, Colombia</td>
+      <td>590</td>
+      <td>6492</td>
+      <td>4113</td>
+      <td>158</td>
+      <td>1100386</td>
+    </tr>
+    <tr>
+      <th>199</th>
+      <td>01-28-2021</td>
+      <td>Portugal</td>
+      <td>1643</td>
+      <td>167577</td>
+      <td>104128</td>
+      <td>161</td>
+      <td>10196707</td>
+    </tr>
+    <tr>
+      <th>200</th>
+      <td>01-28-2021</td>
+      <td>Amazonas, Brazil</td>
+      <td>871</td>
+      <td>36098</td>
+      <td>22347</td>
+      <td>162</td>
+      <td>4144597</td>
+    </tr>
+    <tr>
+      <th>201</th>
+      <td>01-28-2021</td>
+      <td>Aragon, Spain</td>
+      <td>769</td>
+      <td>10156</td>
+      <td>6145</td>
+      <td>165</td>
+      <td>1320586</td>
+    </tr>
+    <tr>
+      <th>202</th>
+      <td>01-28-2021</td>
+      <td>Pais Vasco, Spain</td>
+      <td>602</td>
+      <td>13118</td>
+      <td>7567</td>
+      <td>173</td>
+      <td>2177880</td>
+    </tr>
+    <tr>
+      <th>203</th>
+      <td>01-28-2021</td>
+      <td>Bahia, Brazil</td>
+      <td>367</td>
+      <td>54639</td>
+      <td>29668</td>
+      <td>184</td>
+      <td>14873064</td>
+    </tr>
+    <tr>
+      <th>204</th>
+      <td>01-28-2021</td>
+      <td>Castilla - La Mancha, Spain</td>
+      <td>1480</td>
+      <td>30124</td>
+      <td>15665</td>
+      <td>192</td>
+      <td>2034877</td>
+    </tr>
+    <tr>
+      <th>205</th>
+      <td>01-28-2021</td>
+      <td>Morelos, Mexico</td>
+      <td>267</td>
+      <td>5465</td>
+      <td>2818</td>
+      <td>194</td>
+      <td>2044058</td>
+    </tr>
+    <tr>
+      <th>206</th>
+      <td>01-28-2021</td>
+      <td>Galicia, Spain</td>
+      <td>756</td>
+      <td>20428</td>
+      <td>9924</td>
+      <td>206</td>
+      <td>2700441</td>
+    </tr>
+    <tr>
+      <th>207</th>
+      <td>01-28-2021</td>
+      <td>Murcia, Spain</td>
+      <td>1642</td>
+      <td>24430</td>
+      <td>11838</td>
+      <td>206</td>
+      <td>1487663</td>
+    </tr>
+    <tr>
+      <th>208</th>
+      <td>01-28-2021</td>
+      <td>Queretaro, Mexico</td>
+      <td>404</td>
+      <td>9218</td>
+      <td>4286</td>
+      <td>215</td>
+      <td>2279637</td>
+    </tr>
+    <tr>
+      <th>209</th>
+      <td>01-28-2021</td>
+      <td>Castilla y Leon, Spain</td>
+      <td>1429</td>
+      <td>34396</td>
+      <td>14919</td>
+      <td>231</td>
+      <td>2407733</td>
+    </tr>
+    <tr>
+      <th>210</th>
+      <td>01-28-2021</td>
+      <td>Andalusia, Spain</td>
+      <td>987</td>
+      <td>83164</td>
+      <td>35864</td>
+      <td>232</td>
+      <td>8427405</td>
+    </tr>
+    <tr>
+      <th>211</th>
+      <td>01-28-2021</td>
+      <td>P.A. Bolzano, Italy</td>
+      <td>1180</td>
+      <td>6284</td>
+      <td>2692</td>
+      <td>233</td>
+      <td>532318</td>
+    </tr>
+    <tr>
+      <th>212</th>
+      <td>01-28-2021</td>
+      <td>Asturias, Spain</td>
+      <td>565</td>
+      <td>5777</td>
+      <td>2426</td>
+      <td>238</td>
+      <td>1022205</td>
+    </tr>
+    <tr>
+      <th>213</th>
+      <td>01-28-2021</td>
+      <td>C. Valenciana, Spain</td>
+      <td>2020</td>
+      <td>100488</td>
+      <td>41080</td>
+      <td>245</td>
+      <td>4974969</td>
+    </tr>
+    <tr>
+      <th>214</th>
+      <td>01-28-2021</td>
+      <td>Lima, Peru</td>
+      <td>342</td>
+      <td>36313</td>
+      <td>12530</td>
+      <td>290</td>
+      <td>10628500</td>
+    </tr>
+  </tbody>
+</table>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>date</th>
+      <th>place</th>
+      <th>recent_cases_per_100k</th>
+      <th>recent_2wk_cases</th>
+      <th>previous_2wk_cases</th>
+      <th>trend</th>
+      <th>population</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>262</th>
+      <td>01-28-2021</td>
+      <td>Westchester, New York, US</td>
+      <td>1157</td>
+      <td>11193</td>
+      <td>11208</td>
+      <td>-0%</td>
+      <td>967506</td>
+    </tr>
+    <tr>
+      <th>263</th>
+      <td>01-28-2021</td>
+      <td>P.A. Bolzano, Italy</td>
+      <td>1180</td>
+      <td>6284</td>
+      <td>2692</td>
+      <td>+133%</td>
+      <td>532318</td>
+    </tr>
+    <tr>
+      <th>264</th>
+      <td>01-28-2021</td>
+      <td>Los Angeles, California, US</td>
+      <td>1219</td>
+      <td>122336</td>
+      <td>204556</td>
+      <td>-40%</td>
+      <td>10039107</td>
+    </tr>
+    <tr>
+      <th>265</th>
+      <td>01-28-2021</td>
+      <td>Pima, Arizona, US</td>
+      <td>1250</td>
+      <td>13096</td>
+      <td>16823</td>
+      <td>-22%</td>
+      <td>1047279</td>
+    </tr>
+    <tr>
+      <th>266</th>
+      <td>01-28-2021</td>
+      <td>Bexar, Texas, US</td>
+      <td>1268</td>
+      <td>25408</td>
+      <td>24929</td>
+      <td>+2%</td>
+      <td>2003554</td>
+    </tr>
+    <tr>
+      <th>267</th>
+      <td>01-28-2021</td>
+      <td>Extremadura, Spain</td>
+      <td>1270</td>
+      <td>13534</td>
+      <td>12751</td>
+      <td>+6%</td>
+      <td>1065424</td>
+    </tr>
+    <tr>
+      <th>268</th>
+      <td>01-28-2021</td>
+      <td>Nassau, New York, US</td>
+      <td>1271</td>
+      <td>17244</td>
+      <td>20222</td>
+      <td>-15%</td>
+      <td>1356924</td>
+    </tr>
+    <tr>
+      <th>269</th>
+      <td>01-28-2021</td>
+      <td>Gwinnett, Georgia, US</td>
+      <td>1294</td>
+      <td>12115</td>
+      <td>12231</td>
+      <td>-1%</td>
+      <td>936250</td>
+    </tr>
+    <tr>
+      <th>270</th>
+      <td>01-28-2021</td>
+      <td>Suffolk, New York, US</td>
+      <td>1334</td>
+      <td>19697</td>
+      <td>24359</td>
+      <td>-19%</td>
+      <td>1476601</td>
+    </tr>
+    <tr>
+      <th>271</th>
+      <td>01-28-2021</td>
+      <td>Tarrant, Texas, US</td>
+      <td>1336</td>
+      <td>28098</td>
+      <td>32148</td>
+      <td>-13%</td>
+      <td>2102515</td>
+    </tr>
+    <tr>
+      <th>272</th>
+      <td>01-28-2021</td>
+      <td>Maricopa, Arizona, US</td>
+      <td>1354</td>
+      <td>60725</td>
+      <td>83028</td>
+      <td>-27%</td>
+      <td>4485414</td>
+    </tr>
+    <tr>
+      <th>273</th>
+      <td>01-28-2021</td>
+      <td>San Bernardino, California, US</td>
+      <td>1361</td>
+      <td>29666</td>
+      <td>47146</td>
+      <td>-37%</td>
+      <td>2180085</td>
+    </tr>
+    <tr>
+      <th>274</th>
+      <td>01-28-2021</td>
+      <td>Ventura, California, US</td>
+      <td>1412</td>
+      <td>11944</td>
+      <td>16894</td>
+      <td>-29%</td>
+      <td>846006</td>
+    </tr>
+    <tr>
+      <th>275</th>
+      <td>01-28-2021</td>
+      <td>Castilla y Leon, Spain</td>
+      <td>1429</td>
+      <td>34396</td>
+      <td>14919</td>
+      <td>+131%</td>
+      <td>2407733</td>
+    </tr>
+    <tr>
+      <th>276</th>
+      <td>01-28-2021</td>
+      <td>Greenville, South Carolina, US</td>
+      <td>1449</td>
+      <td>7588</td>
+      <td>9606</td>
+      <td>-21%</td>
+      <td>523542</td>
+    </tr>
+    <tr>
+      <th>277</th>
+      <td>01-28-2021</td>
+      <td>Castilla - La Mancha, Spain</td>
+      <td>1480</td>
+      <td>30124</td>
+      <td>15665</td>
+      <td>+92%</td>
+      <td>2034877</td>
+    </tr>
+    <tr>
+      <th>278</th>
+      <td>01-28-2021</td>
+      <td>Riverside, California, US</td>
+      <td>1482</td>
+      <td>36625</td>
+      <td>52927</td>
+      <td>-31%</td>
+      <td>2470546</td>
+    </tr>
+    <tr>
+      <th>279</th>
+      <td>01-28-2021</td>
+      <td>Murcia, Spain</td>
+      <td>1642</td>
+      <td>24430</td>
+      <td>11838</td>
+      <td>+106%</td>
+      <td>1487663</td>
+    </tr>
+    <tr>
+      <th>280</th>
+      <td>01-28-2021</td>
+      <td>Portugal</td>
+      <td>1643</td>
+      <td>167577</td>
+      <td>104128</td>
+      <td>+61%</td>
+      <td>10196707</td>
+    </tr>
+    <tr>
+      <th>281</th>
+      <td>01-28-2021</td>
+      <td>C. Valenciana, Spain</td>
+      <td>2020</td>
+      <td>100488</td>
+      <td>41080</td>
+      <td>+145%</td>
+      <td>4974969</td>
+    </tr>
+  </tbody>
+</table>
