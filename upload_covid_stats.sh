@@ -1,6 +1,6 @@
 #!/bin/bash
 
-csplit -f table /Users/justinleung/github/kjieldsen.github.io/covid_datatables.html "/<table /" {3}
+csplit -f table /Users/justinleung/github/kjieldsen.github.io/covid_datatables.html "/<table /" {4}
 
 cat table_css.html table00 > table00.html
 cat table_css.html table01 > table01.html
