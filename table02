@@ -15,172 +15,172 @@
       <th>1</th>
       <td>Taiwan*</td>
       <td>0</td>
-      <td>47</td>
-      <td>51</td>
-      <td>-8%</td>
-      <td>23816775</td>
+      <td>38</td>
+      <td>59</td>
+      <td>-36%</td>
+      <td>24117907</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Kanagawa, Japan</td>
-      <td>63</td>
-      <td>5811</td>
-      <td>11505</td>
-      <td>-49%</td>
+      <td>58</td>
+      <td>5304</td>
+      <td>11557</td>
+      <td>-54%</td>
       <td>9198268</td>
     </tr>
     <tr>
       <th>3</th>
       <td>94709: Berkeley</td>
-      <td>85</td>
-      <td>10</td>
-      <td>32</td>
-      <td>-69%</td>
+      <td>76</td>
+      <td>9</td>
+      <td>34</td>
+      <td>-74%</td>
       <td>11796</td>
     </tr>
     <tr>
       <th>4</th>
       <td>Cupertino</td>
-      <td>104</td>
-      <td>63</td>
-      <td>115</td>
-      <td>-45%</td>
+      <td>102</td>
+      <td>62</td>
+      <td>102</td>
+      <td>-39%</td>
       <td>60614</td>
     </tr>
     <tr>
       <th>5</th>
       <td>94539: Fremont</td>
-      <td>181</td>
-      <td>96</td>
-      <td>116</td>
-      <td>-17%</td>
+      <td>144</td>
+      <td>76</td>
+      <td>141</td>
+      <td>-46%</td>
       <td>52960</td>
     </tr>
     <tr>
       <th>6</th>
       <td>King, Washington, US</td>
-      <td>221</td>
-      <td>4984</td>
-      <td>7791</td>
-      <td>-36%</td>
+      <td>215</td>
+      <td>4840</td>
+      <td>7502</td>
+      <td>-35%</td>
       <td>2252782</td>
     </tr>
     <tr>
       <th>7</th>
       <td>92122: San Diego</td>
-      <td>249</td>
-      <td>122</td>
-      <td>223</td>
+      <td>243</td>
+      <td>119</td>
+      <td>215</td>
       <td>-45%</td>
       <td>48952</td>
     </tr>
     <tr>
       <th>8</th>
       <td>Rancho Palos Verdes</td>
-      <td>267</td>
-      <td>114</td>
-      <td>171</td>
-      <td>-33%</td>
+      <td>257</td>
+      <td>110</td>
+      <td>161</td>
+      <td>-32%</td>
       <td>42747</td>
     </tr>
     <tr>
       <th>9</th>
       <td>Sunnyvale</td>
-      <td>288</td>
-      <td>439</td>
-      <td>854</td>
-      <td>-49%</td>
+      <td>266</td>
+      <td>405</td>
+      <td>857</td>
+      <td>-53%</td>
       <td>152323</td>
     </tr>
     <tr>
       <th>10</th>
       <td>Davis</td>
-      <td>303</td>
-      <td>206</td>
-      <td>312</td>
-      <td>-34%</td>
+      <td>271</td>
+      <td>184</td>
+      <td>302</td>
+      <td>-39%</td>
       <td>67988</td>
     </tr>
     <tr>
       <th>11</th>
       <td>Redondo Beach</td>
-      <td>317</td>
-      <td>218</td>
-      <td>433</td>
-      <td>-50%</td>
+      <td>279</td>
+      <td>192</td>
+      <td>418</td>
+      <td>-54%</td>
       <td>68697</td>
     </tr>
     <tr>
       <th>12</th>
-      <td>94704: Berkeley</td>
-      <td>374</td>
-      <td>109</td>
-      <td>72</td>
-      <td>+51%</td>
-      <td>29129</td>
-    </tr>
-    <tr>
-      <th>13</th>
       <td>Alameda, California, US</td>
-      <td>378</td>
-      <td>6310</td>
-      <td>12217</td>
-      <td>-48%</td>
+      <td>363</td>
+      <td>6068</td>
+      <td>12026</td>
+      <td>-50%</td>
       <td>1671329</td>
     </tr>
     <tr>
-      <th>14</th>
+      <th>13</th>
       <td>Torrance</td>
-      <td>414</td>
-      <td>618</td>
-      <td>1147</td>
-      <td>-46%</td>
+      <td>407</td>
+      <td>607</td>
+      <td>1099</td>
+      <td>-45%</td>
       <td>149268</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>94704: Berkeley</td>
+      <td>505</td>
+      <td>147</td>
+      <td>80</td>
+      <td>+84%</td>
+      <td>29129</td>
     </tr>
     <tr>
       <th>15</th>
       <td>San Diego, California, US</td>
-      <td>673</td>
-      <td>22463</td>
-      <td>41893</td>
-      <td>-46%</td>
+      <td>686</td>
+      <td>22885</td>
+      <td>39219</td>
+      <td>-42%</td>
       <td>3338330</td>
     </tr>
     <tr>
       <th>16</th>
       <td>Catalonia, Spain</td>
       <td>819</td>
-      <td>61972</td>
-      <td>82285</td>
-      <td>-25%</td>
+      <td>61948</td>
+      <td>75702</td>
+      <td>-18%</td>
       <td>7566431</td>
     </tr>
     <tr>
       <th>17</th>
       <td>Los Angeles, California, US</td>
-      <td>906</td>
-      <td>90992</td>
-      <td>185298</td>
-      <td>-51%</td>
-      <td>10039107</td>
+      <td>877</td>
+      <td>88004</td>
+      <td>174387</td>
+      <td>-50%</td>
+      <td>10044578</td>
     </tr>
     <tr>
       <th>18</th>
-      <td>University Park</td>
-      <td>1009</td>
-      <td>277</td>
-      <td>388</td>
-      <td>-29%</td>
-      <td>27456</td>
+      <td>Hawthorne</td>
+      <td>955</td>
+      <td>848</td>
+      <td>1708</td>
+      <td>-50%</td>
+      <td>88787</td>
     </tr>
     <tr>
       <th>19</th>
-      <td>Hawthorne</td>
-      <td>1038</td>
-      <td>922</td>
-      <td>1739</td>
-      <td>-47%</td>
-      <td>88787</td>
+      <td>University Park</td>
+      <td>1074</td>
+      <td>295</td>
+      <td>351</td>
+      <td>-16%</td>
+      <td>27456</td>
     </tr>
   </tbody>
 </table>
