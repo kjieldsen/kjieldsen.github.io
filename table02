@@ -58,6 +58,15 @@
     </tr>
     <tr>
       <th>6</th>
+      <td>Alberta, Canada</td>
+      <td>121</td>
+      <td>5330</td>
+      <td>9158</td>
+      <td>-42%</td>
+      <td>4413146</td>
+    </tr>
+    <tr>
+      <th>7</th>
       <td>94539: Fremont</td>
       <td>130</td>
       <td>69</td>
@@ -66,7 +75,7 @@
       <td>52960</td>
     </tr>
     <tr>
-      <th>7</th>
+      <th>8</th>
       <td>King, Washington, US</td>
       <td>197</td>
       <td>4448</td>
@@ -75,7 +84,7 @@
       <td>2252782</td>
     </tr>
     <tr>
-      <th>8</th>
+      <th>9</th>
       <td>92122: San Diego</td>
       <td>206</td>
       <td>101</td>
@@ -84,7 +93,7 @@
       <td>48952</td>
     </tr>
     <tr>
-      <th>9</th>
+      <th>10</th>
       <td>Redondo Beach</td>
       <td>207</td>
       <td>142</td>
@@ -93,7 +102,16 @@
       <td>68697</td>
     </tr>
     <tr>
-      <th>10</th>
+      <th>11</th>
+      <td>San Francisco, California, US</td>
+      <td>221</td>
+      <td>1945</td>
+      <td>3470</td>
+      <td>-44%</td>
+      <td>881549</td>
+    </tr>
+    <tr>
+      <th>12</th>
       <td>Sunnyvale</td>
       <td>226</td>
       <td>345</td>
@@ -102,7 +120,7 @@
       <td>152323</td>
     </tr>
     <tr>
-      <th>11</th>
+      <th>13</th>
       <td>Rancho Palos Verdes</td>
       <td>246</td>
       <td>105</td>
@@ -111,7 +129,7 @@
       <td>42747</td>
     </tr>
     <tr>
-      <th>12</th>
+      <th>14</th>
       <td>Davis</td>
       <td>256</td>
       <td>174</td>
@@ -120,7 +138,7 @@
       <td>67988</td>
     </tr>
     <tr>
-      <th>13</th>
+      <th>15</th>
       <td>Torrance</td>
       <td>313</td>
       <td>467</td>
@@ -129,7 +147,7 @@
       <td>149268</td>
     </tr>
     <tr>
-      <th>14</th>
+      <th>16</th>
       <td>Santa Clara, California, US</td>
       <td>341</td>
       <td>6566</td>
@@ -138,7 +156,7 @@
       <td>1927852</td>
     </tr>
     <tr>
-      <th>15</th>
+      <th>17</th>
       <td>Alameda, California, US</td>
       <td>348</td>
       <td>5811</td>
@@ -147,7 +165,7 @@
       <td>1671329</td>
     </tr>
     <tr>
-      <th>16</th>
+      <th>18</th>
       <td>San Diego, California, US</td>
       <td>539</td>
       <td>17985</td>
@@ -156,7 +174,7 @@
       <td>3338330</td>
     </tr>
     <tr>
-      <th>17</th>
+      <th>19</th>
       <td>Suffolk, Massachusetts, US</td>
       <td>574</td>
       <td>4618</td>
@@ -165,7 +183,7 @@
       <td>803907</td>
     </tr>
     <tr>
-      <th>18</th>
+      <th>20</th>
       <td>94704: Berkeley</td>
       <td>621</td>
       <td>181</td>
@@ -174,7 +192,7 @@
       <td>29129</td>
     </tr>
     <tr>
-      <th>19</th>
+      <th>21</th>
       <td>Los Angeles, California, US</td>
       <td>667</td>
       <td>66942</td>
@@ -183,7 +201,7 @@
       <td>10039107</td>
     </tr>
     <tr>
-      <th>20</th>
+      <th>22</th>
       <td>Hawthorne</td>
       <td>708</td>
       <td>629</td>
@@ -192,7 +210,7 @@
       <td>88787</td>
     </tr>
     <tr>
-      <th>21</th>
+      <th>23</th>
       <td>Catalonia, Spain</td>
       <td>743</td>
       <td>56227</td>
@@ -201,7 +219,7 @@
       <td>7566431</td>
     </tr>
     <tr>
-      <th>22</th>
+      <th>24</th>
       <td>University Park</td>
       <td>1053</td>
       <td>289</td>
@@ -210,7 +228,7 @@
       <td>27456</td>
     </tr>
     <tr>
-      <th>23</th>
+      <th>25</th>
       <td>94720: Berkeley</td>
       <td>5165</td>
       <td>69</td>
