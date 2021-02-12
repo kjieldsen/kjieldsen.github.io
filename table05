@@ -13,203 +13,203 @@
   </thead>
   <tbody>
     <tr>
-      <th>138</th>
-      <td>02-09-2021</td>
-      <td>Pernambuco, Brazil</td>
-      <td>208</td>
-      <td>19863</td>
-      <td>19177</td>
-      <td>104</td>
-      <td>9557071</td>
-    </tr>
-    <tr>
-      <th>139</th>
-      <td>02-09-2021</td>
-      <td>Estonia</td>
-      <td>564</td>
-      <td>7479</td>
-      <td>7192</td>
-      <td>104</td>
-      <td>1326539</td>
-    </tr>
-    <tr>
-      <th>140</th>
-      <td>02-09-2021</td>
-      <td>Serbia</td>
-      <td>282</td>
-      <td>24649</td>
-      <td>23282</td>
-      <td>106</td>
-      <td>8737370</td>
-    </tr>
-    <tr>
-      <th>141</th>
-      <td>02-09-2021</td>
-      <td>Paraiba, Brazil</td>
-      <td>340</td>
-      <td>13673</td>
-      <td>12515</td>
-      <td>109</td>
-      <td>4018127</td>
-    </tr>
-    <tr>
-      <th>142</th>
-      <td>02-09-2021</td>
-      <td>Pais Vasco, Spain</td>
-      <td>620</td>
-      <td>13502</td>
-      <td>12079</td>
-      <td>112</td>
-      <td>2177880</td>
-    </tr>
-    <tr>
-      <th>143</th>
-      <td>02-09-2021</td>
+      <th>132</th>
+      <td>02-10-2021</td>
       <td>Asturias, Spain</td>
-      <td>582</td>
-      <td>5950</td>
-      <td>5218</td>
-      <td>114</td>
+      <td>551</td>
+      <td>5634</td>
+      <td>5493</td>
+      <td>103</td>
       <td>1022205</td>
     </tr>
     <tr>
-      <th>144</th>
-      <td>02-09-2021</td>
+      <th>133</th>
+      <td>02-10-2021</td>
+      <td>Paraiba, Brazil</td>
+      <td>338</td>
+      <td>13600</td>
+      <td>13047</td>
+      <td>104</td>
+      <td>4018127</td>
+    </tr>
+    <tr>
+      <th>134</th>
+      <td>02-10-2021</td>
+      <td>Slovakia</td>
+      <td>505</td>
+      <td>27594</td>
+      <td>26337</td>
+      <td>105</td>
+      <td>5459643</td>
+    </tr>
+    <tr>
+      <th>135</th>
+      <td>02-10-2021</td>
       <td>Para, Brazil</td>
-      <td>234</td>
-      <td>20156</td>
-      <td>17382</td>
-      <td>116</td>
+      <td>223</td>
+      <td>19192</td>
+      <td>18278</td>
+      <td>105</td>
       <td>8602865</td>
     </tr>
     <tr>
-      <th>145</th>
-      <td>02-09-2021</td>
+      <th>136</th>
+      <td>02-10-2021</td>
+      <td>Pais Vasco, Spain</td>
+      <td>605</td>
+      <td>13170</td>
+      <td>12433</td>
+      <td>106</td>
+      <td>2177880</td>
+    </tr>
+    <tr>
+      <th>137</th>
+      <td>02-10-2021</td>
+      <td>Serbia</td>
+      <td>285</td>
+      <td>24898</td>
+      <td>22854</td>
+      <td>109</td>
+      <td>8737370</td>
+    </tr>
+    <tr>
+      <th>138</th>
+      <td>02-10-2021</td>
+      <td>Estonia</td>
+      <td>576</td>
+      <td>7639</td>
+      <td>6975</td>
+      <td>110</td>
+      <td>1326539</td>
+    </tr>
+    <tr>
+      <th>139</th>
+      <td>02-10-2021</td>
       <td>Morelos, Mexico</td>
-      <td>321</td>
-      <td>6559</td>
-      <td>5587</td>
-      <td>117</td>
+      <td>304</td>
+      <td>6208</td>
+      <td>5531</td>
+      <td>112</td>
       <td>2044058</td>
     </tr>
     <tr>
-      <th>146</th>
-      <td>02-09-2021</td>
+      <th>140</th>
+      <td>02-10-2021</td>
       <td>Montenegro</td>
-      <td>1110</td>
-      <td>6972</td>
-      <td>5924</td>
-      <td>118</td>
+      <td>1120</td>
+      <td>7032</td>
+      <td>5985</td>
+      <td>117</td>
       <td>628062</td>
     </tr>
     <tr>
-      <th>147</th>
-      <td>02-09-2021</td>
-      <td>Valle del Cauca, Colombia</td>
-      <td>459</td>
-      <td>20522</td>
-      <td>16801</td>
-      <td>122</td>
-      <td>4475886</td>
+      <th>141</th>
+      <td>02-10-2021</td>
+      <td>Goias, Brazil</td>
+      <td>334</td>
+      <td>23421</td>
+      <td>19797</td>
+      <td>118</td>
+      <td>7018354</td>
     </tr>
     <tr>
-      <th>148</th>
-      <td>02-09-2021</td>
-      <td>Moldova</td>
-      <td>215</td>
-      <td>8691</td>
-      <td>6834</td>
-      <td>127</td>
-      <td>4033963</td>
-    </tr>
-    <tr>
-      <th>149</th>
-      <td>02-09-2021</td>
+      <th>142</th>
+      <td>02-10-2021</td>
       <td>Hidalgo, Texas, US</td>
-      <td>882</td>
-      <td>7662</td>
-      <td>5969</td>
-      <td>128</td>
+      <td>865</td>
+      <td>7516</td>
+      <td>5986</td>
+      <td>126</td>
       <td>868707</td>
     </tr>
     <tr>
-      <th>150</th>
-      <td>02-09-2021</td>
+      <th>143</th>
+      <td>02-10-2021</td>
+      <td>Moldova</td>
+      <td>221</td>
+      <td>8927</td>
+      <td>6680</td>
+      <td>134</td>
+      <td>4033963</td>
+    </tr>
+    <tr>
+      <th>144</th>
+      <td>02-10-2021</td>
       <td>Campania, Italy</td>
-      <td>325</td>
-      <td>18844</td>
-      <td>14298</td>
-      <td>132</td>
+      <td>333</td>
+      <td>19301</td>
+      <td>14378</td>
+      <td>134</td>
       <td>5801692</td>
     </tr>
     <tr>
-      <th>151</th>
-      <td>02-09-2021</td>
+      <th>145</th>
+      <td>02-10-2021</td>
       <td>Toscana, Italy</td>
-      <td>214</td>
-      <td>7967</td>
-      <td>5994</td>
-      <td>133</td>
+      <td>218</td>
+      <td>8136</td>
+      <td>5989</td>
+      <td>136</td>
       <td>3729641</td>
     </tr>
     <tr>
-      <th>152</th>
-      <td>02-09-2021</td>
-      <td>Lima, Peru</td>
-      <td>437</td>
-      <td>46417</td>
-      <td>32521</td>
-      <td>143</td>
-      <td>10628500</td>
-    </tr>
-    <tr>
-      <th>153</th>
-      <td>02-09-2021</td>
+      <th>146</th>
+      <td>02-10-2021</td>
       <td>P.A. Bolzano, Italy</td>
-      <td>1521</td>
-      <td>8097</td>
-      <td>5617</td>
-      <td>144</td>
+      <td>1566</td>
+      <td>8338</td>
+      <td>5896</td>
+      <td>141</td>
       <td>532318</td>
     </tr>
     <tr>
-      <th>154</th>
-      <td>02-09-2021</td>
+      <th>147</th>
+      <td>02-10-2021</td>
       <td>Albania</td>
-      <td>481</td>
-      <td>13837</td>
-      <td>9064</td>
+      <td>490</td>
+      <td>14104</td>
+      <td>9233</td>
       <td>153</td>
       <td>2877800</td>
     </tr>
     <tr>
-      <th>155</th>
-      <td>02-09-2021</td>
+      <th>148</th>
+      <td>02-10-2021</td>
       <td>Kuwait</td>
-      <td>251</td>
-      <td>10714</td>
-      <td>6947</td>
-      <td>154</td>
+      <td>260</td>
+      <td>11121</td>
+      <td>6988</td>
+      <td>159</td>
       <td>4270563</td>
     </tr>
     <tr>
-      <th>156</th>
-      <td>02-09-2021</td>
+      <th>149</th>
+      <td>02-10-2021</td>
+      <td>Lima, Peru</td>
+      <td>464</td>
+      <td>49275</td>
+      <td>30900</td>
+      <td>159</td>
+      <td>10628500</td>
+    </tr>
+    <tr>
+      <th>150</th>
+      <td>02-10-2021</td>
       <td>Bahrain</td>
-      <td>477</td>
-      <td>8118</td>
-      <td>4494</td>
-      <td>181</td>
+      <td>499</td>
+      <td>8488</td>
+      <td>4646</td>
+      <td>183</td>
       <td>1701583</td>
     </tr>
     <tr>
-      <th>157</th>
-      <td>02-09-2021</td>
+      <th>151</th>
+      <td>02-10-2021</td>
       <td>Ivano-Frankivsk Oblast, Ukraine</td>
-      <td>369</td>
-      <td>5069</td>
-      <td>2591</td>
-      <td>196</td>
+      <td>387</td>
+      <td>5312</td>
+      <td>2624</td>
+      <td>202</td>
       <td>1373252</td>
     </tr>
   </tbody>
