@@ -9,6 +9,8 @@ cat table_css.html table03 > table03.html
 cat table_css.html table04 > table04.html
 cat table_css.html table05 > table05.html
 
+ls -ltr
+
 git add --all
 git commit -m "update covid stats"
 git push
