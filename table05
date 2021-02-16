@@ -13,204 +13,204 @@
   </thead>
   <tbody>
     <tr>
-      <th>20</th>
-      <td>02-13-2021</td>
-      <td>Nassau, New York, US</td>
-      <td>400</td>
-      <td>5427</td>
-      <td>5614</td>
-      <td>97</td>
-      <td>1356924</td>
+      <th>13</th>
+      <td>02-14-2021</td>
+      <td>Slovenia</td>
+      <td>278</td>
+      <td>5775</td>
+      <td>7229</td>
+      <td>80</td>
+      <td>2078932</td>
     </tr>
     <tr>
-      <th>21</th>
-      <td>02-13-2021</td>
-      <td>United Arab Emirates</td>
-      <td>224</td>
-      <td>22203</td>
-      <td>22741</td>
-      <td>98</td>
-      <td>9890400</td>
+      <th>14</th>
+      <td>02-14-2021</td>
+      <td>Dallas, Texas, US</td>
+      <td>268</td>
+      <td>7071</td>
+      <td>8837</td>
+      <td>80</td>
+      <td>2635516</td>
     </tr>
     <tr>
-      <th>22</th>
-      <td>02-13-2021</td>
+      <th>15</th>
+      <td>02-14-2021</td>
       <td>Rondonia, Brazil</td>
-      <td>331</td>
-      <td>5882</td>
-      <td>5945</td>
-      <td>99</td>
+      <td>306</td>
+      <td>5431</td>
+      <td>6509</td>
+      <td>83</td>
       <td>1777225</td>
     </tr>
     <tr>
-      <th>23</th>
-      <td>02-13-2021</td>
+      <th>16</th>
+      <td>02-14-2021</td>
+      <td>Lima, Peru</td>
+      <td>242</td>
+      <td>25766</td>
+      <td>28950</td>
+      <td>89</td>
+      <td>10628500</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>02-14-2021</td>
+      <td>Miami-Dade, Florida, US</td>
+      <td>382</td>
+      <td>10370</td>
+      <td>11481</td>
+      <td>90</td>
+      <td>2716940</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>02-14-2021</td>
+      <td>Mato Grosso, Brazil</td>
+      <td>217</td>
+      <td>7577</td>
+      <td>8380</td>
+      <td>90</td>
+      <td>3484466</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>02-14-2021</td>
+      <td>Suffolk, New York, US</td>
+      <td>344</td>
+      <td>5080</td>
+      <td>5520</td>
+      <td>92</td>
+      <td>1476601</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>02-14-2021</td>
       <td>Broward, Florida, US</td>
-      <td>307</td>
-      <td>5994</td>
-      <td>6034</td>
-      <td>99</td>
+      <td>298</td>
+      <td>5825</td>
+      <td>6084</td>
+      <td>96</td>
       <td>1952778</td>
     </tr>
     <tr>
+      <th>21</th>
+      <td>02-14-2021</td>
+      <td>Nassau, New York, US</td>
+      <td>390</td>
+      <td>5289</td>
+      <td>5492</td>
+      <td>96</td>
+      <td>1356924</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>02-14-2021</td>
+      <td>Ciudad de Mexico, Mexico</td>
+      <td>226</td>
+      <td>20393</td>
+      <td>21155</td>
+      <td>96</td>
+      <td>9018645</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>02-14-2021</td>
+      <td>United Arab Emirates</td>
+      <td>225</td>
+      <td>22277</td>
+      <td>22886</td>
+      <td>97</td>
+      <td>9890400</td>
+    </tr>
+    <tr>
       <th>24</th>
-      <td>02-13-2021</td>
+      <td>02-14-2021</td>
       <td>Lebanon</td>
       <td>281</td>
-      <td>19163</td>
-      <td>18923</td>
-      <td>101</td>
+      <td>19212</td>
+      <td>18865</td>
+      <td>102</td>
       <td>6825442</td>
     </tr>
     <tr>
       <th>25</th>
-      <td>02-13-2021</td>
-      <td>Queens, New York, US</td>
-      <td>387</td>
-      <td>8714</td>
-      <td>8269</td>
-      <td>105</td>
-      <td>2253858</td>
+      <td>02-14-2021</td>
+      <td>Santa Catarina, Brazil</td>
+      <td>257</td>
+      <td>18417</td>
+      <td>17932</td>
+      <td>103</td>
+      <td>7164788</td>
     </tr>
     <tr>
       <th>26</th>
-      <td>02-13-2021</td>
+      <td>02-14-2021</td>
       <td>Kings, New York, US</td>
-      <td>364</td>
-      <td>9326</td>
-      <td>8764</td>
-      <td>106</td>
+      <td>351</td>
+      <td>8975</td>
+      <td>8674</td>
+      <td>103</td>
       <td>2559903</td>
     </tr>
     <tr>
       <th>27</th>
-      <td>02-13-2021</td>
-      <td>Slovakia</td>
-      <td>265</td>
-      <td>14460</td>
-      <td>13584</td>
-      <td>106</td>
-      <td>5459643</td>
+      <td>02-14-2021</td>
+      <td>Queens, New York, US</td>
+      <td>377</td>
+      <td>8496</td>
+      <td>8106</td>
+      <td>105</td>
+      <td>2253858</td>
     </tr>
     <tr>
       <th>28</th>
-      <td>02-13-2021</td>
+      <td>02-14-2021</td>
       <td>Czechia</td>
-      <td>492</td>
-      <td>52737</td>
-      <td>49398</td>
-      <td>107</td>
+      <td>495</td>
+      <td>53034</td>
+      <td>50201</td>
+      <td>106</td>
       <td>10708982</td>
     </tr>
     <tr>
       <th>29</th>
-      <td>02-13-2021</td>
-      <td>Albania</td>
-      <td>270</td>
-      <td>7775</td>
-      <td>6961</td>
-      <td>112</td>
-      <td>2877800</td>
+      <td>02-14-2021</td>
+      <td>Slovakia</td>
+      <td>262</td>
+      <td>14356</td>
+      <td>13413</td>
+      <td>107</td>
+      <td>5459643</td>
     </tr>
     <tr>
       <th>30</th>
-      <td>02-13-2021</td>
-      <td>Mato Grosso, Brazil</td>
-      <td>244</td>
-      <td>8517</td>
-      <td>7550</td>
-      <td>113</td>
-      <td>3484466</td>
+      <td>02-14-2021</td>
+      <td>Albania</td>
+      <td>269</td>
+      <td>7739</td>
+      <td>7209</td>
+      <td>107</td>
+      <td>2877800</td>
     </tr>
     <tr>
       <th>31</th>
-      <td>02-13-2021</td>
-      <td>Amazonas, Brazil</td>
-      <td>375</td>
-      <td>15533</td>
-      <td>12795</td>
-      <td>121</td>
-      <td>4144597</td>
-    </tr>
-    <tr>
-      <th>32</th>
-      <td>02-13-2021</td>
+      <td>02-14-2021</td>
       <td>Bronx, New York, US</td>
-      <td>503</td>
-      <td>7134</td>
-      <td>5823</td>
-      <td>123</td>
+      <td>480</td>
+      <td>6813</td>
+      <td>5848</td>
+      <td>117</td>
       <td>1418207</td>
     </tr>
     <tr>
-      <th>33</th>
-      <td>02-13-2021</td>
-      <td>Lima, Peru</td>
-      <td>243</td>
-      <td>25858</td>
-      <td>21084</td>
-      <td>123</td>
-      <td>10628500</td>
-    </tr>
-    <tr>
-      <th>34</th>
-      <td>02-13-2021</td>
-      <td>Espirito Santo, Brazil</td>
-      <td>237</td>
-      <td>9526</td>
-      <td>7594</td>
-      <td>125</td>
-      <td>4018650</td>
-    </tr>
-    <tr>
-      <th>35</th>
-      <td>02-13-2021</td>
+      <th>32</th>
+      <td>02-14-2021</td>
       <td>Bahrain</td>
-      <td>317</td>
-      <td>5389</td>
-      <td>4087</td>
-      <td>132</td>
+      <td>318</td>
+      <td>5413</td>
+      <td>4272</td>
+      <td>127</td>
       <td>1701583</td>
-    </tr>
-    <tr>
-      <th>36</th>
-      <td>02-13-2021</td>
-      <td>Santa Catarina, Brazil</td>
-      <td>291</td>
-      <td>20850</td>
-      <td>14833</td>
-      <td>141</td>
-      <td>7164788</td>
-    </tr>
-    <tr>
-      <th>37</th>
-      <td>02-13-2021</td>
-      <td>Mato Grosso do Sul, Brazil</td>
-      <td>209</td>
-      <td>5812</td>
-      <td>3691</td>
-      <td>157</td>
-      <td>2778986</td>
-    </tr>
-    <tr>
-      <th>38</th>
-      <td>02-13-2021</td>
-      <td>Paraiba, Brazil</td>
-      <td>211</td>
-      <td>8461</td>
-      <td>5002</td>
-      <td>169</td>
-      <td>4018127</td>
-    </tr>
-    <tr>
-      <th>39</th>
-      <td>02-13-2021</td>
-      <td>Rio Grande do Sul, Brazil</td>
-      <td>206</td>
-      <td>23484</td>
-      <td>13832</td>
-      <td>170</td>
-      <td>11377239</td>
     </tr>
   </tbody>
 </table>
