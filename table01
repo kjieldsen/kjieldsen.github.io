@@ -14,147 +14,147 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>2021-02-15</td>
-      <td>Palo Alto</td>
-      <td>33</td>
-      <td>22</td>
-      <td>46</td>
-      <td>-52%</td>
-      <td>67019</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>Cupertino</td>
-      <td>33</td>
-      <td>20</td>
-      <td>29</td>
-      <td>-31%</td>
+      <td>21</td>
+      <td>13</td>
+      <td>34</td>
+      <td>-62%</td>
       <td>60614</td>
     </tr>
     <tr>
-      <th>3</th>
-      <td>2021-02-15</td>
+      <th>2</th>
+      <td>2021-02-16</td>
       <td>94709: Berkeley</td>
-      <td>34</td>
-      <td>4</td>
-      <td>8</td>
-      <td>-50%</td>
+      <td>25</td>
+      <td>3</td>
+      <td>7</td>
+      <td>-57%</td>
       <td>11796</td>
     </tr>
     <tr>
-      <th>4</th>
-      <td>2021-02-15</td>
-      <td>Campbell</td>
-      <td>52</td>
-      <td>22</td>
-      <td>82</td>
-      <td>-73%</td>
-      <td>42470</td>
+      <th>3</th>
+      <td>2021-02-16</td>
+      <td>Palo Alto</td>
+      <td>28</td>
+      <td>19</td>
+      <td>39</td>
+      <td>-51%</td>
+      <td>67019</td>
     </tr>
     <tr>
-      <th>5</th>
-      <td>2021-02-15</td>
+      <th>4</th>
+      <td>2021-02-16</td>
       <td>94705: Berkeley</td>
-      <td>61</td>
-      <td>8</td>
-      <td>15</td>
-      <td>-47%</td>
+      <td>30</td>
+      <td>4</td>
+      <td>19</td>
+      <td>-79%</td>
       <td>13152</td>
     </tr>
     <tr>
+      <th>5</th>
+      <td>2021-02-16</td>
+      <td>Campbell</td>
+      <td>45</td>
+      <td>19</td>
+      <td>77</td>
+      <td>-75%</td>
+      <td>42470</td>
+    </tr>
+    <tr>
       <th>6</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>94703: Berkeley</td>
-      <td>66</td>
-      <td>13</td>
-      <td>29</td>
-      <td>-55%</td>
+      <td>50</td>
+      <td>10</td>
+      <td>28</td>
+      <td>-64%</td>
       <td>19805</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>2021-02-15</td>
-      <td>94539: Fremont</td>
-      <td>70</td>
-      <td>37</td>
-      <td>22</td>
-      <td>+68%</td>
-      <td>52960</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>94702: Berkeley</td>
-      <td>79</td>
-      <td>13</td>
-      <td>12</td>
-      <td>+8%</td>
+      <td>61</td>
+      <td>10</td>
+      <td>14</td>
+      <td>-29%</td>
       <td>16520</td>
     </tr>
     <tr>
+      <th>8</th>
+      <td>2021-02-16</td>
+      <td>94539: Fremont</td>
+      <td>74</td>
+      <td>39</td>
+      <td>24</td>
+      <td>+62%</td>
+      <td>52960</td>
+    </tr>
+    <tr>
       <th>9</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>94501: Alameda</td>
-      <td>83</td>
-      <td>52</td>
-      <td>90</td>
-      <td>-42%</td>
+      <td>76</td>
+      <td>48</td>
+      <td>74</td>
+      <td>-35%</td>
       <td>62826</td>
     </tr>
     <tr>
       <th>10</th>
-      <td>2021-02-15</td>
-      <td>94608: Emeryville</td>
-      <td>84</td>
-      <td>26</td>
-      <td>34</td>
-      <td>-24%</td>
-      <td>31000</td>
+      <td>2021-02-16</td>
+      <td>Sunnyvale</td>
+      <td>79</td>
+      <td>121</td>
+      <td>164</td>
+      <td>-26%</td>
+      <td>152323</td>
     </tr>
     <tr>
       <th>11</th>
-      <td>2021-02-15</td>
-      <td>94105</td>
+      <td>2021-02-16</td>
+      <td>94608: Emeryville</td>
       <td>87</td>
-      <td>8</td>
-      <td>8</td>
-      <td>+0%</td>
-      <td>9155</td>
+      <td>27</td>
+      <td>28</td>
+      <td>-4%</td>
+      <td>31000</td>
     </tr>
     <tr>
       <th>12</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>94108</td>
       <td>89</td>
       <td>13</td>
-      <td>16</td>
-      <td>-19%</td>
+      <td>11</td>
+      <td>+18%</td>
       <td>14550</td>
     </tr>
     <tr>
       <th>13</th>
-      <td>2021-02-15</td>
-      <td>Sunnyvale</td>
-      <td>91</td>
-      <td>139</td>
-      <td>169</td>
-      <td>-18%</td>
-      <td>152323</td>
-    </tr>
-    <tr>
-      <th>14</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>Milpitas</td>
-      <td>106</td>
-      <td>82</td>
-      <td>87</td>
-      <td>-6%</td>
+      <td>103</td>
+      <td>80</td>
+      <td>83</td>
+      <td>-4%</td>
       <td>77457</td>
     </tr>
     <tr>
+      <th>14</th>
+      <td>2021-02-16</td>
+      <td>94105</td>
+      <td>109</td>
+      <td>10</td>
+      <td>7</td>
+      <td>+43%</td>
+      <td>9155</td>
+    </tr>
+    <tr>
       <th>15</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>San Mateo</td>
       <td>120</td>
       <td>125</td>
@@ -164,47 +164,47 @@
     </tr>
     <tr>
       <th>16</th>
-      <td>2021-02-15</td>
-      <td>Cerritos</td>
-      <td>132</td>
-      <td>66</td>
-      <td>83</td>
-      <td>-20%</td>
-      <td>50067</td>
+      <td>2021-02-16</td>
+      <td>Richmond</td>
+      <td>122</td>
+      <td>136</td>
+      <td>243</td>
+      <td>-44%</td>
+      <td>111217</td>
     </tr>
     <tr>
       <th>17</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>San Jose</td>
-      <td>136</td>
-      <td>1397</td>
-      <td>1793</td>
-      <td>-22%</td>
+      <td>126</td>
+      <td>1296</td>
+      <td>1758</td>
+      <td>-26%</td>
       <td>1026658</td>
     </tr>
     <tr>
       <th>18</th>
-      <td>2021-02-15</td>
-      <td>Richmond</td>
-      <td>146</td>
-      <td>162</td>
-      <td>237</td>
-      <td>-32%</td>
-      <td>111217</td>
-    </tr>
-    <tr>
-      <th>19</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>94607: Oakland</td>
-      <td>146</td>
-      <td>39</td>
-      <td>40</td>
-      <td>-3%</td>
+      <td>135</td>
+      <td>36</td>
+      <td>38</td>
+      <td>-5%</td>
       <td>26646</td>
     </tr>
     <tr>
+      <th>19</th>
+      <td>2021-02-16</td>
+      <td>Cerritos</td>
+      <td>136</td>
+      <td>68</td>
+      <td>98</td>
+      <td>-31%</td>
+      <td>50067</td>
+    </tr>
+    <tr>
       <th>20</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>East Palo Alto</td>
       <td>209</td>
       <td>62</td>
@@ -214,22 +214,22 @@
     </tr>
     <tr>
       <th>21</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>94704: Berkeley</td>
-      <td>360</td>
-      <td>105</td>
-      <td>109</td>
-      <td>-4%</td>
+      <td>282</td>
+      <td>82</td>
+      <td>115</td>
+      <td>-29%</td>
       <td>29129</td>
     </tr>
     <tr>
       <th>22</th>
-      <td>2021-02-15</td>
+      <td>2021-02-16</td>
       <td>94720: Berkeley</td>
-      <td>2994</td>
-      <td>40</td>
-      <td>64</td>
-      <td>-38%</td>
+      <td>2844</td>
+      <td>38</td>
+      <td>55</td>
+      <td>-31%</td>
       <td>1336</td>
     </tr>
   </tbody>
