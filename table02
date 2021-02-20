@@ -2,7 +2,6 @@
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>date</th>
       <th>name</th>
       <th>recent_wk_cases_per_100k</th>
       <th>recent_wk_cases</th>
@@ -14,7 +13,42 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>2021-02-17</td>
+      <td>Taiwan*</td>
+      <td>0</td>
+      <td>3</td>
+      <td>18</td>
+      <td>-83%</td>
+      <td>23816775</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Hong Kong, China</td>
+      <td>1</td>
+      <td>102</td>
+      <td>180</td>
+      <td>-43%</td>
+      <td>7496988</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Kanagawa, Japan</td>
+      <td>9</td>
+      <td>864</td>
+      <td>1316</td>
+      <td>-34%</td>
+      <td>9198268</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Tokyo, Japan</td>
+      <td>18</td>
+      <td>2475</td>
+      <td>3558</td>
+      <td>-30%</td>
+      <td>13920663</td>
+    </tr>
+    <tr>
+      <th>5</th>
       <td>Cupertino</td>
       <td>18</td>
       <td>11</td>
@@ -23,8 +57,16 @@
       <td>60614</td>
     </tr>
     <tr>
-      <th>2</th>
-      <td>2021-02-17</td>
+      <th>6</th>
+      <td>Alberta, Canada</td>
+      <td>46</td>
+      <td>2045</td>
+      <td>2480</td>
+      <td>-18%</td>
+      <td>4413146</td>
+    </tr>
+    <tr>
+      <th>7</th>
       <td>92122: San Diego</td>
       <td>51</td>
       <td>25</td>
@@ -33,8 +75,16 @@
       <td>48952</td>
     </tr>
     <tr>
-      <th>3</th>
-      <td>2021-02-17</td>
+      <th>8</th>
+      <td>King, Washington, US</td>
+      <td>62</td>
+      <td>1405</td>
+      <td>1735</td>
+      <td>-19%</td>
+      <td>2252782</td>
+    </tr>
+    <tr>
+      <th>9</th>
       <td>Davis</td>
       <td>72</td>
       <td>49</td>
@@ -43,8 +93,7 @@
       <td>67988</td>
     </tr>
     <tr>
-      <th>4</th>
-      <td>2021-02-17</td>
+      <th>10</th>
       <td>Sunnyvale</td>
       <td>74</td>
       <td>113</td>
@@ -53,8 +102,7 @@
       <td>152323</td>
     </tr>
     <tr>
-      <th>5</th>
-      <td>2021-02-17</td>
+      <th>11</th>
       <td>Torrance</td>
       <td>76</td>
       <td>114</td>
@@ -63,8 +111,7 @@
       <td>149268</td>
     </tr>
     <tr>
-      <th>6</th>
-      <td>2021-02-17</td>
+      <th>12</th>
       <td>94539: Fremont</td>
       <td>79</td>
       <td>42</td>
@@ -73,8 +120,16 @@
       <td>52960</td>
     </tr>
     <tr>
-      <th>7</th>
-      <td>2021-02-17</td>
+      <th>13</th>
+      <td>San Francisco, California, US</td>
+      <td>80</td>
+      <td>709</td>
+      <td>994</td>
+      <td>-29%</td>
+      <td>881549</td>
+    </tr>
+    <tr>
+      <th>14</th>
       <td>Redondo Beach</td>
       <td>83</td>
       <td>57</td>
@@ -83,8 +138,25 @@
       <td>68697</td>
     </tr>
     <tr>
-      <th>8</th>
-      <td>2021-02-17</td>
+      <th>15</th>
+      <td>Santa Clara, California, US</td>
+      <td>102</td>
+      <td>1957</td>
+      <td>2787</td>
+      <td>-30%</td>
+      <td>1927852</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Alameda, California, US</td>
+      <td>108</td>
+      <td>1800</td>
+      <td>2257</td>
+      <td>-20%</td>
+      <td>1671329</td>
+    </tr>
+    <tr>
+      <th>17</th>
       <td>Rancho Palos Verdes</td>
       <td>136</td>
       <td>58</td>
@@ -93,8 +165,25 @@
       <td>42747</td>
     </tr>
     <tr>
-      <th>9</th>
-      <td>2021-02-17</td>
+      <th>18</th>
+      <td>San Diego, California, US</td>
+      <td>159</td>
+      <td>5319</td>
+      <td>7843</td>
+      <td>-32%</td>
+      <td>3338330</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Los Angeles, California, US</td>
+      <td>163</td>
+      <td>16374</td>
+      <td>25761</td>
+      <td>-36%</td>
+      <td>10039107</td>
+    </tr>
+    <tr>
+      <th>20</th>
       <td>Hawthorne</td>
       <td>185</td>
       <td>164</td>
@@ -103,8 +192,25 @@
       <td>88787</td>
     </tr>
     <tr>
-      <th>10</th>
-      <td>2021-02-17</td>
+      <th>21</th>
+      <td>Suffolk, Massachusetts, US</td>
+      <td>192</td>
+      <td>1547</td>
+      <td>2042</td>
+      <td>-24%</td>
+      <td>803907</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Catalonia, Spain</td>
+      <td>217</td>
+      <td>16433</td>
+      <td>25293</td>
+      <td>-35%</td>
+      <td>7566431</td>
+    </tr>
+    <tr>
+      <th>23</th>
       <td>94704: Berkeley</td>
       <td>254</td>
       <td>74</td>
@@ -113,8 +219,7 @@
       <td>29129</td>
     </tr>
     <tr>
-      <th>11</th>
-      <td>2021-02-17</td>
+      <th>24</th>
       <td>University Park</td>
       <td>317</td>
       <td>87</td>
@@ -123,8 +228,7 @@
       <td>27456</td>
     </tr>
     <tr>
-      <th>12</th>
-      <td>2021-02-17</td>
+      <th>25</th>
       <td>94720: Berkeley</td>
       <td>2695</td>
       <td>36</td>
