@@ -8,6 +8,7 @@ cat table_css.html table02 > table02.html
 cat table_css.html table03 > table03.html
 cat table_css.html table04 > table04.html
 cat table_css.html table05 > table05.html
+cat table_css.html table06 > table06.html
 
 ls -ltr
 
