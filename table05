@@ -13,6 +13,222 @@
   </thead>
   <tbody>
     <tr>
+      <th>80</th>
+      <td>03-01-2021</td>
+      <td>Serbia</td>
+      <td>265</td>
+      <td>23132</td>
+      <td>17386</td>
+      <td>+33%</td>
+      <td>8737370</td>
+    </tr>
+    <tr>
+      <th>81</th>
+      <td>03-01-2021</td>
+      <td>Distrito Federal, Brazil</td>
+      <td>267</td>
+      <td>8065</td>
+      <td>5195</td>
+      <td>+55%</td>
+      <td>3015268</td>
+    </tr>
+    <tr>
+      <th>82</th>
+      <td>03-01-2021</td>
+      <td>Hungary</td>
+      <td>282</td>
+      <td>27279</td>
+      <td>16847</td>
+      <td>+62%</td>
+      <td>9660350</td>
+    </tr>
+    <tr>
+      <th>83</th>
+      <td>03-01-2021</td>
+      <td>Jordan</td>
+      <td>283</td>
+      <td>28880</td>
+      <td>18716</td>
+      <td>+54%</td>
+      <td>10203140</td>
+    </tr>
+    <tr>
+      <th>84</th>
+      <td>03-01-2021</td>
+      <td>Miami-Dade, Florida, US</td>
+      <td>283</td>
+      <td>7693</td>
+      <td>8767</td>
+      <td>-12%</td>
+      <td>2716940</td>
+    </tr>
+    <tr>
+      <th>85</th>
+      <td>03-01-2021</td>
+      <td>Israel</td>
+      <td>288</td>
+      <td>24960</td>
+      <td>24705</td>
+      <td>+1%</td>
+      <td>8655541</td>
+    </tr>
+    <tr>
+      <th>86</th>
+      <td>03-01-2021</td>
+      <td>Parana, Brazil</td>
+      <td>289</td>
+      <td>33071</td>
+      <td>27671</td>
+      <td>+20%</td>
+      <td>11433957</td>
+    </tr>
+    <tr>
+      <th>87</th>
+      <td>03-01-2021</td>
+      <td>Slovakia</td>
+      <td>295</td>
+      <td>16133</td>
+      <td>14538</td>
+      <td>+11%</td>
+      <td>5459643</td>
+    </tr>
+    <tr>
+      <th>88</th>
+      <td>03-01-2021</td>
+      <td>Lebanon</td>
+      <td>298</td>
+      <td>20324</td>
+      <td>15746</td>
+      <td>+29%</td>
+      <td>6825442</td>
+    </tr>
+    <tr>
+      <th>89</th>
+      <td>03-01-2021</td>
+      <td>Rio Grande do Sul, Brazil</td>
+      <td>327</td>
+      <td>37258</td>
+      <td>20099</td>
+      <td>+85%</td>
+      <td>11377239</td>
+    </tr>
+    <tr>
+      <th>90</th>
+      <td>03-01-2021</td>
+      <td>Kings, New York, US</td>
+      <td>334</td>
+      <td>8558</td>
+      <td>8539</td>
+      <td>+0%</td>
+      <td>2559903</td>
+    </tr>
+    <tr>
+      <th>91</th>
+      <td>03-01-2021</td>
+      <td>Queens, New York, US</td>
+      <td>344</td>
+      <td>7746</td>
+      <td>8321</td>
+      <td>-7%</td>
+      <td>2253858</td>
+    </tr>
+    <tr>
+      <th>92</th>
+      <td>03-01-2021</td>
+      <td>Emilia-Romagna, Italy</td>
+      <td>344</td>
+      <td>15338</td>
+      <td>10733</td>
+      <td>+43%</td>
+      <td>4459477</td>
+    </tr>
+    <tr>
+      <th>93</th>
+      <td>03-01-2021</td>
+      <td>Vastra Gotaland, Sweden</td>
+      <td>350</td>
+      <td>6049</td>
+      <td>4532</td>
+      <td>+33%</td>
+      <td>1725881</td>
+    </tr>
+    <tr>
+      <th>94</th>
+      <td>03-01-2021</td>
+      <td>Rondonia, Brazil</td>
+      <td>362</td>
+      <td>6428</td>
+      <td>5701</td>
+      <td>+13%</td>
+      <td>1777225</td>
+    </tr>
+    <tr>
+      <th>95</th>
+      <td>03-01-2021</td>
+      <td>Ivano-Frankivsk Oblast, Ukraine</td>
+      <td>367</td>
+      <td>5036</td>
+      <td>4690</td>
+      <td>+7%</td>
+      <td>1373252</td>
+    </tr>
+    <tr>
+      <th>96</th>
+      <td>03-01-2021</td>
+      <td>Bronx, New York, US</td>
+      <td>395</td>
+      <td>5595</td>
+      <td>5813</td>
+      <td>-4%</td>
+      <td>1418207</td>
+    </tr>
+    <tr>
+      <th>97</th>
+      <td>03-01-2021</td>
+      <td>Santa Catarina, Brazil</td>
+      <td>471</td>
+      <td>33737</td>
+      <td>26399</td>
+      <td>+28%</td>
+      <td>7164788</td>
+    </tr>
+    <tr>
+      <th>98</th>
+      <td>03-01-2021</td>
+      <td>Estonia</td>
+      <td>617</td>
+      <td>8183</td>
+      <td>5618</td>
+      <td>+46%</td>
+      <td>1326539</td>
+    </tr>
+    <tr>
+      <th>99</th>
+      <td>03-01-2021</td>
+      <td>Czechia</td>
+      <td>774</td>
+      <td>82871</td>
+      <td>66320</td>
+      <td>+25%</td>
+      <td>10708982</td>
+    </tr>
+  </tbody>
+</table>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>date</th>
+      <th>name</th>
+      <th>recent_wk_cases_per_100k</th>
+      <th>recent_wk_cases</th>
+      <th>previous_wk_cases</th>
+      <th>trend</th>
+      <th>population</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <th>20</th>
       <td>03-01-2021</td>
       <td>Mato Grosso do Sul, Brazil</td>
