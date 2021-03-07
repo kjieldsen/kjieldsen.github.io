@@ -14,202 +14,202 @@
   <tbody>
     <tr>
       <th>77</th>
-      <td>03-04-2021</td>
-      <td>Campania, Italy</td>
-      <td>287</td>
-      <td>16652</td>
-      <td>12159</td>
-      <td>+37%</td>
-      <td>5801692</td>
+      <td>03-06-2021</td>
+      <td>Lombardia, Italy</td>
+      <td>299</td>
+      <td>30058</td>
+      <td>22786</td>
+      <td>+32%</td>
+      <td>10060574</td>
     </tr>
     <tr>
       <th>78</th>
-      <td>03-04-2021</td>
-      <td>Parana, Brazil</td>
-      <td>288</td>
-      <td>32956</td>
-      <td>28959</td>
-      <td>+14%</td>
-      <td>11433957</td>
-    </tr>
-    <tr>
-      <th>79</th>
-      <td>03-04-2021</td>
-      <td>Israel</td>
-      <td>297</td>
-      <td>25681</td>
-      <td>25792</td>
-      <td>-0%</td>
-      <td>8655541</td>
-    </tr>
-    <tr>
-      <th>80</th>
-      <td>03-04-2021</td>
-      <td>Slovakia</td>
-      <td>300</td>
-      <td>16384</td>
-      <td>15356</td>
-      <td>+7%</td>
-      <td>5459643</td>
-    </tr>
-    <tr>
-      <th>81</th>
-      <td>03-04-2021</td>
+      <td>03-06-2021</td>
       <td>Lebanon</td>
-      <td>301</td>
-      <td>20549</td>
-      <td>17509</td>
-      <td>+17%</td>
+      <td>299</td>
+      <td>20436</td>
+      <td>19421</td>
+      <td>+5%</td>
       <td>6825442</td>
     </tr>
     <tr>
+      <th>79</th>
+      <td>03-06-2021</td>
+      <td>Campania, Italy</td>
+      <td>303</td>
+      <td>17603</td>
+      <td>13600</td>
+      <td>+29%</td>
+      <td>5801692</td>
+    </tr>
+    <tr>
+      <th>80</th>
+      <td>03-06-2021</td>
+      <td>Israel</td>
+      <td>305</td>
+      <td>26392</td>
+      <td>28822</td>
+      <td>-8%</td>
+      <td>8655541</td>
+    </tr>
+    <tr>
+      <th>81</th>
+      <td>03-06-2021</td>
+      <td>Vastra Gotaland, Sweden</td>
+      <td>320</td>
+      <td>5515</td>
+      <td>6049</td>
+      <td>-9%</td>
+      <td>1725881</td>
+    </tr>
+    <tr>
       <th>82</th>
-      <td>03-04-2021</td>
-      <td>Jordan</td>
+      <td>03-06-2021</td>
+      <td>Distrito Federal, Brazil</td>
       <td>324</td>
-      <td>33082</td>
-      <td>23524</td>
-      <td>+41%</td>
-      <td>10203140</td>
+      <td>9762</td>
+      <td>6638</td>
+      <td>+47%</td>
+      <td>3015268</td>
     </tr>
     <tr>
       <th>83</th>
-      <td>03-04-2021</td>
+      <td>03-06-2021</td>
       <td>Kings, New York, US</td>
       <td>326</td>
-      <td>8337</td>
-      <td>8329</td>
-      <td>+0%</td>
+      <td>8334</td>
+      <td>8136</td>
+      <td>+2%</td>
       <td>2559903</td>
     </tr>
     <tr>
       <th>84</th>
-      <td>03-04-2021</td>
-      <td>Hungary</td>
-      <td>328</td>
-      <td>31664</td>
-      <td>20491</td>
-      <td>+55%</td>
-      <td>9660350</td>
+      <td>03-06-2021</td>
+      <td>Parana, Brazil</td>
+      <td>327</td>
+      <td>37433</td>
+      <td>31260</td>
+      <td>+20%</td>
+      <td>11433957</td>
     </tr>
     <tr>
       <th>85</th>
-      <td>03-04-2021</td>
-      <td>Miami-Dade, Florida, US</td>
-      <td>333</td>
-      <td>9034</td>
-      <td>8944</td>
-      <td>+1%</td>
-      <td>2716940</td>
-    </tr>
-    <tr>
-      <th>86</th>
-      <td>03-04-2021</td>
+      <td>03-06-2021</td>
       <td>Queens, New York, US</td>
-      <td>337</td>
-      <td>7596</td>
-      <td>7629</td>
-      <td>-0%</td>
+      <td>338</td>
+      <td>7624</td>
+      <td>7391</td>
+      <td>+3%</td>
       <td>2253858</td>
     </tr>
     <tr>
+      <th>86</th>
+      <td>03-06-2021</td>
+      <td>Miami-Dade, Florida, US</td>
+      <td>338</td>
+      <td>9195</td>
+      <td>8079</td>
+      <td>+14%</td>
+      <td>2716940</td>
+    </tr>
+    <tr>
       <th>87</th>
-      <td>03-04-2021</td>
-      <td>Vastra Gotaland, Sweden</td>
-      <td>340</td>
-      <td>5871</td>
-      <td>5260</td>
-      <td>+12%</td>
-      <td>1725881</td>
+      <td>03-06-2021</td>
+      <td>Jordan</td>
+      <td>342</td>
+      <td>34919</td>
+      <td>26685</td>
+      <td>+31%</td>
+      <td>10203140</td>
     </tr>
     <tr>
       <th>88</th>
-      <td>03-04-2021</td>
-      <td>Ivano-Frankivsk Oblast, Ukraine</td>
+      <td>03-06-2021</td>
+      <td>Hungary</td>
       <td>369</td>
-      <td>5074</td>
-      <td>4651</td>
-      <td>+9%</td>
-      <td>1373252</td>
+      <td>35686</td>
+      <td>24019</td>
+      <td>+49%</td>
+      <td>9660350</td>
     </tr>
     <tr>
       <th>89</th>
-      <td>03-04-2021</td>
-      <td>Rio Grande do Sul, Brazil</td>
-      <td>375</td>
-      <td>42618</td>
-      <td>30572</td>
-      <td>+39%</td>
-      <td>11377239</td>
-    </tr>
-    <tr>
-      <th>90</th>
-      <td>03-04-2021</td>
+      <td>03-06-2021</td>
       <td>Bronx, New York, US</td>
-      <td>380</td>
-      <td>5385</td>
-      <td>5539</td>
-      <td>-3%</td>
+      <td>372</td>
+      <td>5275</td>
+      <td>5294</td>
+      <td>-0%</td>
       <td>1418207</td>
     </tr>
     <tr>
+      <th>90</th>
+      <td>03-06-2021</td>
+      <td>Rio Grande do Sul, Brazil</td>
+      <td>415</td>
+      <td>47179</td>
+      <td>36328</td>
+      <td>+30%</td>
+      <td>11377239</td>
+    </tr>
+    <tr>
       <th>91</th>
-      <td>03-04-2021</td>
+      <td>03-06-2021</td>
       <td>Emilia-Romagna, Italy</td>
-      <td>387</td>
-      <td>17240</td>
-      <td>12265</td>
-      <td>+41%</td>
+      <td>417</td>
+      <td>18594</td>
+      <td>13837</td>
+      <td>+34%</td>
       <td>4459477</td>
     </tr>
     <tr>
       <th>92</th>
-      <td>03-04-2021</td>
+      <td>03-06-2021</td>
       <td>Rondonia, Brazil</td>
-      <td>432</td>
-      <td>7685</td>
-      <td>6221</td>
-      <td>+24%</td>
+      <td>467</td>
+      <td>8299</td>
+      <td>6290</td>
+      <td>+32%</td>
       <td>1777225</td>
     </tr>
     <tr>
       <th>93</th>
-      <td>03-04-2021</td>
+      <td>03-06-2021</td>
       <td>Santa Catarina, Brazil</td>
-      <td>511</td>
-      <td>36625</td>
-      <td>30263</td>
-      <td>+21%</td>
+      <td>516</td>
+      <td>36949</td>
+      <td>32366</td>
+      <td>+14%</td>
       <td>7164788</td>
     </tr>
     <tr>
       <th>94</th>
-      <td>03-04-2021</td>
+      <td>03-06-2021</td>
       <td>Estonia</td>
-      <td>677</td>
-      <td>8983</td>
-      <td>6332</td>
-      <td>+42%</td>
+      <td>700</td>
+      <td>9285</td>
+      <td>7366</td>
+      <td>+26%</td>
       <td>1326539</td>
     </tr>
     <tr>
       <th>95</th>
-      <td>03-04-2021</td>
+      <td>03-06-2021</td>
       <td>Czechia</td>
-      <td>804</td>
-      <td>86120</td>
-      <td>74916</td>
-      <td>+15%</td>
+      <td>790</td>
+      <td>84569</td>
+      <td>81274</td>
+      <td>+4%</td>
       <td>10708982</td>
     </tr>
     <tr>
       <th>96</th>
-      <td>03-04-2021</td>
+      <td>03-06-2021</td>
       <td>Catalonia, Spain</td>
-      <td>908</td>
-      <td>68733</td>
-      <td>16902</td>
-      <td>+307%</td>
+      <td>928</td>
+      <td>70219</td>
+      <td>17136</td>
+      <td>+310%</td>
       <td>7566431</td>
     </tr>
   </tbody>
