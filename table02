@@ -175,15 +175,6 @@
     </tr>
     <tr>
       <th>19</th>
-      <td>San Diego, California, US</td>
-      <td>72</td>
-      <td>2395</td>
-      <td>2890</td>
-      <td>-17%</td>
-      <td>3338330</td>
-    </tr>
-    <tr>
-      <th>20</th>
       <td>Torrance</td>
       <td>79</td>
       <td>118</td>
@@ -192,7 +183,7 @@
       <td>149268</td>
     </tr>
     <tr>
-      <th>21</th>
+      <th>20</th>
       <td>University Park</td>
       <td>80</td>
       <td>22</td>
@@ -201,12 +192,21 @@
       <td>27456</td>
     </tr>
     <tr>
+      <th>21</th>
+      <td>San Diego, California, US</td>
+      <td>82</td>
+      <td>2744</td>
+      <td>2890</td>
+      <td>-5%</td>
+      <td>3338330</td>
+    </tr>
+    <tr>
       <th>22</th>
       <td>Los Angeles, California, US</td>
       <td>107</td>
-      <td>10696</td>
+      <td>10723</td>
       <td>10458</td>
-      <td>+2%</td>
+      <td>+3%</td>
       <td>10039107</td>
     </tr>
     <tr>
