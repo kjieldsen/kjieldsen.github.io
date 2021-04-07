@@ -13,203 +13,203 @@
   </thead>
   <tbody>
     <tr>
-      <th>54</th>
-      <td>04-05-2021</td>
-      <td>Kharkiv Oblast, Ukraine</td>
-      <td>291</td>
-      <td>7795</td>
-      <td>6720</td>
-      <td>116</td>
-      <td>2675598</td>
-    </tr>
-    <tr>
-      <th>55</th>
-      <td>04-05-2021</td>
-      <td>Lithuania</td>
-      <td>215</td>
-      <td>5847</td>
-      <td>5025</td>
-      <td>116</td>
-      <td>2722291</td>
-    </tr>
-    <tr>
-      <th>56</th>
-      <td>04-05-2021</td>
-      <td>Kiev, Ukraine</td>
-      <td>268</td>
-      <td>7899</td>
-      <td>6783</td>
-      <td>116</td>
-      <td>2950800</td>
-    </tr>
-    <tr>
-      <th>57</th>
-      <td>04-05-2021</td>
+      <th>52</th>
+      <td>04-06-2021</td>
       <td>Khmelnytskyi Oblast, Ukraine</td>
-      <td>499</td>
-      <td>6311</td>
-      <td>5325</td>
-      <td>119</td>
+      <td>486</td>
+      <td>6152</td>
+      <td>5460</td>
+      <td>113</td>
       <td>1264705</td>
     </tr>
     <tr>
+      <th>53</th>
+      <td>04-06-2021</td>
+      <td>Lithuania</td>
+      <td>209</td>
+      <td>5684</td>
+      <td>5014</td>
+      <td>113</td>
+      <td>2722291</td>
+    </tr>
+    <tr>
+      <th>54</th>
+      <td>04-06-2021</td>
+      <td>Macomb, Michigan, US</td>
+      <td>734</td>
+      <td>6413</td>
+      <td>5657</td>
+      <td>113</td>
+      <td>873972</td>
+    </tr>
+    <tr>
+      <th>55</th>
+      <td>04-06-2021</td>
+      <td>Croatia</td>
+      <td>290</td>
+      <td>11890</td>
+      <td>10264</td>
+      <td>116</td>
+      <td>4105268</td>
+    </tr>
+    <tr>
+      <th>56</th>
+      <td>04-06-2021</td>
+      <td>Oakland, Michigan, US</td>
+      <td>477</td>
+      <td>6003</td>
+      <td>5049</td>
+      <td>119</td>
+      <td>1257584</td>
+    </tr>
+    <tr>
+      <th>57</th>
+      <td>04-06-2021</td>
+      <td>Kharkiv Oblast, Ukraine</td>
+      <td>296</td>
+      <td>7911</td>
+      <td>6639</td>
+      <td>119</td>
+      <td>2675598</td>
+    </tr>
+    <tr>
       <th>58</th>
-      <td>04-05-2021</td>
-      <td>Ceara, Brazil</td>
-      <td>245</td>
-      <td>22339</td>
-      <td>18651</td>
+      <td>04-06-2021</td>
+      <td>Odessa Oblast, Ukraine</td>
+      <td>362</td>
+      <td>8617</td>
+      <td>7183</td>
       <td>120</td>
-      <td>9132078</td>
+      <td>2380308</td>
     </tr>
     <tr>
       <th>59</th>
-      <td>04-05-2021</td>
+      <td>04-06-2021</td>
       <td>Bahrain</td>
-      <td>419</td>
-      <td>7122</td>
-      <td>5928</td>
+      <td>425</td>
+      <td>7237</td>
+      <td>6024</td>
       <td>120</td>
       <td>1701583</td>
     </tr>
     <tr>
       <th>60</th>
-      <td>04-05-2021</td>
-      <td>Serbia</td>
-      <td>411</td>
-      <td>35869</td>
-      <td>29609</td>
-      <td>121</td>
-      <td>8737370</td>
-    </tr>
-    <tr>
-      <th>61</th>
-      <td>04-05-2021</td>
-      <td>Oakland, Michigan, US</td>
-      <td>478</td>
-      <td>6006</td>
-      <td>4912</td>
-      <td>122</td>
-      <td>1257584</td>
-    </tr>
-    <tr>
-      <th>62</th>
-      <td>04-05-2021</td>
-      <td>Macomb, Michigan, US</td>
-      <td>764</td>
-      <td>6673</td>
-      <td>5290</td>
-      <td>126</td>
-      <td>873972</td>
-    </tr>
-    <tr>
-      <th>63</th>
-      <td>04-05-2021</td>
+      <td>04-06-2021</td>
       <td>Greece</td>
       <td>206</td>
-      <td>21522</td>
-      <td>16925</td>
-      <td>127</td>
+      <td>21493</td>
+      <td>17730</td>
+      <td>121</td>
       <td>10423056</td>
     </tr>
     <tr>
-      <th>64</th>
-      <td>04-05-2021</td>
-      <td>West Bank and Gaza</td>
-      <td>307</td>
-      <td>15674</td>
-      <td>12272</td>
-      <td>128</td>
-      <td>5101416</td>
-    </tr>
-    <tr>
-      <th>65</th>
-      <td>04-05-2021</td>
-      <td>Maharashtra, India</td>
-      <td>254</td>
-      <td>312367</td>
-      <td>241191</td>
-      <td>130</td>
-      <td>123144223</td>
-    </tr>
-    <tr>
-      <th>66</th>
-      <td>04-05-2021</td>
-      <td>Croatia</td>
-      <td>308</td>
-      <td>12642</td>
-      <td>9733</td>
-      <td>130</td>
-      <td>4105268</td>
-    </tr>
-    <tr>
-      <th>67</th>
-      <td>04-05-2021</td>
+      <th>61</th>
+      <td>04-06-2021</td>
       <td>Uruguay</td>
-      <td>587</td>
-      <td>20374</td>
-      <td>15354</td>
-      <td>133</td>
+      <td>593</td>
+      <td>20602</td>
+      <td>16454</td>
+      <td>125</td>
       <td>3473727</td>
     </tr>
     <tr>
-      <th>68</th>
-      <td>04-05-2021</td>
-      <td>Qatar</td>
-      <td>204</td>
-      <td>5870</td>
-      <td>4236</td>
-      <td>139</td>
-      <td>2881060</td>
+      <th>62</th>
+      <td>04-06-2021</td>
+      <td>Ceara, Brazil</td>
+      <td>295</td>
+      <td>26897</td>
+      <td>21364</td>
+      <td>126</td>
+      <td>9132078</td>
     </tr>
     <tr>
-      <th>69</th>
-      <td>04-05-2021</td>
+      <th>63</th>
+      <td>04-06-2021</td>
       <td>Wayne, Michigan, US</td>
-      <td>500</td>
-      <td>8752</td>
-      <td>6239</td>
-      <td>140</td>
+      <td>501</td>
+      <td>8772</td>
+      <td>6640</td>
+      <td>132</td>
       <td>1749343</td>
     </tr>
     <tr>
-      <th>70</th>
-      <td>04-05-2021</td>
+      <th>64</th>
+      <td>04-06-2021</td>
+      <td>Argentina</td>
+      <td>211</td>
+      <td>95264</td>
+      <td>71188</td>
+      <td>134</td>
+      <td>45195777</td>
+    </tr>
+    <tr>
+      <th>65</th>
+      <td>04-06-2021</td>
+      <td>West Bank and Gaza</td>
+      <td>321</td>
+      <td>16396</td>
+      <td>12021</td>
+      <td>136</td>
+      <td>5101416</td>
+    </tr>
+    <tr>
+      <th>66</th>
+      <td>04-06-2021</td>
+      <td>Qatar</td>
+      <td>211</td>
+      <td>6077</td>
+      <td>4422</td>
+      <td>137</td>
+      <td>2881060</td>
+    </tr>
+    <tr>
+      <th>67</th>
+      <td>04-06-2021</td>
       <td>Turkey</td>
-      <td>343</td>
-      <td>289024</td>
-      <td>205239</td>
-      <td>141</td>
+      <td>357</td>
+      <td>301305</td>
+      <td>216360</td>
+      <td>139</td>
       <td>84339067</td>
     </tr>
     <tr>
-      <th>71</th>
-      <td>04-05-2021</td>
+      <th>68</th>
+      <td>04-06-2021</td>
+      <td>Maharashtra, India</td>
+      <td>276</td>
+      <td>339918</td>
+      <td>240410</td>
+      <td>141</td>
+      <td>123144223</td>
+    </tr>
+    <tr>
+      <th>69</th>
+      <td>04-06-2021</td>
       <td>Atlantico, Colombia</td>
-      <td>650</td>
-      <td>16488</td>
-      <td>11496</td>
-      <td>143</td>
+      <td>686</td>
+      <td>17383</td>
+      <td>12201</td>
+      <td>142</td>
       <td>2535517</td>
     </tr>
     <tr>
-      <th>72</th>
-      <td>04-05-2021</td>
+      <th>70</th>
+      <td>04-06-2021</td>
       <td>Antioquia, Colombia</td>
-      <td>276</td>
-      <td>17687</td>
-      <td>9682</td>
-      <td>183</td>
+      <td>283</td>
+      <td>18104</td>
+      <td>10831</td>
+      <td>167</td>
       <td>6407102</td>
     </tr>
     <tr>
-      <th>73</th>
-      <td>04-05-2021</td>
+      <th>71</th>
+      <td>04-06-2021</td>
       <td>Callao, Peru</td>
-      <td>980</td>
-      <td>11070</td>
-      <td>4814</td>
-      <td>230</td>
+      <td>973</td>
+      <td>10994</td>
+      <td>3812</td>
+      <td>288</td>
       <td>1129900</td>
     </tr>
   </tbody>
