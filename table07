@@ -13,68 +13,38 @@
   </thead>
   <tbody>
     <tr>
-      <th>26</th>
-      <td>05-08-2021</td>
-      <td>Georgia</td>
-      <td>235</td>
-      <td>9373</td>
-      <td>8672</td>
-      <td>108</td>
-      <td>3989175</td>
-    </tr>
-    <tr>
       <th>27</th>
-      <td>05-08-2021</td>
-      <td>Gelderland, Netherlands</td>
-      <td>294</td>
-      <td>6137</td>
-      <td>5673</td>
-      <td>108</td>
-      <td>2085952</td>
+      <td>05-09-2021</td>
+      <td>Haryana, India</td>
+      <td>358</td>
+      <td>101009</td>
+      <td>90569</td>
+      <td>112</td>
+      <td>28204692</td>
     </tr>
     <tr>
       <th>28</th>
-      <td>05-08-2021</td>
-      <td>Alberta, Canada</td>
-      <td>317</td>
-      <td>13990</td>
-      <td>12798</td>
-      <td>109</td>
-      <td>4413146</td>
+      <td>05-09-2021</td>
+      <td>Noord-Brabant, Netherlands</td>
+      <td>377</td>
+      <td>9654</td>
+      <td>8637</td>
+      <td>112</td>
+      <td>2562955</td>
     </tr>
     <tr>
       <th>29</th>
-      <td>05-08-2021</td>
-      <td>Mongolia</td>
-      <td>230</td>
-      <td>7535</td>
-      <td>6802</td>
-      <td>111</td>
-      <td>3278292</td>
-    </tr>
-    <tr>
-      <th>30</th>
-      <td>05-08-2021</td>
+      <td>05-09-2021</td>
       <td>Kerala, India</td>
-      <td>728</td>
-      <td>260008</td>
-      <td>229633</td>
+      <td>739</td>
+      <td>263850</td>
+      <td>233123</td>
       <td>113</td>
       <td>35699443</td>
     </tr>
     <tr>
-      <th>31</th>
-      <td>05-08-2021</td>
-      <td>Haryana, India</td>
-      <td>357</td>
-      <td>100783</td>
-      <td>88232</td>
-      <td>114</td>
-      <td>28204692</td>
-    </tr>
-    <tr>
-      <th>32</th>
-      <td>05-08-2021</td>
+      <th>30</th>
+      <td>05-09-2021</td>
       <td>Costa Rica</td>
       <td>285</td>
       <td>14495</td>
@@ -83,134 +53,164 @@
       <td>5094114</td>
     </tr>
     <tr>
-      <th>33</th>
-      <td>05-08-2021</td>
+      <th>31</th>
+      <td>05-09-2021</td>
       <td>Noord-Holland, Netherlands</td>
-      <td>263</td>
-      <td>7566</td>
-      <td>6262</td>
-      <td>121</td>
+      <td>261</td>
+      <td>7516</td>
+      <td>6179</td>
+      <td>122</td>
       <td>2879527</td>
     </tr>
     <tr>
-      <th>34</th>
-      <td>05-08-2021</td>
-      <td>Karnataka, India</td>
-      <td>477</td>
-      <td>322316</td>
-      <td>259735</td>
+      <th>32</th>
+      <td>05-09-2021</td>
+      <td>Bolivar, Colombia</td>
+      <td>242</td>
+      <td>5020</td>
+      <td>4086</td>
+      <td>123</td>
+      <td>2070110</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>05-09-2021</td>
+      <td>Parana, Brazil</td>
+      <td>269</td>
+      <td>30729</td>
+      <td>24787</td>
       <td>124</td>
+      <td>11433957</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>05-09-2021</td>
+      <td>Karnataka, India</td>
+      <td>492</td>
+      <td>332513</td>
+      <td>262664</td>
+      <td>127</td>
       <td>67562686</td>
     </tr>
     <tr>
       <th>35</th>
-      <td>05-08-2021</td>
-      <td>Goa, India</td>
-      <td>1441</td>
-      <td>22858</td>
-      <td>18171</td>
-      <td>126</td>
-      <td>1586250</td>
-    </tr>
-    <tr>
-      <th>36</th>
-      <td>05-08-2021</td>
-      <td>Parana, Brazil</td>
-      <td>268</td>
-      <td>30652</td>
-      <td>24319</td>
-      <td>126</td>
-      <td>11433957</td>
-    </tr>
-    <tr>
-      <th>37</th>
-      <td>05-08-2021</td>
+      <td>05-09-2021</td>
       <td>Bahrain</td>
-      <td>582</td>
-      <td>9908</td>
-      <td>7662</td>
-      <td>129</td>
+      <td>591</td>
+      <td>10059</td>
+      <td>7927</td>
+      <td>127</td>
       <td>1701583</td>
     </tr>
     <tr>
-      <th>38</th>
-      <td>05-08-2021</td>
-      <td>Puducherry, India</td>
-      <td>713</td>
-      <td>10075</td>
-      <td>7730</td>
-      <td>130</td>
-      <td>1413542</td>
-    </tr>
-    <tr>
-      <th>39</th>
-      <td>05-08-2021</td>
-      <td>Piaui, Brazil</td>
-      <td>259</td>
-      <td>8472</td>
-      <td>6467</td>
-      <td>131</td>
-      <td>3273227</td>
-    </tr>
-    <tr>
-      <th>40</th>
-      <td>05-08-2021</td>
-      <td>Uttarakhand, India</td>
-      <td>465</td>
-      <td>52369</td>
-      <td>38581</td>
-      <td>136</td>
-      <td>11250858</td>
-    </tr>
-    <tr>
-      <th>41</th>
-      <td>05-08-2021</td>
-      <td>Tamil Nadu, India</td>
-      <td>212</td>
-      <td>165018</td>
-      <td>120015</td>
-      <td>137</td>
-      <td>77841267</td>
-    </tr>
-    <tr>
-      <th>42</th>
-      <td>05-08-2021</td>
+      <th>36</th>
+      <td>05-09-2021</td>
       <td>Andhra Pradesh, India</td>
-      <td>268</td>
-      <td>144337</td>
-      <td>100176</td>
-      <td>144</td>
+      <td>265</td>
+      <td>142581</td>
+      <td>111462</td>
+      <td>128</td>
       <td>53903393</td>
     </tr>
     <tr>
-      <th>43</th>
-      <td>05-08-2021</td>
+      <th>37</th>
+      <td>05-09-2021</td>
+      <td>Puducherry, India</td>
+      <td>732</td>
+      <td>10348</td>
+      <td>8082</td>
+      <td>128</td>
+      <td>1413542</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>05-09-2021</td>
+      <td>Goa, India</td>
+      <td>1479</td>
+      <td>23461</td>
+      <td>17908</td>
+      <td>131</td>
+      <td>1586250</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>05-09-2021</td>
+      <td>Uttarakhand, India</td>
+      <td>468</td>
+      <td>52653</td>
+      <td>39819</td>
+      <td>132</td>
+      <td>11250858</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>05-09-2021</td>
+      <td>Tamil Nadu, India</td>
+      <td>222</td>
+      <td>173147</td>
+      <td>125124</td>
+      <td>138</td>
+      <td>77841267</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>05-09-2021</td>
       <td>Jammu and Kashmir, India</td>
-      <td>234</td>
-      <td>31827</td>
-      <td>21541</td>
-      <td>148</td>
+      <td>246</td>
+      <td>33446</td>
+      <td>22731</td>
+      <td>147</td>
       <td>13606320</td>
     </tr>
     <tr>
-      <th>44</th>
-      <td>05-08-2021</td>
+      <th>42</th>
+      <td>05-09-2021</td>
+      <td>Ceara, Brazil</td>
+      <td>432</td>
+      <td>39459</td>
+      <td>26557</td>
+      <td>149</td>
+      <td>9132078</td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td>05-09-2021</td>
       <td>Himachal Pradesh, India</td>
-      <td>353</td>
-      <td>26292</td>
-      <td>15900</td>
-      <td>165</td>
+      <td>361</td>
+      <td>26932</td>
+      <td>16990</td>
+      <td>159</td>
       <td>7451955</td>
     </tr>
     <tr>
+      <th>44</th>
+      <td>05-09-2021</td>
+      <td>Nepal</td>
+      <td>201</td>
+      <td>58637</td>
+      <td>35911</td>
+      <td>163</td>
+      <td>29136808</td>
+    </tr>
+    <tr>
       <th>45</th>
-      <td>05-08-2021</td>
+      <td>05-09-2021</td>
       <td>Rio de Janeiro, Brazil</td>
-      <td>226</td>
-      <td>39050</td>
-      <td>21876</td>
-      <td>179</td>
+      <td>224</td>
+      <td>38638</td>
+      <td>22853</td>
+      <td>169</td>
       <td>17264943</td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>05-09-2021</td>
+      <td>Maldives</td>
+      <td>938</td>
+      <td>5070</td>
+      <td>2871</td>
+      <td>177</td>
+      <td>540542</td>
     </tr>
   </tbody>
 </table>
