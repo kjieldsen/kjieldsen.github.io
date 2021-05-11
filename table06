@@ -13,28 +13,58 @@
   </thead>
   <tbody>
     <tr>
-      <th>114</th>
-      <td>05-09-2021</td>
-      <td>Argentina</td>
-      <td>315</td>
-      <td>142481</td>
-      <td>144375</td>
+      <th>113</th>
+      <td>05-10-2021</td>
+      <td>Alberta, Canada</td>
+      <td>305</td>
+      <td>13477</td>
+      <td>13609</td>
       <td>-1%</td>
-      <td>45195777</td>
+      <td>4413146</td>
+    </tr>
+    <tr>
+      <th>114</th>
+      <td>05-10-2021</td>
+      <td>Zuid-Holland, Netherlands</td>
+      <td>309</td>
+      <td>11449</td>
+      <td>11750</td>
+      <td>-3%</td>
+      <td>3708696</td>
     </tr>
     <tr>
       <th>115</th>
-      <td>05-09-2021</td>
-      <td>Chhattisgarh, India</td>
-      <td>323</td>
-      <td>95049</td>
-      <td>104065</td>
-      <td>-9%</td>
-      <td>29436231</td>
+      <td>05-10-2021</td>
+      <td>Haryana, India</td>
+      <td>312</td>
+      <td>88124</td>
+      <td>91950</td>
+      <td>-4%</td>
+      <td>28204692</td>
     </tr>
     <tr>
       <th>116</th>
-      <td>05-09-2021</td>
+      <td>05-10-2021</td>
+      <td>Argentina</td>
+      <td>318</td>
+      <td>143942</td>
+      <td>141502</td>
+      <td>+2%</td>
+      <td>45195777</td>
+    </tr>
+    <tr>
+      <th>117</th>
+      <td>05-10-2021</td>
+      <td>Himachal Pradesh, India</td>
+      <td>326</td>
+      <td>24302</td>
+      <td>17928</td>
+      <td>+36%</td>
+      <td>7451955</td>
+    </tr>
+    <tr>
+      <th>118</th>
+      <td>05-10-2021</td>
       <td>Stockholm, Sweden</td>
       <td>328</td>
       <td>7803</td>
@@ -43,173 +73,143 @@
       <td>2377081</td>
     </tr>
     <tr>
-      <th>117</th>
-      <td>05-09-2021</td>
-      <td>Zuid-Holland, Netherlands</td>
-      <td>332</td>
-      <td>12317</td>
-      <td>11132</td>
-      <td>+11%</td>
-      <td>3708696</td>
-    </tr>
-    <tr>
-      <th>118</th>
-      <td>05-09-2021</td>
-      <td>Haryana, India</td>
-      <td>358</td>
-      <td>101009</td>
-      <td>90569</td>
-      <td>+12%</td>
-      <td>28204692</td>
-    </tr>
-    <tr>
       <th>119</th>
-      <td>05-09-2021</td>
-      <td>Himachal Pradesh, India</td>
-      <td>361</td>
-      <td>26932</td>
-      <td>16990</td>
-      <td>+59%</td>
-      <td>7451955</td>
-    </tr>
-    <tr>
-      <th>120</th>
-      <td>05-09-2021</td>
+      <td>05-10-2021</td>
       <td>Noord-Brabant, Netherlands</td>
-      <td>377</td>
-      <td>9654</td>
-      <td>8637</td>
-      <td>+12%</td>
+      <td>355</td>
+      <td>9106</td>
+      <td>9138</td>
+      <td>-0%</td>
       <td>2562955</td>
     </tr>
     <tr>
-      <th>121</th>
-      <td>05-09-2021</td>
+      <th>120</th>
+      <td>05-10-2021</td>
       <td>Atlantico, Colombia</td>
-      <td>398</td>
-      <td>10085</td>
-      <td>16250</td>
-      <td>-38%</td>
+      <td>396</td>
+      <td>10046</td>
+      <td>15285</td>
+      <td>-34%</td>
       <td>2535517</td>
     </tr>
     <tr>
+      <th>121</th>
+      <td>05-10-2021</td>
+      <td>Uttarakhand, India</td>
+      <td>420</td>
+      <td>47250</td>
+      <td>40164</td>
+      <td>+18%</td>
+      <td>11250858</td>
+    </tr>
+    <tr>
       <th>122</th>
-      <td>05-09-2021</td>
+      <td>05-10-2021</td>
       <td>Ceara, Brazil</td>
-      <td>432</td>
-      <td>39459</td>
-      <td>26557</td>
-      <td>+49%</td>
+      <td>423</td>
+      <td>38591</td>
+      <td>23138</td>
+      <td>+67%</td>
       <td>9132078</td>
     </tr>
     <tr>
       <th>123</th>
-      <td>05-09-2021</td>
-      <td>Capital District, Colombia</td>
-      <td>450</td>
-      <td>33359</td>
-      <td>31159</td>
-      <td>+7%</td>
-      <td>7412566</td>
-    </tr>
-    <tr>
-      <th>124</th>
-      <td>05-09-2021</td>
-      <td>Uttarakhand, India</td>
-      <td>468</td>
-      <td>52653</td>
-      <td>39819</td>
-      <td>+32%</td>
-      <td>11250858</td>
-    </tr>
-    <tr>
-      <th>125</th>
-      <td>05-09-2021</td>
+      <td>05-10-2021</td>
       <td>Karnataka, India</td>
-      <td>492</td>
-      <td>332513</td>
-      <td>262664</td>
-      <td>+27%</td>
+      <td>426</td>
+      <td>288075</td>
+      <td>277358</td>
+      <td>+4%</td>
       <td>67562686</td>
     </tr>
     <tr>
-      <th>126</th>
-      <td>05-09-2021</td>
+      <th>124</th>
+      <td>05-10-2021</td>
       <td>Chandigarh, India</td>
-      <td>509</td>
-      <td>5901</td>
-      <td>5614</td>
-      <td>+5%</td>
+      <td>433</td>
+      <td>5011</td>
+      <td>5683</td>
+      <td>-12%</td>
       <td>1158473</td>
     </tr>
     <tr>
-      <th>127</th>
-      <td>05-09-2021</td>
+      <th>125</th>
+      <td>05-10-2021</td>
+      <td>Capital District, Colombia</td>
+      <td>454</td>
+      <td>33677</td>
+      <td>30477</td>
+      <td>+10%</td>
+      <td>7412566</td>
+    </tr>
+    <tr>
+      <th>126</th>
+      <td>05-10-2021</td>
       <td>Uruguay</td>
-      <td>524</td>
-      <td>18191</td>
-      <td>17627</td>
-      <td>+3%</td>
+      <td>540</td>
+      <td>18750</td>
+      <td>16771</td>
+      <td>+12%</td>
       <td>3473727</td>
     </tr>
     <tr>
-      <th>128</th>
-      <td>05-09-2021</td>
-      <td>Bahrain</td>
+      <th>127</th>
+      <td>05-10-2021</td>
+      <td>Delhi, India</td>
       <td>591</td>
-      <td>10059</td>
-      <td>7927</td>
-      <td>+27%</td>
+      <td>110578</td>
+      <td>165073</td>
+      <td>-33%</td>
+      <td>18710922</td>
+    </tr>
+    <tr>
+      <th>128</th>
+      <td>05-10-2021</td>
+      <td>Bahrain</td>
+      <td>620</td>
+      <td>10556</td>
+      <td>7886</td>
+      <td>+34%</td>
       <td>1701583</td>
     </tr>
     <tr>
       <th>129</th>
-      <td>05-09-2021</td>
-      <td>Delhi, India</td>
-      <td>687</td>
-      <td>128621</td>
-      <td>167231</td>
-      <td>-23%</td>
-      <td>18710922</td>
+      <td>05-10-2021</td>
+      <td>Kerala, India</td>
+      <td>666</td>
+      <td>237839</td>
+      <td>237244</td>
+      <td>+0%</td>
+      <td>35699443</td>
     </tr>
     <tr>
       <th>130</th>
-      <td>05-09-2021</td>
+      <td>05-10-2021</td>
       <td>Puducherry, India</td>
-      <td>732</td>
-      <td>10348</td>
-      <td>8082</td>
-      <td>+28%</td>
+      <td>676</td>
+      <td>9549</td>
+      <td>8134</td>
+      <td>+17%</td>
       <td>1413542</td>
     </tr>
     <tr>
       <th>131</th>
-      <td>05-09-2021</td>
-      <td>Kerala, India</td>
-      <td>739</td>
-      <td>263850</td>
-      <td>233123</td>
-      <td>+13%</td>
-      <td>35699443</td>
-    </tr>
-    <tr>
-      <th>132</th>
-      <td>05-09-2021</td>
+      <td>05-10-2021</td>
       <td>Maldives</td>
-      <td>938</td>
-      <td>5070</td>
-      <td>2871</td>
-      <td>+77%</td>
+      <td>1052</td>
+      <td>5689</td>
+      <td>3128</td>
+      <td>+82%</td>
       <td>540542</td>
     </tr>
     <tr>
-      <th>133</th>
-      <td>05-09-2021</td>
+      <th>132</th>
+      <td>05-10-2021</td>
       <td>Goa, India</td>
-      <td>1479</td>
-      <td>23461</td>
-      <td>17908</td>
-      <td>+31%</td>
+      <td>1309</td>
+      <td>20758</td>
+      <td>18290</td>
+      <td>+13%</td>
       <td>1586250</td>
     </tr>
   </tbody>
