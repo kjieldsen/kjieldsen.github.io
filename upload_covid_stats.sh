@@ -11,6 +11,13 @@ cat table_css.html table05 > table05.html
 cat table_css.html table06 > table06.html
 cat table_css.html table07 > table07.html
 
+$FILES = ./*_covid_table.html
+for f in $FILES
+do
+  cat table_css.html $f > temp.html
+  mv temp.html $f
+done
+
 ls -ltr
 
 git add --all
