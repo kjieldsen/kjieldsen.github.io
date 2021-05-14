@@ -14,7 +14,7 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>94720: Berkeley</td>
       <td>0</td>
       <td>0</td>
@@ -24,112 +24,112 @@
     </tr>
     <tr>
       <th>2</th>
-      <td>2021-05-12</td>
-      <td>Davis</td>
-      <td>9</td>
-      <td>6</td>
-      <td>11</td>
-      <td>-45%</td>
-      <td>67988</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>2021-05-12</td>
-      <td>University Park</td>
-      <td>11</td>
-      <td>3</td>
-      <td>9</td>
-      <td>-67%</td>
-      <td>27456</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>2021-05-12</td>
-      <td>Redondo Beach</td>
-      <td>16</td>
-      <td>11</td>
-      <td>7</td>
-      <td>+57%</td>
-      <td>68697</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>2021-05-12</td>
-      <td>Rancho Palos Verdes</td>
-      <td>16</td>
-      <td>7</td>
-      <td>8</td>
-      <td>-12%</td>
-      <td>42747</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>2021-05-12</td>
-      <td>94539: Fremont</td>
-      <td>17</td>
-      <td>9</td>
-      <td>43</td>
-      <td>-79%</td>
-      <td>52960</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>2021-05-12</td>
-      <td>92122: San Diego</td>
-      <td>20</td>
-      <td>10</td>
-      <td>18</td>
-      <td>-44%</td>
-      <td>48952</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>94704: Berkeley</td>
-      <td>21</td>
-      <td>6</td>
-      <td>5</td>
-      <td>+20%</td>
+      <td>7</td>
+      <td>2</td>
+      <td>9</td>
+      <td>-78%</td>
       <td>29129</td>
     </tr>
     <tr>
-      <th>9</th>
-      <td>2021-05-12</td>
+      <th>3</th>
+      <td>2021-05-13</td>
+      <td>Redondo Beach</td>
+      <td>7</td>
+      <td>5</td>
+      <td>11</td>
+      <td>-55%</td>
+      <td>68697</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>2021-05-13</td>
+      <td>Davis</td>
+      <td>9</td>
+      <td>6</td>
+      <td>12</td>
+      <td>-50%</td>
+      <td>67988</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>2021-05-13</td>
+      <td>University Park</td>
+      <td>15</td>
+      <td>4</td>
+      <td>6</td>
+      <td>-33%</td>
+      <td>27456</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>2021-05-13</td>
+      <td>92122: San Diego</td>
+      <td>16</td>
+      <td>8</td>
+      <td>16</td>
+      <td>-50%</td>
+      <td>48952</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>2021-05-13</td>
+      <td>Rancho Palos Verdes</td>
+      <td>21</td>
+      <td>9</td>
+      <td>8</td>
+      <td>+12%</td>
+      <td>42747</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>2021-05-13</td>
       <td>Cupertino</td>
       <td>21</td>
       <td>13</td>
-      <td>9</td>
-      <td>+44%</td>
+      <td>0</td>
+      <td>-99%</td>
       <td>60614</td>
     </tr>
     <tr>
+      <th>9</th>
+      <td>2021-05-13</td>
+      <td>94539: Fremont</td>
+      <td>25</td>
+      <td>13</td>
+      <td>42</td>
+      <td>-69%</td>
+      <td>52960</td>
+    </tr>
+    <tr>
       <th>10</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Sunnyvale</td>
       <td>29</td>
       <td>44</td>
-      <td>53</td>
-      <td>-17%</td>
+      <td>0</td>
+      <td>-99%</td>
       <td>152323</td>
     </tr>
     <tr>
       <th>11</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Hawthorne</td>
       <td>32</td>
       <td>28</td>
-      <td>48</td>
-      <td>-42%</td>
+      <td>49</td>
+      <td>-43%</td>
       <td>88787</td>
     </tr>
     <tr>
       <th>12</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Torrance</td>
-      <td>35</td>
-      <td>52</td>
-      <td>35</td>
-      <td>+49%</td>
+      <td>33</td>
+      <td>50</td>
+      <td>32</td>
+      <td>+56%</td>
       <td>149268</td>
     </tr>
   </tbody>

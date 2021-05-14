@@ -1023,56 +1023,6 @@
     <tr>
       <th>2</th>
       <td>2021-05-13</td>
-      <td>South San Francisco</td>
-      <td>0</td>
-      <td>0</td>
-      <td>15</td>
-      <td>-100%</td>
-      <td>67408</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>2021-05-13</td>
-      <td>San Mateo</td>
-      <td>0</td>
-      <td>0</td>
-      <td>50</td>
-      <td>-100%</td>
-      <td>104333</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>2021-05-13</td>
-      <td>San Carlos</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>-100%</td>
-      <td>30154</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>2021-05-13</td>
-      <td>San Bruno</td>
-      <td>0</td>
-      <td>0</td>
-      <td>9</td>
-      <td>-100%</td>
-      <td>43083</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>2021-05-13</td>
-      <td>Redwood City</td>
-      <td>0</td>
-      <td>0</td>
-      <td>28</td>
-      <td>-100%</td>
-      <td>85784</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>2021-05-13</td>
       <td>Princeton</td>
       <td>0</td>
       <td>0</td>
@@ -1081,17 +1031,7 @@
       <td>382</td>
     </tr>
     <tr>
-      <th>8</th>
-      <td>2021-05-13</td>
-      <td>Portola Valley</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>-100%</td>
-      <td>4592</td>
-    </tr>
-    <tr>
-      <th>9</th>
+      <th>3</th>
       <td>2021-05-13</td>
       <td>Pescadero</td>
       <td>0</td>
@@ -1101,27 +1041,7 @@
       <td>219</td>
     </tr>
     <tr>
-      <th>10</th>
-      <td>2021-05-13</td>
-      <td>Pacifica</td>
-      <td>0</td>
-      <td>0</td>
-      <td>10</td>
-      <td>-100%</td>
-      <td>38984</td>
-    </tr>
-    <tr>
-      <th>11</th>
-      <td>2021-05-13</td>
-      <td>North Fair Oaks</td>
-      <td>0</td>
-      <td>0</td>
-      <td>7</td>
-      <td>-100%</td>
-      <td>14372</td>
-    </tr>
-    <tr>
-      <th>12</th>
+      <th>4</th>
       <td>2021-05-13</td>
       <td>Moss Beach</td>
       <td>0</td>
@@ -1131,47 +1051,7 @@
       <td>3604</td>
     </tr>
     <tr>
-      <th>13</th>
-      <td>2021-05-13</td>
-      <td>Montara</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>-99%</td>
-      <td>2504</td>
-    </tr>
-    <tr>
-      <th>14</th>
-      <td>2021-05-13</td>
-      <td>Millbrae</td>
-      <td>0</td>
-      <td>0</td>
-      <td>4</td>
-      <td>-100%</td>
-      <td>22625</td>
-    </tr>
-    <tr>
-      <th>15</th>
-      <td>2021-05-13</td>
-      <td>Menlo Park</td>
-      <td>0</td>
-      <td>0</td>
-      <td>12</td>
-      <td>-100%</td>
-      <td>34138</td>
-    </tr>
-    <tr>
-      <th>16</th>
-      <td>2021-05-13</td>
-      <td>Loma Mar</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>-99%</td>
-      <td>172</td>
-    </tr>
-    <tr>
-      <th>17</th>
+      <th>5</th>
       <td>2021-05-13</td>
       <td>Ladera</td>
       <td>0</td>
@@ -1181,7 +1061,7 @@
       <td>1607</td>
     </tr>
     <tr>
-      <th>18</th>
+      <th>6</th>
       <td>2021-05-13</td>
       <td>La Honda</td>
       <td>0</td>
@@ -1191,37 +1071,7 @@
       <td>960</td>
     </tr>
     <tr>
-      <th>19</th>
-      <td>2021-05-13</td>
-      <td>Hillsborough</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>-100%</td>
-      <td>11447</td>
-    </tr>
-    <tr>
-      <th>20</th>
-      <td>2021-05-13</td>
-      <td>Half Moon Bay</td>
-      <td>0</td>
-      <td>0</td>
-      <td>2</td>
-      <td>-100%</td>
-      <td>12834</td>
-    </tr>
-    <tr>
-      <th>21</th>
-      <td>2021-05-13</td>
-      <td>Foster City</td>
-      <td>0</td>
-      <td>0</td>
-      <td>6</td>
-      <td>-100%</td>
-      <td>33997</td>
-    </tr>
-    <tr>
-      <th>22</th>
+      <th>7</th>
       <td>2021-05-13</td>
       <td>Emerald Hills</td>
       <td>0</td>
@@ -1231,37 +1081,27 @@
       <td>4721</td>
     </tr>
     <tr>
-      <th>23</th>
+      <th>8</th>
       <td>2021-05-13</td>
-      <td>El Granada</td>
+      <td>Loma Mar</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>172</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>2021-05-13</td>
+      <td>Woodside</td>
       <td>0</td>
       <td>0</td>
       <td>1</td>
       <td>-100%</td>
-      <td>6102</td>
+      <td>5542</td>
     </tr>
     <tr>
-      <th>24</th>
-      <td>2021-05-13</td>
-      <td>East Palo Alto</td>
-      <td>0</td>
-      <td>0</td>
-      <td>17</td>
-      <td>-100%</td>
-      <td>29593</td>
-    </tr>
-    <tr>
-      <th>25</th>
-      <td>2021-05-13</td>
-      <td>Daly City</td>
-      <td>0</td>
-      <td>0</td>
-      <td>34</td>
-      <td>-100%</td>
-      <td>106677</td>
-    </tr>
-    <tr>
-      <th>26</th>
+      <th>10</th>
       <td>2021-05-13</td>
       <td>Colma</td>
       <td>0</td>
@@ -1271,51 +1111,211 @@
       <td>1302</td>
     </tr>
     <tr>
-      <th>27</th>
+      <th>11</th>
       <td>2021-05-13</td>
       <td>Burlingame</td>
-      <td>0</td>
-      <td>0</td>
+      <td>3</td>
+      <td>1</td>
       <td>10</td>
-      <td>-100%</td>
+      <td>-90%</td>
       <td>30576</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>2021-05-13</td>
+      <td>Foster City</td>
+      <td>6</td>
+      <td>2</td>
+      <td>6</td>
+      <td>-67%</td>
+      <td>33997</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>2021-05-13</td>
+      <td>Hillsborough</td>
+      <td>9</td>
+      <td>1</td>
+      <td>1</td>
+      <td>+0%</td>
+      <td>11447</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>2021-05-13</td>
+      <td>Menlo Park</td>
+      <td>9</td>
+      <td>3</td>
+      <td>12</td>
+      <td>-75%</td>
+      <td>34138</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>2021-05-13</td>
+      <td>San Carlos</td>
+      <td>10</td>
+      <td>3</td>
+      <td>2</td>
+      <td>+50%</td>
+      <td>30154</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>2021-05-13</td>
+      <td>Pacifica</td>
+      <td>10</td>
+      <td>4</td>
+      <td>10</td>
+      <td>-60%</td>
+      <td>38984</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>2021-05-13</td>
+      <td>Belmont</td>
+      <td>11</td>
+      <td>3</td>
+      <td>3</td>
+      <td>+0%</td>
+      <td>27097</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>2021-05-13</td>
+      <td>Half Moon Bay</td>
+      <td>16</td>
+      <td>2</td>
+      <td>2</td>
+      <td>+0%</td>
+      <td>12834</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>2021-05-13</td>
+      <td>San Bruno</td>
+      <td>16</td>
+      <td>7</td>
+      <td>9</td>
+      <td>-22%</td>
+      <td>43083</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>2021-05-13</td>
+      <td>Millbrae</td>
+      <td>18</td>
+      <td>4</td>
+      <td>4</td>
+      <td>+0%</td>
+      <td>22625</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>2021-05-13</td>
+      <td>South San Francisco</td>
+      <td>18</td>
+      <td>12</td>
+      <td>15</td>
+      <td>-20%</td>
+      <td>67408</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>2021-05-13</td>
+      <td>Daly City</td>
+      <td>18</td>
+      <td>19</td>
+      <td>34</td>
+      <td>-44%</td>
+      <td>106677</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>2021-05-13</td>
+      <td>Brisbane</td>
+      <td>21</td>
+      <td>1</td>
+      <td>1</td>
+      <td>+0%</td>
+      <td>4697</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>2021-05-13</td>
+      <td>Portola Valley</td>
+      <td>22</td>
+      <td>1</td>
+      <td>1</td>
+      <td>+0%</td>
+      <td>4592</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>2021-05-13</td>
+      <td>San Mateo</td>
+      <td>24</td>
+      <td>25</td>
+      <td>50</td>
+      <td>-50%</td>
+      <td>104333</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>2021-05-13</td>
+      <td>Redwood City</td>
+      <td>33</td>
+      <td>28</td>
+      <td>28</td>
+      <td>+0%</td>
+      <td>85784</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>2021-05-13</td>
+      <td>El Granada</td>
+      <td>33</td>
+      <td>2</td>
+      <td>1</td>
+      <td>+100%</td>
+      <td>6102</td>
     </tr>
     <tr>
       <th>28</th>
       <td>2021-05-13</td>
       <td>Broadmoor</td>
-      <td>0</td>
-      <td>0</td>
+      <td>39</td>
       <td>2</td>
-      <td>-100%</td>
+      <td>2</td>
+      <td>+0%</td>
       <td>5170</td>
     </tr>
     <tr>
       <th>29</th>
       <td>2021-05-13</td>
-      <td>Brisbane</td>
-      <td>0</td>
-      <td>0</td>
+      <td>Montara</td>
+      <td>40</td>
       <td>1</td>
-      <td>-100%</td>
-      <td>4697</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>2504</td>
     </tr>
     <tr>
       <th>30</th>
       <td>2021-05-13</td>
-      <td>Belmont</td>
-      <td>0</td>
-      <td>0</td>
-      <td>3</td>
-      <td>-100%</td>
-      <td>27097</td>
+      <td>East Palo Alto</td>
+      <td>47</td>
+      <td>14</td>
+      <td>17</td>
+      <td>-18%</td>
+      <td>29593</td>
     </tr>
     <tr>
       <th>31</th>
       <td>2021-05-13</td>
       <td>West Menlo Park</td>
-      <td>0</td>
-      <td>0</td>
+      <td>72</td>
+      <td>3</td>
       <td>0</td>
       <td>-99%</td>
       <td>4160</td>
@@ -1323,12 +1323,12 @@
     <tr>
       <th>32</th>
       <td>2021-05-13</td>
-      <td>Woodside</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
-      <td>-100%</td>
-      <td>5542</td>
+      <td>North Fair Oaks</td>
+      <td>77</td>
+      <td>11</td>
+      <td>7</td>
+      <td>+57%</td>
+      <td>14372</td>
     </tr>
   </tbody>
 </table>
@@ -2142,455 +2142,455 @@
   <tbody>
     <tr>
       <th>1</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Los Angeles</td>
-      <td>1851</td>
-      <td>2014</td>
-      <td>-8%</td>
+      <td>1687</td>
+      <td>2031</td>
+      <td>-17%</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>San Diego</td>
-      <td>1304</td>
-      <td>1277</td>
-      <td>+2%</td>
+      <td>1268</td>
+      <td>1363</td>
+      <td>-7%</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Sacramento</td>
-      <td>1125</td>
-      <td>912</td>
-      <td>+23%</td>
+      <td>782</td>
+      <td>1265</td>
+      <td>-38%</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Riverside</td>
-      <td>583</td>
-      <td>610</td>
-      <td>-4%</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>2021-05-12</td>
-      <td>Alameda</td>
-      <td>536</td>
-      <td>538</td>
-      <td>-0%</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>2021-05-12</td>
-      <td>San Bernardino</td>
-      <td>525</td>
-      <td>505</td>
-      <td>+4%</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>2021-05-12</td>
-      <td>Contra Costa</td>
-      <td>462</td>
-      <td>463</td>
-      <td>-0%</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>2021-05-12</td>
-      <td>San Joaquin</td>
-      <td>436</td>
-      <td>439</td>
-      <td>-1%</td>
-    </tr>
-    <tr>
-      <th>9</th>
-      <td>2021-05-12</td>
-      <td>Santa Clara</td>
-      <td>417</td>
-      <td>499</td>
-      <td>-16%</td>
-    </tr>
-    <tr>
-      <th>10</th>
-      <td>2021-05-12</td>
-      <td>Stanislaus</td>
-      <td>407</td>
-      <td>393</td>
-      <td>+4%</td>
-    </tr>
-    <tr>
-      <th>11</th>
-      <td>2021-05-12</td>
-      <td>Fresno</td>
-      <td>341</td>
-      <td>313</td>
+      <td>626</td>
+      <td>573</td>
       <td>+9%</td>
     </tr>
     <tr>
-      <th>12</th>
-      <td>2021-05-12</td>
-      <td>Kern</td>
-      <td>317</td>
+      <th>5</th>
+      <td>2021-05-13</td>
+      <td>San Bernardino</td>
+      <td>515</td>
+      <td>518</td>
+      <td>-1%</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>2021-05-13</td>
+      <td>Alameda</td>
+      <td>472</td>
+      <td>531</td>
+      <td>-11%</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>2021-05-13</td>
+      <td>Tulare</td>
+      <td>470</td>
+      <td>54</td>
+      <td>+770%</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>2021-05-13</td>
+      <td>Contra Costa</td>
+      <td>444</td>
+      <td>479</td>
+      <td>-7%</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>2021-05-13</td>
+      <td>Santa Clara</td>
       <td>366</td>
-      <td>-13%</td>
+      <td>517</td>
+      <td>-29%</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>2021-05-13</td>
+      <td>Stanislaus</td>
+      <td>354</td>
+      <td>485</td>
+      <td>-27%</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>2021-05-13</td>
+      <td>Fresno</td>
+      <td>347</td>
+      <td>330</td>
+      <td>+5%</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>2021-05-13</td>
+      <td>San Joaquin</td>
+      <td>325</td>
+      <td>547</td>
+      <td>-41%</td>
     </tr>
     <tr>
       <th>13</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Orange</td>
-      <td>294</td>
-      <td>426</td>
+      <td>291</td>
+      <td>421</td>
       <td>-31%</td>
     </tr>
     <tr>
       <th>14</th>
-      <td>2021-05-12</td>
-      <td>Placer</td>
-      <td>279</td>
-      <td>235</td>
-      <td>+19%</td>
+      <td>2021-05-13</td>
+      <td>Kern</td>
+      <td>290</td>
+      <td>408</td>
+      <td>-29%</td>
     </tr>
     <tr>
       <th>15</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Solano</td>
-      <td>270</td>
-      <td>276</td>
-      <td>-2%</td>
+      <td>255</td>
+      <td>286</td>
+      <td>-11%</td>
     </tr>
     <tr>
       <th>16</th>
-      <td>2021-05-12</td>
-      <td>Santa Cruz</td>
-      <td>220</td>
-      <td>61</td>
-      <td>+261%</td>
+      <td>2021-05-13</td>
+      <td>Merced</td>
+      <td>203</td>
+      <td>154</td>
+      <td>+32%</td>
     </tr>
     <tr>
       <th>17</th>
-      <td>2021-05-12</td>
-      <td>San Mateo</td>
-      <td>211</td>
-      <td>249</td>
-      <td>-15%</td>
+      <td>2021-05-13</td>
+      <td>Santa Cruz</td>
+      <td>202</td>
+      <td>78</td>
+      <td>+159%</td>
     </tr>
     <tr>
       <th>18</th>
-      <td>2021-05-12</td>
-      <td>Ventura</td>
-      <td>202</td>
+      <td>2021-05-13</td>
+      <td>San Mateo</td>
       <td>200</td>
-      <td>+1%</td>
-    </tr>
-    <tr>
-      <th>19</th>
-      <td>2021-05-12</td>
-      <td>Merced</td>
-      <td>197</td>
-      <td>172</td>
-      <td>+15%</td>
-    </tr>
-    <tr>
-      <th>20</th>
-      <td>2021-05-12</td>
-      <td>San Francisco</td>
-      <td>149</td>
-      <td>190</td>
-      <td>-22%</td>
-    </tr>
-    <tr>
-      <th>21</th>
-      <td>2021-05-12</td>
-      <td>Tulare</td>
-      <td>140</td>
-      <td>4</td>
-      <td>+3400%</td>
-    </tr>
-    <tr>
-      <th>22</th>
-      <td>2021-05-12</td>
-      <td>Shasta</td>
-      <td>139</td>
-      <td>138</td>
-      <td>+1%</td>
-    </tr>
-    <tr>
-      <th>23</th>
-      <td>2021-05-12</td>
-      <td>Butte</td>
-      <td>117</td>
-      <td>137</td>
-      <td>-15%</td>
-    </tr>
-    <tr>
-      <th>24</th>
-      <td>2021-05-12</td>
-      <td>Monterey</td>
-      <td>107</td>
-      <td>84</td>
-      <td>+27%</td>
-    </tr>
-    <tr>
-      <th>25</th>
-      <td>2021-05-12</td>
-      <td>Sonoma</td>
-      <td>105</td>
-      <td>103</td>
-      <td>+2%</td>
-    </tr>
-    <tr>
-      <th>26</th>
-      <td>2021-05-12</td>
-      <td>Humboldt</td>
-      <td>99</td>
-      <td>89</td>
-      <td>+11%</td>
-    </tr>
-    <tr>
-      <th>27</th>
-      <td>2021-05-12</td>
-      <td>El Dorado</td>
-      <td>95</td>
-      <td>144</td>
-      <td>-34%</td>
-    </tr>
-    <tr>
-      <th>28</th>
-      <td>2021-05-12</td>
-      <td>Siskiyou</td>
-      <td>83</td>
-      <td>115</td>
-      <td>-28%</td>
-    </tr>
-    <tr>
-      <th>29</th>
-      <td>2021-05-12</td>
-      <td>Santa Barbara</td>
-      <td>76</td>
-      <td>133</td>
-      <td>-43%</td>
-    </tr>
-    <tr>
-      <th>30</th>
-      <td>2021-05-12</td>
-      <td>Nevada</td>
-      <td>71</td>
-      <td>101</td>
-      <td>-30%</td>
-    </tr>
-    <tr>
-      <th>31</th>
-      <td>2021-05-12</td>
-      <td>Yolo</td>
-      <td>71</td>
-      <td>119</td>
-      <td>-40%</td>
-    </tr>
-    <tr>
-      <th>32</th>
-      <td>2021-05-12</td>
-      <td>San Luis Obispo</td>
-      <td>65</td>
-      <td>79</td>
+      <td>245</td>
       <td>-18%</td>
     </tr>
     <tr>
-      <th>33</th>
-      <td>2021-05-12</td>
-      <td>Kings</td>
-      <td>56</td>
-      <td>74</td>
+      <th>19</th>
+      <td>2021-05-13</td>
+      <td>Ventura</td>
+      <td>189</td>
+      <td>215</td>
+      <td>-12%</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>2021-05-13</td>
+      <td>San Francisco</td>
+      <td>152</td>
+      <td>186</td>
+      <td>-18%</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>2021-05-13</td>
+      <td>Placer</td>
+      <td>147</td>
+      <td>339</td>
+      <td>-57%</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>2021-05-13</td>
+      <td>Butte</td>
+      <td>143</td>
+      <td>115</td>
+      <td>+24%</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>2021-05-13</td>
+      <td>Humboldt</td>
+      <td>131</td>
+      <td>82</td>
+      <td>+60%</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>2021-05-13</td>
+      <td>Shasta</td>
+      <td>110</td>
+      <td>162</td>
+      <td>-32%</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>2021-05-13</td>
+      <td>Santa Barbara</td>
+      <td>87</td>
+      <td>110</td>
+      <td>-21%</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>2021-05-13</td>
+      <td>Sonoma</td>
+      <td>84</td>
+      <td>119</td>
+      <td>-29%</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>2021-05-13</td>
+      <td>Siskiyou</td>
+      <td>80</td>
+      <td>105</td>
       <td>-24%</td>
     </tr>
     <tr>
-      <th>34</th>
-      <td>2021-05-12</td>
-      <td>Yuba</td>
-      <td>55</td>
-      <td>41</td>
-      <td>+34%</td>
+      <th>28</th>
+      <td>2021-05-13</td>
+      <td>Monterey</td>
+      <td>80</td>
+      <td>109</td>
+      <td>-27%</td>
     </tr>
     <tr>
-      <th>35</th>
-      <td>2021-05-12</td>
-      <td>Marin</td>
-      <td>47</td>
-      <td>72</td>
+      <th>29</th>
+      <td>2021-05-13</td>
+      <td>El Dorado</td>
+      <td>69</td>
+      <td>158</td>
+      <td>-56%</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>2021-05-13</td>
+      <td>Nevada</td>
+      <td>65</td>
+      <td>100</td>
       <td>-35%</td>
     </tr>
     <tr>
+      <th>31</th>
+      <td>2021-05-13</td>
+      <td>Yolo</td>
+      <td>63</td>
+      <td>124</td>
+      <td>-49%</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>2021-05-13</td>
+      <td>Yuba</td>
+      <td>60</td>
+      <td>37</td>
+      <td>+62%</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>2021-05-13</td>
+      <td>Kings</td>
+      <td>58</td>
+      <td>71</td>
+      <td>-18%</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>2021-05-13</td>
+      <td>Marin</td>
+      <td>45</td>
+      <td>72</td>
+      <td>-38%</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>2021-05-13</td>
+      <td>Mendocino</td>
+      <td>42</td>
+      <td>35</td>
+      <td>+20%</td>
+    </tr>
+    <tr>
       <th>36</th>
-      <td>2021-05-12</td>
-      <td>Madera</td>
-      <td>41</td>
-      <td>48</td>
-      <td>-15%</td>
+      <td>2021-05-13</td>
+      <td>Napa</td>
+      <td>38</td>
+      <td>55</td>
+      <td>-31%</td>
     </tr>
     <tr>
       <th>37</th>
-      <td>2021-05-12</td>
-      <td>Mendocino</td>
-      <td>38</td>
-      <td>40</td>
-      <td>-5%</td>
+      <td>2021-05-13</td>
+      <td>San Luis Obispo</td>
+      <td>37</td>
+      <td>91</td>
+      <td>-59%</td>
     </tr>
     <tr>
       <th>38</th>
-      <td>2021-05-12</td>
-      <td>Napa</td>
-      <td>36</td>
-      <td>59</td>
-      <td>-39%</td>
+      <td>2021-05-13</td>
+      <td>Madera</td>
+      <td>37</td>
+      <td>49</td>
+      <td>-24%</td>
     </tr>
     <tr>
       <th>39</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Sutter</td>
-      <td>35</td>
-      <td>42</td>
+      <td>34</td>
+      <td>41</td>
       <td>-17%</td>
     </tr>
     <tr>
       <th>40</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Del Norte</td>
-      <td>30</td>
-      <td>53</td>
-      <td>-43%</td>
+      <td>28</td>
+      <td>52</td>
+      <td>-46%</td>
     </tr>
     <tr>
       <th>41</th>
-      <td>2021-05-12</td>
-      <td>Tehama</td>
-      <td>27</td>
-      <td>38</td>
-      <td>-29%</td>
+      <td>2021-05-13</td>
+      <td>San Benito</td>
+      <td>20</td>
+      <td>33</td>
+      <td>-39%</td>
     </tr>
     <tr>
       <th>42</th>
-      <td>2021-05-12</td>
-      <td>San Benito</td>
-      <td>23</td>
-      <td>30</td>
-      <td>-23%</td>
+      <td>2021-05-13</td>
+      <td>Tehama</td>
+      <td>19</td>
+      <td>46</td>
+      <td>-59%</td>
     </tr>
     <tr>
       <th>43</th>
-      <td>2021-05-12</td>
-      <td>Calaveras</td>
-      <td>18</td>
-      <td>25</td>
-      <td>-28%</td>
-    </tr>
-    <tr>
-      <th>44</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Lake</td>
       <td>18</td>
       <td>24</td>
       <td>-25%</td>
     </tr>
     <tr>
+      <th>44</th>
+      <td>2021-05-13</td>
+      <td>Imperial</td>
+      <td>17</td>
+      <td>62</td>
+      <td>-73%</td>
+    </tr>
+    <tr>
       <th>45</th>
-      <td>2021-05-12</td>
-      <td>Tuolumne</td>
-      <td>16</td>
-      <td>12</td>
-      <td>+33%</td>
+      <td>2021-05-13</td>
+      <td>Calaveras</td>
+      <td>14</td>
+      <td>26</td>
+      <td>-46%</td>
     </tr>
     <tr>
       <th>46</th>
-      <td>2021-05-12</td>
-      <td>Imperial</td>
+      <td>2021-05-13</td>
+      <td>Glenn</td>
       <td>14</td>
-      <td>53</td>
-      <td>-74%</td>
+      <td>9</td>
+      <td>+56%</td>
     </tr>
     <tr>
       <th>47</th>
-      <td>2021-05-12</td>
-      <td>Glenn</td>
-      <td>13</td>
-      <td>7</td>
-      <td>+86%</td>
+      <td>2021-05-13</td>
+      <td>Plumas</td>
+      <td>12</td>
+      <td>3</td>
+      <td>+300%</td>
     </tr>
     <tr>
       <th>48</th>
-      <td>2021-05-12</td>
-      <td>Colusa</td>
-      <td>10</td>
-      <td>8</td>
-      <td>+25%</td>
+      <td>2021-05-13</td>
+      <td>Tuolumne</td>
+      <td>12</td>
+      <td>18</td>
+      <td>-33%</td>
     </tr>
     <tr>
       <th>49</th>
-      <td>2021-05-12</td>
-      <td>Amador</td>
-      <td>6</td>
-      <td>3</td>
-      <td>+100%</td>
-    </tr>
-    <tr>
-      <th>50</th>
-      <td>2021-05-12</td>
-      <td>Plumas</td>
-      <td>6</td>
-      <td>4</td>
-      <td>+50%</td>
-    </tr>
-    <tr>
-      <th>51</th>
-      <td>2021-05-12</td>
-      <td>Mono</td>
-      <td>5</td>
-      <td>3</td>
-      <td>+67%</td>
-    </tr>
-    <tr>
-      <th>52</th>
-      <td>2021-05-12</td>
-      <td>Modoc</td>
-      <td>5</td>
-      <td>1</td>
-      <td>+400%</td>
-    </tr>
-    <tr>
-      <th>53</th>
-      <td>2021-05-12</td>
-      <td>Lassen</td>
-      <td>5</td>
-      <td>5</td>
+      <td>2021-05-13</td>
+      <td>Colusa</td>
+      <td>8</td>
+      <td>8</td>
       <td>+0%</td>
     </tr>
     <tr>
+      <th>50</th>
+      <td>2021-05-13</td>
+      <td>Amador</td>
+      <td>6</td>
+      <td>2</td>
+      <td>+200%</td>
+    </tr>
+    <tr>
+      <th>51</th>
+      <td>2021-05-13</td>
+      <td>Modoc</td>
+      <td>6</td>
+      <td>2</td>
+      <td>+200%</td>
+    </tr>
+    <tr>
+      <th>52</th>
+      <td>2021-05-13</td>
+      <td>Lassen</td>
+      <td>4</td>
+      <td>6</td>
+      <td>-33%</td>
+    </tr>
+    <tr>
+      <th>53</th>
+      <td>2021-05-13</td>
+      <td>Mono</td>
+      <td>4</td>
+      <td>3</td>
+      <td>+33%</td>
+    </tr>
+    <tr>
       <th>54</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
+      <td>Inyo</td>
+      <td>3</td>
+      <td>3</td>
+      <td>+0%</td>
+    </tr>
+    <tr>
+      <th>55</th>
+      <td>2021-05-13</td>
+      <td>Trinity</td>
+      <td>3</td>
+      <td>1</td>
+      <td>+200%</td>
+    </tr>
+    <tr>
+      <th>56</th>
+      <td>2021-05-13</td>
       <td>Mariposa</td>
       <td>3</td>
       <td>4</td>
       <td>-25%</td>
     </tr>
     <tr>
-      <th>55</th>
-      <td>2021-05-12</td>
-      <td>Inyo</td>
-      <td>3</td>
-      <td>4</td>
-      <td>-25%</td>
-    </tr>
-    <tr>
-      <th>56</th>
-      <td>2021-05-12</td>
-      <td>Trinity</td>
-      <td>1</td>
-      <td>1</td>
-      <td>+0%</td>
-    </tr>
-    <tr>
       <th>57</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Alpine</td>
       <td>0</td>
       <td>0</td>
@@ -2598,7 +2598,7 @@
     </tr>
     <tr>
       <th>58</th>
-      <td>2021-05-12</td>
+      <td>2021-05-13</td>
       <td>Sierra</td>
       <td>0</td>
       <td>2</td>
@@ -2621,204 +2621,204 @@
   </thead>
   <tbody>
     <tr>
-      <th>107</th>
-      <td>05-12-2021</td>
+      <th>106</th>
+      <td>05-13-2021</td>
       <td>Lithuania</td>
-      <td>310</td>
-      <td>8429</td>
-      <td>8144</td>
-      <td>+3%</td>
+      <td>303</td>
+      <td>8244</td>
+      <td>8195</td>
+      <td>+1%</td>
       <td>2722291</td>
     </tr>
     <tr>
+      <th>107</th>
+      <td>05-13-2021</td>
+      <td>Noord-Brabant, Netherlands</td>
+      <td>322</td>
+      <td>8253</td>
+      <td>9063</td>
+      <td>-9%</td>
+      <td>2562955</td>
+    </tr>
+    <tr>
       <th>108</th>
-      <td>05-12-2021</td>
-      <td>Rio Grande do Norte, Brazil</td>
-      <td>312</td>
-      <td>10948</td>
-      <td>6411</td>
-      <td>+71%</td>
-      <td>3506853</td>
+      <td>05-13-2021</td>
+      <td>Haryana, India</td>
+      <td>323</td>
+      <td>91213</td>
+      <td>99670</td>
+      <td>-8%</td>
+      <td>28204692</td>
     </tr>
     <tr>
       <th>109</th>
-      <td>05-12-2021</td>
+      <td>05-13-2021</td>
       <td>Argentina</td>
-      <td>319</td>
-      <td>144076</td>
-      <td>142606</td>
-      <td>+1%</td>
+      <td>324</td>
+      <td>146521</td>
+      <td>140639</td>
+      <td>+4%</td>
       <td>45195777</td>
     </tr>
     <tr>
       <th>110</th>
-      <td>05-12-2021</td>
+      <td>05-13-2021</td>
       <td>Costa Rica</td>
-      <td>321</td>
-      <td>16352</td>
-      <td>14934</td>
-      <td>+9%</td>
+      <td>330</td>
+      <td>16832</td>
+      <td>14712</td>
+      <td>+14%</td>
       <td>5094114</td>
     </tr>
     <tr>
       <th>111</th>
-      <td>05-12-2021</td>
-      <td>Haryana, India</td>
-      <td>332</td>
-      <td>93767</td>
-      <td>98777</td>
-      <td>-5%</td>
-      <td>28204692</td>
+      <td>05-13-2021</td>
+      <td>Rio Grande do Norte, Brazil</td>
+      <td>348</td>
+      <td>12192</td>
+      <td>6209</td>
+      <td>+96%</td>
+      <td>3506853</td>
     </tr>
     <tr>
       <th>112</th>
-      <td>05-12-2021</td>
-      <td>Noord-Brabant, Netherlands</td>
-      <td>334</td>
-      <td>8552</td>
-      <td>9125</td>
-      <td>-6%</td>
-      <td>2562955</td>
-    </tr>
-    <tr>
-      <th>113</th>
-      <td>05-12-2021</td>
+      <td>05-13-2021</td>
       <td>Ceara, Brazil</td>
-      <td>370</td>
-      <td>33745</td>
-      <td>28851</td>
-      <td>+17%</td>
+      <td>361</td>
+      <td>32961</td>
+      <td>30032</td>
+      <td>+10%</td>
       <td>9132078</td>
     </tr>
     <tr>
-      <th>114</th>
-      <td>05-12-2021</td>
+      <th>113</th>
+      <td>05-13-2021</td>
       <td>Atlantico, Colombia</td>
-      <td>409</td>
-      <td>10361</td>
-      <td>11918</td>
-      <td>-13%</td>
+      <td>379</td>
+      <td>9622</td>
+      <td>11488</td>
+      <td>-16%</td>
       <td>2535517</td>
     </tr>
     <tr>
-      <th>115</th>
-      <td>05-12-2021</td>
+      <th>114</th>
+      <td>05-13-2021</td>
       <td>Himachal Pradesh, India</td>
-      <td>415</td>
-      <td>30949</td>
-      <td>20898</td>
-      <td>+48%</td>
+      <td>429</td>
+      <td>31944</td>
+      <td>21800</td>
+      <td>+47%</td>
       <td>7451955</td>
     </tr>
     <tr>
-      <th>116</th>
-      <td>05-12-2021</td>
+      <th>115</th>
+      <td>05-13-2021</td>
       <td>Karnataka, India</td>
-      <td>462</td>
-      <td>312145</td>
-      <td>301224</td>
-      <td>+4%</td>
+      <td>442</td>
+      <td>298384</td>
+      <td>315258</td>
+      <td>-5%</td>
       <td>67562686</td>
     </tr>
     <tr>
-      <th>117</th>
-      <td>05-12-2021</td>
+      <th>116</th>
+      <td>05-13-2021</td>
       <td>Uttarakhand, India</td>
-      <td>470</td>
-      <td>52849</td>
-      <td>43218</td>
-      <td>+22%</td>
+      <td>457</td>
+      <td>51459</td>
+      <td>45484</td>
+      <td>+13%</td>
       <td>11250858</td>
     </tr>
     <tr>
+      <th>117</th>
+      <td>05-13-2021</td>
+      <td>Chandigarh, India</td>
+      <td>504</td>
+      <td>5841</td>
+      <td>5629</td>
+      <td>+4%</td>
+      <td>1158473</td>
+    </tr>
+    <tr>
       <th>118</th>
-      <td>05-12-2021</td>
+      <td>05-13-2021</td>
       <td>Capital District, Colombia</td>
-      <td>477</td>
-      <td>35370</td>
-      <td>30444</td>
-      <td>+16%</td>
+      <td>518</td>
+      <td>38373</td>
+      <td>31202</td>
+      <td>+23%</td>
       <td>7412566</td>
     </tr>
     <tr>
       <th>119</th>
-      <td>05-12-2021</td>
-      <td>Chandigarh, India</td>
-      <td>504</td>
-      <td>5840</td>
-      <td>5671</td>
-      <td>+3%</td>
-      <td>1158473</td>
-    </tr>
-    <tr>
-      <th>120</th>
-      <td>05-12-2021</td>
+      <td>05-13-2021</td>
       <td>Uruguay</td>
-      <td>525</td>
-      <td>18235</td>
-      <td>16840</td>
-      <td>+8%</td>
+      <td>531</td>
+      <td>18452</td>
+      <td>17715</td>
+      <td>+4%</td>
       <td>3473727</td>
     </tr>
     <tr>
-      <th>121</th>
-      <td>05-12-2021</td>
+      <th>120</th>
+      <td>05-13-2021</td>
       <td>Delhi, India</td>
-      <td>578</td>
-      <td>108084</td>
-      <td>155851</td>
-      <td>-31%</td>
+      <td>531</td>
+      <td>99440</td>
+      <td>150749</td>
+      <td>-34%</td>
       <td>18710922</td>
     </tr>
     <tr>
-      <th>122</th>
-      <td>05-12-2021</td>
+      <th>121</th>
+      <td>05-13-2021</td>
       <td>Bahrain</td>
-      <td>644</td>
-      <td>10959</td>
-      <td>8671</td>
-      <td>+26%</td>
+      <td>670</td>
+      <td>11408</td>
+      <td>8945</td>
+      <td>+28%</td>
       <td>1701583</td>
     </tr>
     <tr>
-      <th>123</th>
-      <td>05-12-2021</td>
+      <th>122</th>
+      <td>05-13-2021</td>
       <td>Kerala, India</td>
-      <td>748</td>
-      <td>267002</td>
-      <td>248555</td>
-      <td>+7%</td>
+      <td>741</td>
+      <td>264493</td>
+      <td>252412</td>
+      <td>+5%</td>
       <td>35699443</td>
     </tr>
     <tr>
-      <th>124</th>
-      <td>05-12-2021</td>
+      <th>123</th>
+      <td>05-13-2021</td>
       <td>Puducherry, India</td>
-      <td>843</td>
-      <td>11914</td>
-      <td>8812</td>
-      <td>+35%</td>
+      <td>873</td>
+      <td>12346</td>
+      <td>9200</td>
+      <td>+34%</td>
       <td>1413542</td>
     </tr>
     <tr>
-      <th>125</th>
-      <td>05-12-2021</td>
-      <td>Maldives</td>
-      <td>1374</td>
-      <td>7427</td>
-      <td>3613</td>
-      <td>+106%</td>
-      <td>540542</td>
+      <th>124</th>
+      <td>05-13-2021</td>
+      <td>Goa, India</td>
+      <td>1378</td>
+      <td>21863</td>
+      <td>20239</td>
+      <td>+8%</td>
+      <td>1586250</td>
     </tr>
     <tr>
-      <th>126</th>
-      <td>05-12-2021</td>
-      <td>Goa, India</td>
-      <td>1465</td>
-      <td>23241</td>
-      <td>19389</td>
-      <td>+20%</td>
-      <td>1586250</td>
+      <th>125</th>
+      <td>05-13-2021</td>
+      <td>Maldives</td>
+      <td>1469</td>
+      <td>7940</td>
+      <td>3998</td>
+      <td>+99%</td>
+      <td>540542</td>
     </tr>
   </tbody>
 </table>
@@ -2837,203 +2837,203 @@
   </thead>
   <tbody>
     <tr>
+      <th>28</th>
+      <td>05-13-2021</td>
+      <td>Espirito Santo, Brazil</td>
+      <td>261</td>
+      <td>10494</td>
+      <td>10028</td>
+      <td>105</td>
+      <td>4018650</td>
+    </tr>
+    <tr>
       <th>29</th>
-      <td>05-12-2021</td>
-      <td>Uruguay</td>
-      <td>525</td>
-      <td>18235</td>
-      <td>16840</td>
-      <td>108</td>
-      <td>3473727</td>
+      <td>05-13-2021</td>
+      <td>Kerala, India</td>
+      <td>741</td>
+      <td>264493</td>
+      <td>252412</td>
+      <td>105</td>
+      <td>35699443</td>
     </tr>
     <tr>
       <th>30</th>
-      <td>05-12-2021</td>
-      <td>Cundinamarca, Colombia</td>
-      <td>237</td>
-      <td>6910</td>
-      <td>6340</td>
-      <td>109</td>
-      <td>2919060</td>
-    </tr>
-    <tr>
-      <th>31</th>
-      <td>05-12-2021</td>
-      <td>Costa Rica</td>
-      <td>321</td>
-      <td>16352</td>
-      <td>14934</td>
-      <td>109</td>
-      <td>5094114</td>
-    </tr>
-    <tr>
-      <th>32</th>
-      <td>05-12-2021</td>
-      <td>Piaui, Brazil</td>
-      <td>245</td>
-      <td>8028</td>
-      <td>7315</td>
-      <td>110</td>
-      <td>3273227</td>
-    </tr>
-    <tr>
-      <th>33</th>
-      <td>05-12-2021</td>
-      <td>Georgia</td>
-      <td>244</td>
-      <td>9752</td>
-      <td>8512</td>
-      <td>115</td>
-      <td>3989175</td>
-    </tr>
-    <tr>
-      <th>34</th>
-      <td>05-12-2021</td>
-      <td>Parana, Brazil</td>
-      <td>277</td>
-      <td>31696</td>
-      <td>27403</td>
-      <td>116</td>
-      <td>11433957</td>
-    </tr>
-    <tr>
-      <th>35</th>
-      <td>05-12-2021</td>
-      <td>Capital District, Colombia</td>
-      <td>477</td>
-      <td>35370</td>
-      <td>30444</td>
-      <td>116</td>
-      <td>7412566</td>
-    </tr>
-    <tr>
-      <th>36</th>
-      <td>05-12-2021</td>
-      <td>Ceara, Brazil</td>
-      <td>370</td>
-      <td>33745</td>
-      <td>28851</td>
-      <td>117</td>
-      <td>9132078</td>
-    </tr>
-    <tr>
-      <th>37</th>
-      <td>05-12-2021</td>
-      <td>Jammu and Kashmir, India</td>
-      <td>241</td>
-      <td>32822</td>
-      <td>27508</td>
-      <td>119</td>
-      <td>13606320</td>
-    </tr>
-    <tr>
-      <th>38</th>
-      <td>05-12-2021</td>
+      <td>05-13-2021</td>
       <td>Goa, India</td>
-      <td>1465</td>
-      <td>23241</td>
-      <td>19389</td>
-      <td>120</td>
+      <td>1378</td>
+      <td>21863</td>
+      <td>20239</td>
+      <td>108</td>
       <td>1586250</td>
     </tr>
     <tr>
-      <th>39</th>
-      <td>05-12-2021</td>
+      <th>31</th>
+      <td>05-13-2021</td>
+      <td>Paraguay</td>
+      <td>223</td>
+      <td>15917</td>
+      <td>14675</td>
+      <td>108</td>
+      <td>7132530</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>05-13-2021</td>
+      <td>Ceara, Brazil</td>
+      <td>361</td>
+      <td>32961</td>
+      <td>30032</td>
+      <td>110</td>
+      <td>9132078</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>05-13-2021</td>
+      <td>Jammu and Kashmir, India</td>
+      <td>237</td>
+      <td>32252</td>
+      <td>28960</td>
+      <td>111</td>
+      <td>13606320</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>05-13-2021</td>
       <td>Uttarakhand, India</td>
-      <td>470</td>
-      <td>52849</td>
-      <td>43218</td>
-      <td>122</td>
+      <td>457</td>
+      <td>51459</td>
+      <td>45484</td>
+      <td>113</td>
       <td>11250858</td>
     </tr>
     <tr>
-      <th>40</th>
-      <td>05-12-2021</td>
+      <th>35</th>
+      <td>05-13-2021</td>
+      <td>Parana, Brazil</td>
+      <td>277</td>
+      <td>31720</td>
+      <td>27937</td>
+      <td>114</td>
+      <td>11433957</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>05-13-2021</td>
+      <td>Costa Rica</td>
+      <td>330</td>
+      <td>16832</td>
+      <td>14712</td>
+      <td>114</td>
+      <td>5094114</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>05-13-2021</td>
       <td>Mato Grosso do Sul, Brazil</td>
-      <td>273</td>
-      <td>7599</td>
-      <td>6123</td>
-      <td>124</td>
+      <td>274</td>
+      <td>7610</td>
+      <td>6364</td>
+      <td>120</td>
       <td>2778986</td>
     </tr>
     <tr>
-      <th>41</th>
-      <td>05-12-2021</td>
-      <td>Bahrain</td>
-      <td>644</td>
-      <td>10959</td>
-      <td>8671</td>
-      <td>126</td>
-      <td>1701583</td>
+      <th>38</th>
+      <td>05-13-2021</td>
+      <td>Cundinamarca, Colombia</td>
+      <td>250</td>
+      <td>7284</td>
+      <td>6072</td>
+      <td>120</td>
+      <td>2919060</td>
     </tr>
     <tr>
-      <th>42</th>
-      <td>05-12-2021</td>
-      <td>Rio de Janeiro, Brazil</td>
-      <td>207</td>
-      <td>35817</td>
-      <td>27452</td>
-      <td>130</td>
-      <td>17264943</td>
-    </tr>
-    <tr>
-      <th>43</th>
-      <td>05-12-2021</td>
+      <th>39</th>
+      <td>05-13-2021</td>
       <td>Nepal</td>
       <td>215</td>
-      <td>62739</td>
-      <td>46911</td>
-      <td>134</td>
+      <td>62611</td>
+      <td>51050</td>
+      <td>123</td>
       <td>29136808</td>
     </tr>
     <tr>
-      <th>44</th>
-      <td>05-12-2021</td>
+      <th>40</th>
+      <td>05-13-2021</td>
+      <td>Capital District, Colombia</td>
+      <td>518</td>
+      <td>38373</td>
+      <td>31202</td>
+      <td>123</td>
+      <td>7412566</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>05-13-2021</td>
+      <td>Santander, Colombia</td>
+      <td>258</td>
+      <td>5636</td>
+      <td>4450</td>
+      <td>127</td>
+      <td>2184837</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>05-13-2021</td>
+      <td>Bahrain</td>
+      <td>670</td>
+      <td>11408</td>
+      <td>8945</td>
+      <td>128</td>
+      <td>1701583</td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td>05-13-2021</td>
       <td>Puducherry, India</td>
-      <td>843</td>
-      <td>11914</td>
-      <td>8812</td>
-      <td>135</td>
+      <td>873</td>
+      <td>12346</td>
+      <td>9200</td>
+      <td>134</td>
       <td>1413542</td>
     </tr>
     <tr>
-      <th>45</th>
-      <td>05-12-2021</td>
+      <th>44</th>
+      <td>05-13-2021</td>
       <td>Tamil Nadu, India</td>
-      <td>252</td>
-      <td>196262</td>
-      <td>142435</td>
-      <td>138</td>
+      <td>259</td>
+      <td>201985</td>
+      <td>149436</td>
+      <td>135</td>
       <td>77841267</td>
     </tr>
     <tr>
-      <th>46</th>
-      <td>05-12-2021</td>
+      <th>45</th>
+      <td>05-13-2021</td>
       <td>Himachal Pradesh, India</td>
-      <td>415</td>
-      <td>30949</td>
-      <td>20898</td>
-      <td>148</td>
+      <td>429</td>
+      <td>31944</td>
+      <td>21800</td>
+      <td>147</td>
       <td>7451955</td>
     </tr>
     <tr>
-      <th>47</th>
-      <td>05-12-2021</td>
+      <th>46</th>
+      <td>05-13-2021</td>
       <td>Rio Grande do Norte, Brazil</td>
-      <td>312</td>
-      <td>10948</td>
-      <td>6411</td>
-      <td>171</td>
+      <td>348</td>
+      <td>12192</td>
+      <td>6209</td>
+      <td>196</td>
       <td>3506853</td>
     </tr>
     <tr>
-      <th>48</th>
-      <td>05-12-2021</td>
+      <th>47</th>
+      <td>05-13-2021</td>
       <td>Maldives</td>
-      <td>1374</td>
-      <td>7427</td>
-      <td>3613</td>
-      <td>206</td>
+      <td>1469</td>
+      <td>7940</td>
+      <td>3998</td>
+      <td>199</td>
       <td>540542</td>
     </tr>
   </tbody>
