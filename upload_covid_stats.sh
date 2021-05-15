@@ -1,15 +1,8 @@
 #!/bin/bash
 
-csplit -f table /Users/justinleung/github/kjieldsen.github.io/covid_datatables.html "/<table /" {6}
-
-cat table_css.html table00 > table00.html
-cat table_css.html table01 > table01.html
-cat table_css.html table02 > table02.html
-cat table_css.html table03 > table03.html
-cat table_css.html table04 > table04.html
-cat table_css.html table05 > table05.html
-cat table_css.html table06 > table06.html
-cat table_css.html table07 > table07.html
+#csplit -f table /Users/justinleung/github/kjieldsen.github.io/covid_datatables.html "/<table /" {6}
+#cat table_css.html table00 > table00.html
+#cat table_css.html table01 > table01.html
 
 for f in *_covid_table.html 
 do
