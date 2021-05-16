@@ -1,0 +1,572 @@
+<style>
+table {
+border-spacing: 0.1rem
+table-layout:fixed;
+}
+th.from, th.date {
+  width: 15%;
+}
+th.subject{
+  width: 70%;
+}
+td, th {
+  border: 1px solid #999;
+  text-align: center;
+}
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>date</th>
+      <th>name</th>
+      <th>recent_wk_cases_per_100k</th>
+      <th>recent_wk_cases</th>
+      <th>previous_wk_cases</th>
+      <th>trend</th>
+      <th>population</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>2021-05-15</td>
+      <td>Bolinas-Muir Beach-Stinson Beach</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>2010</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1212.00: Corte Madera</td>
+      <td>0</td>
+      <td>0</td>
+      <td>5</td>
+      <td>-100%</td>
+      <td>6414</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>2021-05-15</td>
+      <td>Nicasio-Lagunitas-Forest Knolls</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>-100%</td>
+      <td>1842</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1122.02: San Rafael: Canal</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>-100%</td>
+      <td>4771</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1250.00: Strawberry</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>-100%</td>
+      <td>4177</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1261.00: Mill Valley</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>6195</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1102.00: San Rafael: Bayside Acres; Point San Pedro</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>5016</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1101.00: San Rafael: Country Club</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>-100%</td>
+      <td>5903</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1090.02: San Rafael: Sun Valley</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>3851</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1270.00: Mill Valley</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>4583</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1181.00: Ross</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>2290</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1081.00: San Rafael</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>-100%</td>
+      <td>6543</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1070.00: Lucas Valley; Lucas Valley Environs; Marinwood</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>6803</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1282.00: Almonte; Homestead; Muir Woods Park</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>-100%</td>
+      <td>4957</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1050.00: Novato</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>-100%</td>
+      <td>7077</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1043.00: Bel Marin Keys</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>1653</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1042.00: Novato: Loma Verde</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>-100%</td>
+      <td>5894</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1191.00: Kentfield</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>4983</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1041.01: Novato</td>
+      <td>0</td>
+      <td>0</td>
+      <td>2</td>
+      <td>-100%</td>
+      <td>8039</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1032.00: Novato</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>-100%</td>
+      <td>7290</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1302.01: Sausalito: Waldo Point</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>3232</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1192.01: Larkspur; Kentfield</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>-100%</td>
+      <td>3601</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1302.02: Sausalito: Waldo Point</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>-100%</td>
+      <td>4377</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1021.00: Novato</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>2421</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1012.00: Novato</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>-100%</td>
+      <td>3015</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>2021-05-15</td>
+      <td>Dillon Beach-Inverness-Point Reyes Station-Tomales</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>-100%</td>
+      <td>1830</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1290.00: Marin City</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>2939</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1241.00: Tiburon; Strawberry</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>5889</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1122.01: San Rafael: Canal</td>
+      <td>12</td>
+      <td>1</td>
+      <td>1</td>
+      <td>+0%</td>
+      <td>8175</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1150.00: San Anselmo; Sleepy Hollow</td>
+      <td>13</td>
+      <td>1</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>7528</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1281.00: Tamalpais Valley; Homestead Valley</td>
+      <td>14</td>
+      <td>1</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>6911</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1200.00: Larkspur</td>
+      <td>17</td>
+      <td>1</td>
+      <td>2</td>
+      <td>-50%</td>
+      <td>5857</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1022.03: Novato</td>
+      <td>17</td>
+      <td>1</td>
+      <td>2</td>
+      <td>-50%</td>
+      <td>5761</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1041.02: Novato</td>
+      <td>17</td>
+      <td>1</td>
+      <td>2</td>
+      <td>-50%</td>
+      <td>5760</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1242.00: Tiburon</td>
+      <td>17</td>
+      <td>1</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>5716</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1211.00: Corte Madera</td>
+      <td>18</td>
+      <td>1</td>
+      <td>2</td>
+      <td>-50%</td>
+      <td>5453</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1141.00: Fairfax; Unincorporated Marin</td>
+      <td>19</td>
+      <td>1</td>
+      <td>3</td>
+      <td>-67%</td>
+      <td>5206</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1262.00: Mill Valley</td>
+      <td>24</td>
+      <td>1</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>4224</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1170.00: San Anselmo</td>
+      <td>24</td>
+      <td>1</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>4212</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1192.02: Larkspur; Kentfield</td>
+      <td>28</td>
+      <td>1</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>3546</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1142.00: Fairfax; Unincorporated Fairfax</td>
+      <td>31</td>
+      <td>1</td>
+      <td>1</td>
+      <td>+0%</td>
+      <td>3242</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1160.00: San Anselmo</td>
+      <td>32</td>
+      <td>1</td>
+      <td>3</td>
+      <td>-67%</td>
+      <td>3154</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1011.00: Novato: Black Point; North Novato</td>
+      <td>37</td>
+      <td>1</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>2677</td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1082.00: San Rafael: Los Ranchitos</td>
+      <td>43</td>
+      <td>3</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>6901</td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1060.01: San Rafael; Unincorporated Marin</td>
+      <td>44</td>
+      <td>2</td>
+      <td>1</td>
+      <td>+100%</td>
+      <td>4582</td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1121.00: San Rafael: California Park</td>
+      <td>44</td>
+      <td>2</td>
+      <td>3</td>
+      <td>-33%</td>
+      <td>4512</td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1090.01: San Rafael: Sun Valley</td>
+      <td>47</td>
+      <td>2</td>
+      <td>2</td>
+      <td>+0%</td>
+      <td>4280</td>
+    </tr>
+    <tr>
+      <th>47</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1230.00: Belvedere</td>
+      <td>47</td>
+      <td>1</td>
+      <td>0</td>
+      <td>-99%</td>
+      <td>2124</td>
+    </tr>
+    <tr>
+      <th>48</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1031.00: Novato: Indian Valley</td>
+      <td>51</td>
+      <td>4</td>
+      <td>3</td>
+      <td>+33%</td>
+      <td>7887</td>
+    </tr>
+    <tr>
+      <th>49</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1110.00: San Rafael</td>
+      <td>58</td>
+      <td>3</td>
+      <td>2</td>
+      <td>+50%</td>
+      <td>5204</td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td>2021-05-15</td>
+      <td>San Geronimo-Woodacre</td>
+      <td>64</td>
+      <td>1</td>
+      <td>3</td>
+      <td>-67%</td>
+      <td>1570</td>
+    </tr>
+    <tr>
+      <th>51</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1022.02: Novato</td>
+      <td>65</td>
+      <td>4</td>
+      <td>7</td>
+      <td>-43%</td>
+      <td>6142</td>
+    </tr>
+    <tr>
+      <th>52</th>
+      <td>2021-05-15</td>
+      <td>Census Tract 1060.02: San Rafael: Santa Venetia</td>
+      <td>71</td>
+      <td>4</td>
+      <td>2</td>
+      <td>+100%</td>
+      <td>5598</td>
+    </tr>
+    <tr>
+      <th>53</th>
+      <td>2021-05-15</td>
+      <td>Marin County Totals</td>
+      <td>16</td>
+      <td>41</td>
+      <td>70</td>
+      <td>-41%</td>
+      <td>253817</td>
+    </tr>
+  </tbody>
+</table>
